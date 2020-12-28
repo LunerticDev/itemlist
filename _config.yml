@@ -24,10 +24,10 @@ description: >-
   An expanded item list for TwitchToolkit that supports ToolkitUtils' shop.
 
 email: ''
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'artaficialAI'
+github_username: ''
 
 remote_theme: SirRandoo/Type-on-Strap
 
