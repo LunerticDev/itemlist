@@ -454,12 +454,6 @@
     "name": "EdB Prepare Carefully"
   },
   {
-    "author": "Saakra",
-    "name": "Empire",
-    "steamId": "2006535182",
-    "version": "0.354"
-  },
-  {
     "author": "Uuugggg",
     "name": "Everybody Gets One",
     "steamId": "1687566130",
@@ -635,7 +629,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.4.9"
+    "version": "2.5.11"
   },
   {
     "author": "Linq",
@@ -823,7 +817,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7662.509"
+    "version": "1.0.7671.11675"
   },
   {
     "author": "Hatti",
@@ -991,6 +985,34 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.2.4"
+    "version": "5.0.3.1"
+  },
+  {
+    "author": "sellophane",
+    "name": "Stockpile Stack Limit (Continued)"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Power Switch",
+    "steamId": "728314859",
+    "version": "1.3.0.0"
+  },
+  {
+    "author": "GeodesicDragon",
+    "name": "Reverse Engineered Mechanoid Shields"
+  },
+  {
+    "author": "JisPichi",
+    "name": "Perfect Pathfinding",
+    "steamId": "2341486509",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Drones"
+  },
+  {
+    "author": "Daemon976",
+    "name": "PRF-More Machines"
   }
 ]
