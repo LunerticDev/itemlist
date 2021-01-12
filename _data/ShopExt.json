@@ -3,8 +3,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Abrasive",
       "degree": 0,
       "name": "abrasive",
@@ -22,8 +22,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_AbsentMinded",
       "degree": 0,
       "name": "absent-minded",
@@ -53,8 +53,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Academian",
       "degree": 0,
       "name": "academian",
@@ -80,8 +80,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_AnimalHater",
       "degree": 0,
       "name": "animalhater",
@@ -105,8 +105,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_AnimalLover",
       "degree": 0,
       "name": "animallover",
@@ -128,8 +128,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "AnnoyingVoice",
       "degree": 0,
       "name": "annoyingvoice",
@@ -147,8 +147,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Anxious",
       "degree": 0,
       "name": "anxious",
@@ -174,8 +174,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Ascetic",
       "degree": 0,
       "name": "ascetic",
@@ -207,8 +207,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Asexual",
       "degree": 0,
       "name": "asexual",
@@ -226,8 +226,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Beauty",
       "degree": 2,
       "name": "beautiful",
@@ -249,8 +249,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_BigBoned",
       "degree": 0,
       "name": "big-boned",
@@ -268,8 +268,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Bisexual",
       "degree": 0,
       "name": "bisexual",
@@ -287,8 +287,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "BleedingHeart",
       "degree": 0,
       "name": "bleedingheart",
@@ -316,8 +316,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Bloodlust",
       "degree": 0,
       "name": "bloodlust",
@@ -339,8 +339,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "BodyPurist",
       "degree": 0,
       "name": "bodypurist",
@@ -362,31 +362,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "defName": "Bravery",
-      "degree": 1,
-      "name": "brave",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-50% suppressability"
-        ]
-      },
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.\n(Combat Extended)",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Brave",
       "degree": 0,
       "name": "brave",
@@ -416,8 +393,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Brawler",
       "degree": 0,
       "name": "brawler",
@@ -433,9 +410,7 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance",
-          "+25% melee critical chance",
-          "+25% melee parry chance"
+          "+4.0 melee hit chance"
         ]
       },
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
@@ -443,9 +418,7 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance",
-        "+25% melee critical chance",
-        "+25% melee parry chance"
+        "+4.0 melee hit chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -457,8 +430,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Cannibal",
       "degree": 0,
       "name": "cannibal",
@@ -480,8 +453,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "ShootingAccuracy",
       "degree": 1,
       "name": "carefulshooter",
@@ -493,13 +466,13 @@
         "customName": false,
         "stats": [
           "+25% aiming time",
-          "x150% weapon handling"
+          "+5.0 shooting accuracy"
         ]
       },
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "x150% weapon handling"
+        "+5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -509,8 +482,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_CatPerson",
       "degree": 0,
       "name": "catperson",
@@ -532,8 +505,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Chatty",
       "degree": 0,
       "name": "chatty",
@@ -551,8 +524,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "DrugDesire",
       "degree": 2,
       "name": "chemicalfascination",
@@ -570,8 +543,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "DrugDesire",
       "degree": 1,
       "name": "chemicalinterest",
@@ -589,8 +562,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Clumsy",
       "degree": 0,
       "name": "clumsy",
@@ -612,8 +585,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Codependent",
       "degree": 0,
       "name": "codependent",
@@ -637,8 +610,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_ColdInclined",
       "degree": 0,
       "name": "coldinclined",
@@ -664,8 +637,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_CouchPotato",
       "degree": 0,
       "name": "couchpotato",
@@ -683,8 +656,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Coward",
       "degree": 0,
       "name": "coward",
@@ -710,31 +683,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "defName": "Bravery",
-      "degree": -1,
-      "name": "cowardly",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "+25% suppressability"
-        ]
-      },
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.\n(Combat Extended)",
-      "stats": [
-        "+25% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "CreepyBreathing",
       "degree": 0,
       "name": "creepybreathing",
@@ -752,8 +702,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "NaturalMood",
       "degree": -2,
       "name": "depressive",
@@ -771,8 +721,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Desensitized",
       "degree": 0,
       "name": "desensitized",
@@ -798,8 +748,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Desensitized",
       "degree": 0,
       "name": "desensitized",
@@ -817,8 +767,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_DogPerson",
       "degree": 0,
       "name": "dogperson",
@@ -840,8 +790,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_DrunkenMaster",
       "degree": 0,
       "name": "drunkenmaster",
@@ -863,8 +813,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Dunce",
       "degree": 0,
       "name": "dunce",
@@ -898,8 +848,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Eccentric",
       "degree": 0,
       "name": "eccentric",
@@ -925,8 +875,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Ecologist",
       "degree": 0,
       "name": "ecologist",
@@ -954,8 +904,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "FastLearner",
       "degree": 0,
       "name": "fastlearner",
@@ -977,8 +927,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "SpeedOffset",
       "degree": 1,
       "name": "fastwalker",
@@ -1000,31 +950,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "defName": "Bravery",
-      "degree": 2,
-      "name": "fearless",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-100% suppressability"
-        ]
-      },
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.\n(Combat Extended)",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VCEF_Fisherman",
       "degree": 0,
       "name": "fisherman",
@@ -1042,8 +969,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_FunLoving",
       "degree": 0,
       "name": "fun-loving",
@@ -1065,8 +992,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Gastronomist",
       "degree": 0,
       "name": "gastronomist",
@@ -1092,8 +1019,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Gay",
       "degree": 0,
       "name": "gay",
@@ -1111,8 +1038,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Gourmand",
       "degree": 0,
       "name": "gourmand",
@@ -1140,8 +1067,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Gourmet",
       "degree": 0,
       "name": "gourmet",
@@ -1165,8 +1092,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "GreatMemory",
       "degree": 0,
       "name": "greatmemory",
@@ -1188,8 +1115,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Greedy",
       "degree": 0,
       "name": "greedy",
@@ -1213,8 +1140,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Groundbreaker",
       "degree": 0,
       "name": "groundbreaker",
@@ -1242,8 +1169,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Industriousness",
       "degree": 1,
       "name": "hardworker",
@@ -1265,8 +1192,27 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "FeelingsTowardHumanity",
+      "degree": 2,
+      "name": "hateshumanity",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.\n(Android tiers)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_HeatInclined",
       "degree": 0,
       "name": "heatinclined",
@@ -1292,8 +1238,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_HeavySleeper",
       "degree": 0,
       "name": "heavysleeper",
@@ -1311,8 +1257,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "HeavySleeper",
       "degree": 0,
       "name": "heavysleeper",
@@ -1338,8 +1284,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Industriousness",
       "degree": 2,
       "name": "industrious",
@@ -1361,8 +1307,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Insatiable",
       "degree": 0,
       "name": "insatiable",
@@ -1386,8 +1332,31 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "Insomniac",
+      "degree": 0,
+      "name": "insomniac",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.\n(Psychology (unofficial 1.1/1.2) )",
+      "stats": [],
+      "conflicts": [
+        "heavysleeper"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Insomniac",
       "degree": 0,
       "name": "insomniac",
@@ -1415,31 +1384,41 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "defName": "Insomniac",
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "Intolerance",
       "degree": 0,
-      "name": "insomniac",
+      "name": "intolerance",
       "data": {
         "canBypassLimit": false,
-        "conflicts": [
-          "heavysleeper"
-        ],
+        "conflicts": [],
         "customName": false,
-        "stats": []
+        "stats": [
+          "Only mental break \"Berserk\" allowed.",
+          "Only mental break \"Slaughterer\" allowed.",
+          "Only mental break \"MurderousRage\" allowed.",
+          "Only mental break \"SadisticRage\" allowed.",
+          "Only mental break \"InsultingSpree\" allowed.",
+          "-90.00% social impact"
+        ]
       },
-      "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.\n(Psychology (unofficial 1.1/1.2) )",
-      "stats": [],
-      "conflicts": [
-        "heavysleeper"
+      "description": "Timmy is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.\n(Android tiers)",
+      "stats": [
+        "Only mental break \"Berserk\" allowed.",
+        "Only mental break \"Slaughterer\" allowed.",
+        "Only mental break \"MurderousRage\" allowed.",
+        "Only mental break \"SadisticRage\" allowed.",
+        "Only mental break \"InsultingSpree\" allowed.",
+        "-90.00% social impact"
       ],
+      "conflicts": [],
       "bypassLimit": false
     },
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_IronStomach",
       "degree": 0,
       "name": "ironstomach",
@@ -1461,8 +1440,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Nerves",
       "degree": 2,
       "name": "iron-willed",
@@ -1484,8 +1463,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Jealous",
       "degree": 0,
       "name": "jealous",
@@ -1513,8 +1492,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "SpeedOffset",
       "degree": 2,
       "name": "jogger",
@@ -1536,8 +1515,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Kind",
       "degree": 0,
       "name": "kind",
@@ -1561,8 +1540,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Kleptomaniac",
       "degree": 0,
       "name": "kleptomaniac",
@@ -1584,8 +1563,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Industriousness",
       "degree": -1,
       "name": "lazy",
@@ -1607,8 +1586,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Lecher",
       "degree": 0,
       "name": "lecher",
@@ -1634,8 +1613,27 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "FeelingsTowardHumanity",
+      "degree": 1,
+      "name": "loveshumanity",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.\n(Android tiers)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Lush",
       "degree": 0,
       "name": "lush",
@@ -1663,8 +1661,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_MadSurgeon",
       "degree": 0,
       "name": "madsurgeon",
@@ -1686,8 +1684,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_MartialArtist",
       "degree": 0,
       "name": "martialartist",
@@ -1705,8 +1703,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Masochist",
       "degree": 0,
       "name": "masochist",
@@ -1728,8 +1726,31 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "MechAtlas",
+      "degree": 0,
+      "name": "mech",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-90.00% social impact"
+        ]
+      },
+      "description": "A mechanized infantry unit, they do not think or feel.\n(Android tiers)",
+      "stats": [
+        "-90.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Menagerist",
       "degree": 0,
       "name": "menagerist",
@@ -1757,8 +1778,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "DislikesMen",
       "degree": 0,
       "name": "misandrist",
@@ -1776,8 +1797,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "DislikesWomen",
       "degree": 0,
       "name": "misogynist",
@@ -1795,8 +1816,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_ChildOfMountain",
       "degree": 0,
       "name": "mountainlover",
@@ -1814,8 +1835,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Neat",
       "degree": 0,
       "name": "neat",
@@ -1837,8 +1858,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Nerves",
       "degree": -1,
       "name": "nervous",
@@ -1860,8 +1881,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Neurotic",
       "degree": 1,
       "name": "neurotic",
@@ -1885,8 +1906,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "NightOwl",
       "degree": 0,
       "name": "nightowl",
@@ -1904,8 +1925,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Nimble",
       "degree": 0,
       "name": "nimble",
@@ -1914,13 +1935,13 @@
         "conflicts": [],
         "customName": false,
         "stats": [
-          "+50% melee dodge chance",
+          "+15.0 melee dodge chance",
           "x10% trap spring chance"
         ]
       },
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+50% melee dodge chance",
+        "+15.0 melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -1929,8 +1950,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Nudist",
       "degree": 0,
       "name": "nudist",
@@ -1948,8 +1969,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_ChildOfSea",
       "degree": 0,
       "name": "oceanlover",
@@ -1967,8 +1988,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "OpenMinded",
       "degree": 0,
       "name": "open-minded",
@@ -2000,8 +2021,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "NaturalMood",
       "degree": 1,
       "name": "optimist",
@@ -2019,8 +2040,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Outdoorsy",
       "degree": 0,
       "name": "outdoorsy",
@@ -2042,8 +2063,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Perfectionist",
       "degree": 0,
       "name": "perfectionist",
@@ -2065,8 +2086,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "NaturalMood",
       "degree": -1,
       "name": "pessimist",
@@ -2084,8 +2105,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Photosensitive",
       "degree": 0,
       "name": "photosensitive",
@@ -2103,8 +2124,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Pluviophile",
       "degree": 0,
       "name": "pluviophile",
@@ -2122,8 +2143,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Polygamous",
       "degree": 0,
       "name": "polyamorous",
@@ -2147,8 +2168,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Beauty",
       "degree": 1,
       "name": "pretty",
@@ -2170,8 +2191,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Prodigy",
       "degree": 0,
       "name": "prodigy",
@@ -2199,8 +2220,33 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "VTE_Prude",
+      "degree": 0,
+      "name": "prude",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "insatiable",
+          "nudist"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "insatiable",
+        "nudist"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Prude",
       "degree": 0,
       "name": "prude",
@@ -2228,33 +2274,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "defName": "VTE_Prude",
-      "degree": 0,
-      "name": "prude",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "insatiable",
-          "nudist"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.\n(Vanilla Traits Expanded)",
-      "stats": [],
-      "conflicts": [
-        "insatiable",
-        "nudist"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "PsychicSensitivity",
       "degree": -2,
       "name": "psychicallydeaf",
@@ -2276,8 +2297,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "PsychicSensitivity",
       "degree": -1,
       "name": "psychicallydull",
@@ -2299,8 +2320,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "PsychicSensitivity",
       "degree": 2,
       "name": "psychicallyhypersensitive",
@@ -2322,8 +2343,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "PsychicSensitivity",
       "degree": 1,
       "name": "psychicallysensitive",
@@ -2345,8 +2366,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Psychopath",
       "degree": 0,
       "name": "psychopath",
@@ -2368,8 +2389,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Pyromaniac",
       "degree": 0,
       "name": "pyromaniac",
@@ -2393,8 +2414,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "QuickSleeper",
       "degree": 0,
       "name": "quicksleeper",
@@ -2416,8 +2437,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Rebel",
       "degree": 0,
       "name": "rebel",
@@ -2439,8 +2460,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_RefinedPalate",
       "degree": 0,
       "name": "refinedpalate",
@@ -2466,8 +2487,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "NaturalMood",
       "degree": 2,
       "name": "sanguine",
@@ -2485,8 +2506,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Schizoid",
       "degree": 0,
       "name": "schizoid",
@@ -2514,8 +2535,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Sedentary",
       "degree": 0,
       "name": "sedentary",
@@ -2545,8 +2566,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Immunity",
       "degree": -1,
       "name": "sickly",
@@ -2568,8 +2589,31 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "SimpleMindedAndroid",
+      "degree": 0,
+      "name": "simpleminded",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-90.00% social impact"
+        ]
+      },
+      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.\n(Android tiers)",
+      "stats": [
+        "-90.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Slob",
       "degree": 0,
       "name": "slob",
@@ -2591,8 +2635,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Industriousness",
       "degree": -2,
       "name": "slothful",
@@ -2614,8 +2658,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "SlowLearner",
       "degree": 0,
       "name": "slowlearner",
@@ -2641,8 +2685,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "SpeedOffset",
       "degree": -1,
       "name": "slowpoke",
@@ -2666,8 +2710,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Snob",
       "degree": 0,
       "name": "snob",
@@ -2689,8 +2733,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Socialite",
       "degree": 0,
       "name": "socialite",
@@ -2708,8 +2752,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Squeamish",
       "degree": 0,
       "name": "squeamish",
@@ -2731,8 +2775,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Beauty",
       "degree": -2,
       "name": "staggeringlyugly",
@@ -2754,8 +2798,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Nerves",
       "degree": 1,
       "name": "steadfast",
@@ -2777,8 +2821,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Stoner",
       "degree": 0,
       "name": "stoner",
@@ -2806,8 +2850,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Submissive",
       "degree": 0,
       "name": "submissive",
@@ -2829,8 +2873,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Immunity",
       "degree": 1,
       "name": "super-immune",
@@ -2852,8 +2896,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Technophobe",
       "degree": 0,
       "name": "technophobe",
@@ -2879,8 +2923,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "DrugDesire",
       "degree": -1,
       "name": "teetotaler",
@@ -2904,8 +2948,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_ThickSkinned",
       "degree": 0,
       "name": "thickskinned",
@@ -2927,8 +2971,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_ThinSkinned",
       "degree": 0,
       "name": "thinskinned",
@@ -2950,8 +2994,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "TooSmart",
       "degree": 0,
       "name": "toosmart",
@@ -2987,8 +3031,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "TorturedArtist",
       "degree": 0,
       "name": "torturedartist",
@@ -3010,8 +3054,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Tough",
       "degree": 0,
       "name": "tough",
@@ -3033,8 +3077,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Transhumanist",
       "degree": 0,
       "name": "transhumanist",
@@ -3056,8 +3100,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "ShootingAccuracy",
       "degree": -1,
       "name": "trigger-happy",
@@ -3069,13 +3113,13 @@
         "customName": false,
         "stats": [
           "-50% aiming time",
-          "x50% weapon handling"
+          "-5.0 shooting accuracy"
         ]
       },
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
-        "x50% weapon handling"
+        "-5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -3085,8 +3129,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Tycoon",
       "degree": 0,
       "name": "tycoon",
@@ -3112,8 +3156,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Beauty",
       "degree": -1,
       "name": "ugly",
@@ -3135,8 +3179,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Undergrounder",
       "degree": 0,
       "name": "undergrounder",
@@ -3158,8 +3202,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Unstable",
       "degree": 0,
       "name": "unstable",
@@ -3177,8 +3221,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Vengeful",
       "degree": 0,
       "name": "vengeful",
@@ -3200,8 +3244,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Neurotic",
       "degree": 2,
       "name": "veryneurotic",
@@ -3225,8 +3269,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Nerves",
       "degree": -2,
       "name": "volatile",
@@ -3248,8 +3292,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Wanderlust",
       "degree": 0,
       "name": "wanderlust",
@@ -3271,8 +3315,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "Wimp",
       "degree": 0,
       "name": "wimp",
@@ -3298,8 +3342,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_Workaholic",
       "degree": 0,
       "name": "workaholic",
@@ -3329,8 +3373,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "defName": "VTE_WorldWeary",
       "degree": 0,
       "name": "worldweary",
@@ -3344,6 +3388,44 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "Xenophobia",
+      "degree": -1,
+      "name": "xenophile",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races 2.0)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "defName": "Xenophobia",
+      "degree": 1,
+      "name": "xenophobe",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races 2.0)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
     }
   ],
   "races": [
@@ -3352,6 +3434,60 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 30000,
+      "defName": "M7Mech",
+      "enabled": false,
+      "name": "M7 Mechanised infantry",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1500,
+      "defName": "Android1Tier",
+      "enabled": true,
+      "name": "T1 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "Android2Tier",
+      "enabled": true,
+      "name": "T2 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Android3Tier",
+      "enabled": true,
+      "name": "T3 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3000,
+      "defName": "Android4Tier",
+      "enabled": true,
+      "name": "T4 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3500,
+      "defName": "Android5Tier",
+      "enabled": true,
+      "name": "T5 Android",
       "data": {
         "customName": false
       }

@@ -13,35 +13,29 @@
   },
   {
     "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.7393.34550"
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.2.3.2"
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
   },
   {
     "author": "DimonSever000",
     "name": "RimCore"
   },
   {
+    "author": "Roolo",
+    "name": "What the hack?!",
+    "steamId": "1505914869",
+    "version": "0.5.0.0"
+  },
+  {
     "author": "PalverZ (Original: Distman)",
     "name": "Gas Traps And Shells"
-  },
-  {
-    "author": "Rosco",
-    "name": "Combat Extended - Chemical Warfare"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Guns"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Melee"
   },
   {
     "author": "Fluffy",
@@ -54,6 +48,12 @@
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
     "version": "1.1.3"
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "1.5.0.0"
   },
   {
     "author": "erdelf",
@@ -86,10 +86,6 @@
     "name": "Animals Logic",
     "steamId": "1098354593",
     "version": "1.0.7529.23144"
-  },
-  {
-    "author": "Teok25",
-    "name": "Archotech Expanded"
   },
   {
     "author": "Fluffy",
@@ -176,10 +172,6 @@
   {
     "author": "Oskar Potocki, Trunken",
     "name": "Vanilla Apparel Expanded"
-  },
-  {
-    "author": "Morylska",
-    "name": "Vanilla Armor Patch for SoS"
   },
   {
     "author": "Oskar Potocki, Trunken",
@@ -270,10 +262,6 @@
     "name": "Vanilla Furniture Expanded - Production"
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor"
-  },
-  {
     "author": "Oskar Potocki, Trunken, XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -352,10 +340,6 @@
     "name": "Vanilla Weapons Expanded - Quickdraw"
   },
   {
-    "author": "NetImmerse",
-    "name": "[CE Only] Housefire (+ Chisel)"
-  },
-  {
     "author": "ColdToad",
     "name": "Centralized Climate Control (Continued)"
   },
@@ -374,12 +358,6 @@
     "version": "1.4.1"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -391,9 +369,7 @@
   },
   {
     "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": "935982361",
-    "version": "0.5.0.0"
+    "name": "Better Workbench Management"
   },
   {
     "author": "Fluffy",
@@ -490,10 +466,6 @@
     "name": "Gear Up And Go",
     "steamId": "1316142788",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "What the hack?!"
   },
   {
     "author": "Roolo",
@@ -617,7 +589,7 @@
     "author": "aRandomKiwi",
     "name": "Power++",
     "steamId": "1771402217",
-    "version": "1.7.11"
+    "version": "1.8.1"
   },
   {
     "author": "historic",
@@ -629,7 +601,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.5.11"
+    "version": "2.5.2"
   },
   {
     "author": "Linq",
@@ -678,12 +650,6 @@
     "version": "1.7.2297"
   },
   {
-    "author": "Cabbage",
-    "name": "RimCities - Citadel Update",
-    "steamId": "1775170117",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
@@ -707,7 +673,7 @@
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
-    "version": "2020.1.3.0"
+    "version": "2020.1.4.0"
   },
   {
     "author": "Helldragger",
@@ -773,7 +739,7 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.7.1"
+    "version": "0.7.3"
   },
   {
     "author": "PinoChemicali",
@@ -817,7 +783,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7671.11675"
+    "version": "1.0.7680.31858"
   },
   {
     "author": "Hatti",
@@ -876,18 +842,6 @@
     "name": "Harvest Organs Post Mortem"
   },
   {
-    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NavySeal",
-    "name": "InfestationBait",
-    "steamId": "1541249195",
-    "version": "1.0.7361.33"
-  },
-  {
     "author": "Spino",
     "name": "Megafauna"
   },
@@ -914,18 +868,6 @@
   {
     "author": "Hex",
     "name": "I Demand Permits"
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Mechanoid+"
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Prostheses+"
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Psionic+"
   },
   {
     "author": "民火",
@@ -958,16 +900,102 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "2.0.0-beta"
+    "author": "GeodesicDragon",
+    "name": "Reverse Engineered Mechanoid Shields"
   },
   {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Islands",
-    "steamId": "2038001322",
-    "version": "1.2.0.0"
+    "author": "Dutchman",
+    "name": "Royalty 1.2 Apparel Expanded"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Taming Artifact"
+  },
+  {
+    "author": "JisPichi",
+    "name": "Perfect Pathfinding",
+    "steamId": "2341486509",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Daemon976",
+    "name": "PRF-More Machines"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Drones"
+  },
+  {
+    "author": "CaptainPootis",
+    "name": "RuntimeGC",
+    "steamId": "2228430510",
+    "version": "20.0.15.1"
+  },
+  {
+    "author": "sellophane",
+    "name": "Stockpile Stack Limit (Continued)"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.7393.34550"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons"
+  },
+  {
+    "author": "ISOREX",
+    "name": "VFE - Mechanoids : Unoffical Add-On"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Prostheses+"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Psionic+"
+  },
+  {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.2"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Mechanoid+"
+  },
+  {
+    "author": "Neptimus7",
+    "name": "Progress Renderer",
+    "steamId": "2010777010",
+    "version": "1.2"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Power Switch",
+    "steamId": "728314859",
+    "version": "1.3.0.0"
   },
   {
     "author": "hodlhodl",
@@ -988,31 +1016,13 @@
     "version": "5.0.3.1"
   },
   {
-    "author": "sellophane",
-    "name": "Stockpile Stack Limit (Continued)"
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Power Switch",
-    "steamId": "728314859",
-    "version": "1.3.0.0"
-  },
-  {
-    "author": "GeodesicDragon",
-    "name": "Reverse Engineered Mechanoid Shields"
-  },
-  {
-    "author": "JisPichi",
-    "name": "Perfect Pathfinding",
-    "steamId": "2341486509",
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
     "version": "1.0.0.0"
   },
   {
-    "author": "zymex",
-    "name": "Project RimFactory - Drones"
-  },
-  {
-    "author": "Daemon976",
-    "name": "PRF-More Machines"
+    "author": "Teok25",
+    "name": "Archotech Expanded Prosthetics"
   }
 ]
