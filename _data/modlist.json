@@ -12,6 +12,24 @@
     "version": "8.0.1"
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
@@ -34,10 +52,6 @@
     "version": "0.5.0.0"
   },
   {
-    "author": "PalverZ (Original: Distman)",
-    "name": "Gas Traps And Shells"
-  },
-  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
@@ -48,12 +62,6 @@
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
     "version": "1.1.3"
-  },
-  {
-    "author": "Kikohi, Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "1.5.0.0"
   },
   {
     "author": "erdelf",
@@ -85,7 +93,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7529.23144"
+    "version": "1.0.7710.27937"
   },
   {
     "author": "Fluffy",
@@ -526,18 +534,6 @@
     "name": "Labels on Floor"
   },
   {
-    "author": "EarthyTurtle, zhrocks",
-    "name": "Let's Trade!"
-  },
-  {
-    "author": "Avius",
-    "name": "Locks"
-  },
-  {
-    "author": "Mlie",
-    "name": "[sd] Luciferium Production (Continued)"
-  },
-  {
     "author": "Fluffy",
     "name": "Medical Tab",
     "steamId": "715565817",
@@ -601,7 +597,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.5.2"
+    "version": "2.5.51"
   },
   {
     "author": "Linq",
@@ -647,13 +643,13 @@
     "author": "Dubwise",
     "name": "Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2297"
+    "version": "1.7.2342"
   },
   {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.944"
+    "version": "1.2.965"
   },
   {
     "author": "malkav73",
@@ -752,10 +748,6 @@
     "version": "1.0.7603.566"
   },
   {
-    "author": "EarthyTurtle, zhrocks",
-    "name": "Stackable Chunks"
-  },
-  {
     "author": "GHXX",
     "name": "Tech Advancing",
     "steamId": "735268789",
@@ -783,7 +775,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7680.31858"
+    "version": "1.0.7715.12200"
   },
   {
     "author": "Hatti",
@@ -819,15 +811,7 @@
   },
   {
     "author": "tfaivre",
-    "name": "Rich Traders"
-  },
-  {
-    "author": "AuxiliusM",
-    "name": "Super Soil"
-  },
-  {
-    "author": "4loris4",
-    "name": "More Linkables"
+    "name": "Rich Traders - Royalty DLC"
   },
   {
     "author": "UnlimitedHugs",
@@ -836,18 +820,6 @@
   {
     "author": "Xahkarias",
     "name": "EvolvedOrgansRedux"
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem"
-  },
-  {
-    "author": "Spino",
-    "name": "Megafauna"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Growable Ambrosia"
   },
   {
     "author": "K",
@@ -900,10 +872,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "GeodesicDragon",
-    "name": "Reverse Engineered Mechanoid Shields"
-  },
-  {
     "author": "Dutchman",
     "name": "Royalty 1.2 Apparel Expanded"
   },
@@ -922,10 +890,6 @@
     "name": "PRF-More Machines"
   },
   {
-    "author": "zymex",
-    "name": "Project RimFactory - Drones"
-  },
-  {
     "author": "CaptainPootis",
     "name": "RuntimeGC",
     "steamId": "2228430510",
@@ -936,24 +900,18 @@
     "name": "Stockpile Stack Limit (Continued)"
   },
   {
-    "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.7393.34550"
-  },
-  {
     "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons"
-  },
-  {
     "author": "ISOREX",
     "name": "VFE - Mechanoids : Unoffical Add-On"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons"
   },
   {
     "author": "DimonSever000",
@@ -970,22 +928,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Atlas, aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "2.0.2.0"
-  },
-  {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.3.2"
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Mechanoid+"
-  },
-  {
     "author": "Neptimus7",
     "name": "Progress Renderer",
     "steamId": "2010777010",
@@ -998,31 +940,233 @@
     "version": "1.3.0.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "5.0.3.1"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
-    "version": "1.0.0.0"
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
   },
   {
     "author": "Teok25",
     "name": "Archotech Expanded Prosthetics"
+  },
+  {
+    "author": "PalverZ (Original: Distman)",
+    "name": "Gas Traps And Shells"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.7393.34550"
+  },
+  {
+    "author": "Sam_",
+    "name": "Dye Vat"
+  },
+  {
+    "author": "NavySeal",
+    "name": "InfestationBait",
+    "steamId": "1541249195",
+    "version": "1.0.7361.33"
+  },
+  {
+    "author": "Asieruso23 and Asierus24",
+    "name": "[SRTS Expanded] Planes and Bombs"
+  },
+  {
+    "author": "Rikiki",
+    "name": "MiningCo. DrillTurret"
+  },
+  {
+    "author": "4loris4",
+    "name": "More Linkables"
+  },
+  {
+    "author": "legodude17",
+    "name": "Vanilla Factions Expanded - Mechanoids - Auto-Mortar Shell Choice Patch",
+    "steamId": "2370696994",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Seos",
+    "name": "VFE - Mechanoids : Drones"
+  },
+  {
+    "author": "Seos",
+    "name": "VFE - Mechanoids : Tab"
+  },
+  {
+    "author": "Loconeko",
+    "name": "Roads of the Rim (Continued)",
+    "steamId": "2280318231",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "GeodesicDragon",
+    "name": "Reverse Engineered Mechanoid Shields"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Seamless Embrasures",
+    "steamId": "2290689449",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zhrock11",
+    "name": "Stackable Chunks [Continued]"
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns"
+  },
+  {
+    "author": "notfood",
+    "name": "Infused",
+    "steamId": "731287727",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Supes",
+    "name": "Infused Filter (Auto Seller Filter)"
+  },
+  {
+    "author": "Catachat",
+    "name": "Inspiration Tweaks",
+    "steamId": "2117570018",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Kill For Me",
+    "steamId": "1629854111",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "Acruid",
+    "name": "Repair Workbench",
+    "steamId": "733997423",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "SRTS Expanded retexture"
+  },
+  {
+    "author": "Oskar Potocki, Erin, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jascha Ephraim",
+    "name": "Endless Rimworld"
+  },
+  {
+    "author": "ISOREX",
+    "name": "Advanced Moisture Pump"
+  },
+  {
+    "author": "Azuraal",
+    "name": "Choice Of Psycasts",
+    "steamId": "2293460251",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Reiquard",
+    "name": "Research Info"
+  },
+  {
+    "author": "Riddle78",
+    "name": "Sealed Power Armour"
+  },
+  {
+    "author": "LeveFUN",
+    "name": "Shields, Shields. SHIELDS!"
+  },
+  {
+    "author": "legodude17",
+    "name": "Vanilla Weapons Expanded - Heavy - Reloading Patch",
+    "steamId": "2364527746",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Animals"
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Gear"
+  },
+  {
+    "author": "Amnabi",
+    "name": "Amnabi's Flags",
+    "steamId": "2340981101",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TheWireLord",
+    "name": "Conduit Deconstruct"
+  },
+  {
+    "author": "AncientGammoner",
+    "name": "Ground Targeter",
+    "steamId": "2356822769",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "krkr",
+    "name": "Locks 2: Lock Them Out!",
+    "steamId": "2285862824",
+    "version": "1.0.7627.17616"
+  },
+  {
+    "author": "Updated by Saucy_Pigeon",
+    "name": "Pawn Badge Fan Fork",
+    "steamId": "2112663412",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Xedos",
+    "name": "Persona Bond Forge"
+  },
+  {
+    "author": "Hamster",
+    "name": "Persona Cryptech"
+  },
+  {
+    "author": "Lurmey",
+    "name": "Pawn Badge - XCOM Ranks"
+  },
+  {
+    "author": "Botaxalim",
+    "name": "Pawn Badge - XCOM Badge"
+  },
+  {
+    "author": "LoggerC4, Taranchuk",
+    "name": "Proxy Heat"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Too Many Areas",
+    "steamId": "2316018203",
+    "version": "1.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits"
+  },
+  {
+    "author": "xrushha",
+    "name": "Buyable psylink neuroformers"
+  },
+  {
+    "author": "Hamster",
+    "name": "Persona Coilguns"
   }
 ]

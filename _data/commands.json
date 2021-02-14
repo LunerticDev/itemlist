@@ -573,6 +573,7 @@
     "data": {
       "isShortcut": false
     },
+    "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
     "shortcut": false

@@ -61,8 +61,13 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "solarflare",
+		"price": 2000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -143,11 +148,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -327,7 +327,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 100,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -358,7 +358,7 @@
 	{
 		"abr": "removepassion",
 		"price": 5000,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
