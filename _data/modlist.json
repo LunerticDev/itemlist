@@ -36,6 +36,12 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Cherry Picker (dev)",
+    "steamId": "2633276599",
+    "version": "1.3"
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -552,18 +558,6 @@
     "version": "3.0.0.3"
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Ships",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Amnabi",
     "name": "Amnabi's Flags (Continued)",
     "steamId": "2592638428",
@@ -708,12 +702,6 @@
     "version": "2.3.2.0"
   },
   {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ColdToad",
     "name": "Centralized Climate Control (Continued)",
     "steamId": null,
@@ -846,12 +834,6 @@
     "version": "1.7.7368"
   },
   {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Flares 2.0",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
     "steamId": null,
@@ -888,12 +870,6 @@
     "version": null
   },
   {
-    "author": "Turnovus",
-    "name": "Extended Bioengineering for VFE Insectoids",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "chromiumboy",
     "name": "ExtraPsycasts (Continued)",
     "steamId": null,
@@ -926,12 +902,6 @@
   {
     "author": "PalverZ (Original: Distman)",
     "name": "Gas Traps And Shells",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
     "steamId": null,
     "version": null
   },
@@ -1020,12 +990,6 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "bradson",
     "name": "Bradson's Main Button Icons for Vanilla Textures Expanded",
     "steamId": "2361775777",
@@ -1054,12 +1018,6 @@
     "name": "Impassable Chest-deep Water",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "historic",
-    "name": "Industrial Rollers",
-    "steamId": "784327493",
-    "version": "2.5.0"
   },
   {
     "author": "NavySeal",
@@ -1104,12 +1062,6 @@
     "version": null
   },
   {
-    "author": "bdew",
-    "name": "Long Distance",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ratys",
     "name": "Mad Skills",
     "steamId": "731111514",
@@ -1146,20 +1098,8 @@
     "version": "1.0.7393.34550"
   },
   {
-    "author": "Rikiki",
-    "name": "MiningCo. DrillTurret",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "purpleyam",
     "name": "More Ideological Words",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Londo Mollari",
-    "name": "More Hull Corners",
     "steamId": null,
     "version": null
   },
@@ -1186,12 +1126,6 @@
     "name": "More Psycasts",
     "steamId": "2460833332",
     "version": "1.0.0.1"
-  },
-  {
-    "author": "Kirby",
-    "name": "More Religious Origins",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sinnamon",
@@ -1419,7 +1353,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.5"
+    "version": "1.6.6"
   },
   {
     "author": "GeodesicDragon",
@@ -1530,26 +1464,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Bullet Magnet",
-    "name": "Save Our Ship 2 - Traitors Beyond Counting Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Antisodium",
-    "name": "Save Our Ship 2 Enemy Ship Extension: StarSector",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Riddle78",
     "name": "Sealed Power Armour",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NetzachSloth",
-    "name": "Save our Ship - Archotech Expanded Prosthetics Patch",
     "steamId": null,
     "version": null
   },
@@ -1674,12 +1590,6 @@
     "version": null
   },
   {
-    "author": "GHXX",
-    "name": "Tech Advancing",
-    "steamId": "735268789",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "mr_chimick",
     "name": "Too Many Areas",
     "steamId": "2316018203",
@@ -1776,36 +1686,6 @@
     "version": null
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Guards For Me",
-    "steamId": "1855885448",
-    "version": "3.0.6.0"
-  },
-  {
-    "author": "White_Phant0m",
-    "name": "Better SoS2 holograms",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "M.A.G.Gen.",
-    "name": "SOS2 Play with Spore",
-    "steamId": "2451448565",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "MrGlasses",
-    "name": "SRTS Landing Zone for SOS2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Morylska",
-    "name": "Vanilla Armor Patch for SoS",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Garethp",
     "name": "Grow Grass Under Roofs",
     "steamId": "2729577910",
@@ -1832,18 +1712,6 @@
   {
     "author": "AuxiliusM",
     "name": "Super Soil",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FluffyTowels",
-    "name": "Warcaskets can haul!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FluffyTowels",
-    "name": "Warcaskets can work!",
     "steamId": null,
     "version": null
   },
@@ -1890,12 +1758,6 @@
     "version": null
   },
   {
-    "author": "OrcAndHat",
-    "name": "Warcaskets in Space",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Edern and Sir Van",
     "name": "Combat Psycasts",
     "steamId": null,
@@ -1938,70 +1800,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Mlie",
-    "name": "Prisoner Arena (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NanoCE",
-    "name": "Glass+Lights",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist and  jptrrs",
-    "name": "Windows",
-    "steamId": "2571189146",
-    "version": "1.3"
-  },
-  {
-    "author": "Dylan",
-    "name": "Animal Gear",
-    "steamId": "1541438907",
-    "version": "1.3.1.3"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Animal Equipment",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "xrushha",
-    "name": "Anima Gear",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NilchEi",
-    "name": "Dynamic Diplomacy",
-    "steamId": "1875168898",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sokyran and  Hush",
     "name": "More Rimefeller Compat",
     "steamId": "2763187069",
     "version": "1.0"
   },
   {
-    "author": "22",
-    "name": "Virtue Framework",
-    "steamId": "2751960076",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fraser Hitchen",
     "name": "Better Beggars",
     "steamId": "2729617288",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Garethp",
-    "name": "From Ashes to Ashes, Dust to Dust",
-    "steamId": "2753920635",
-    "version": "1.2.0"
   },
   {
     "author": "legodude17",
@@ -2022,22 +1830,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Karmgahl",
-    "name": "Faction Customizer",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "legodude17",
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "exokem",
-    "name": "Alternate Archonexus",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "dickmosi",
@@ -2046,26 +1842,8 @@
     "version": null
   },
   {
-    "author": "vaer",
-    "name": "SoS2 Hologram Darklight Glow",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RSev",
-    "name": "Save Our Ship 2 - Archotech Gift Pool Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Scorpio",
     "name": "Royal Arsenal Texture Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Dismiss Trader (Continued)",
     "steamId": null,
     "version": null
   },
@@ -2098,12 +1876,6 @@
     "name": "Vanilla Genetics Expanded",
     "steamId": "2801160906",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  ISOREX and  xrushha",
-    "name": "Vanilla Textures Expanded - Save Our Ship 2",
-    "steamId": "2805433179",
-    "version": "0.0.0.0"
   },
   {
     "author": "Sepphoris and Azarae",
@@ -2146,12 +1918,6 @@
     "name": "Persona Cryptech",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "RimQuest (Continued)",
-    "steamId": "2263331727",
-    "version": "1.3.1"
   },
   {
     "author": "Ushanka",
@@ -2224,5 +1990,11 @@
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
     "version": "1.1.9"
+  },
+  {
+    "author": "Clown Cat",
+    "name": "Unofficial Vanilla Outposts Expanded Expanded: Trading",
+    "steamId": null,
+    "version": null
   }
 ]

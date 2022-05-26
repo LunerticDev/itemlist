@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
@@ -4127,96 +4127,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
-    },
-    {
-      "description": "Timmy has a strong heart.",
-      "stats": [
-        "+10.0% Virtue Chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Virtue Framework",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+10.0% Virtue Chance"
-        ]
-      },
-      "defName": "VF_Trait_Virtue",
-      "name": "strongheart",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a weak heart.",
-      "stats": [
-        "-10.0% Virtue Chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Virtue Framework",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-10.0% Virtue Chance"
-        ]
-      },
-      "defName": "VF_Trait_Virtue_Weak",
-      "name": "weakheart",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has resonate with nature.",
-      "stats": [
-        "Natural meditation focus type allowed."
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Unknown",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "Natural meditation focus type allowed."
-        ]
-      },
-      "defName": "VF_Trait_Virtue_Nature",
-      "name": "naturalresonance",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
     }
   ],
   "races": [
@@ -4241,29 +4151,6 @@
       "enabled": true,
       "name": "human",
       "price": 2000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$0 Market value",
-          "+5.60 Move speed",
-          "+0% Toxic sensitivity",
-          "-180.0F [-100.0C] Minimum comfortable temperature",
-          "+450.0F [250.0C] Maximum comfortable temperature",
-          "+0 Meat amount",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
-      "defName": "SoSHologramRace",
-      "enabled": false,
-      "name": "hologram",
-      "price": 1
     },
     {
       "data": {
