@@ -198,18 +198,6 @@
     "version": "1.2.3.1"
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
-  },
-  {
-    "author": "legodude17",
-    "name": "Vanilla Factions Expanded - Mechanoids - Auto-Mortar Shell Choice Patch",
-    "steamId": "2370696994",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -570,18 +558,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "xrushha",
-    "name": "Anima Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "xrushha",
-    "name": "Anima Animals - Community Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "DimonSever000",
     "name": "Anima Obelisk",
     "steamId": "2614248835",
@@ -628,12 +604,6 @@
     "name": "Auto Seller",
     "steamId": "1440321094",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "FluffyKittens",
-    "name": "Autoharvester Auto-cycle",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Falconne",
@@ -885,7 +855,7 @@
     "author": "Inglix",
     "name": "Faster Biosculpter Pod",
     "steamId": "2576257954",
-    "version": "2.7.0.0"
+    "version": "2.8.2.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -990,18 +960,6 @@
     "version": null
   },
   {
-    "author": "bradson",
-    "name": "Bradson's Main Button Icons for Vanilla Textures Expanded",
-    "steamId": "2361775777",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
     "author": "aRandomKiwi",
     "name": "Hunt for Me",
     "steamId": "1593245720",
@@ -1089,7 +1047,7 @@
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
-    "version": "1.0.7393.34550"
+    "version": "1.0.8190.34986"
   },
   {
     "author": "purpleyam",
@@ -1198,6 +1156,36 @@
     "name": "Pharmacist",
     "steamId": "1365242717",
     "version": "2.9.140"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "FluffyKittens",
+    "name": "Autoharvester Auto-cycle",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Vanilla Factions Expanded - Mechanoids - Auto-Mortar Shell Choice Patch",
+    "steamId": "2370696994",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -1362,12 +1350,6 @@
     "version": "1.2.7364"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -1383,7 +1365,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8179.2469"
+    "version": "1.0.8182.38322"
   },
   {
     "author": "aRandomKiwi",
@@ -1456,12 +1438,6 @@
     "name": "Safely Hidden Away",
     "steamId": "1322196379",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Riddle78",
-    "name": "Sealed Power Armour",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Roolo",
@@ -1638,12 +1614,6 @@
     "version": null
   },
   {
-    "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
-    "name": "VFME - Caravan Packs!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -1690,12 +1660,6 @@
     "name": "Infinite Reinforce",
     "steamId": "2623528901",
     "version": "1.0.1.0"
-  },
-  {
-    "author": "Garethp",
-    "name": "Replace Stuff Mod Compatibility",
-    "steamId": "2642161586",
-    "version": "0.0.0.0"
   },
   {
     "author": "Owlchemist",
@@ -1926,6 +1890,18 @@
     "version": null
   },
   {
+    "author": "xrushha",
+    "name": "Anima Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Animals - Community Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SpaceMoth",
     "name": "VFE Ancients - Vaults are Eternal",
     "steamId": null,
@@ -1962,6 +1938,174 @@
     "version": null
   },
   {
+    "author": "Clown Cat",
+    "name": "Unofficial Vanilla Outposts Expanded Expanded: Trading",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RSev",
+    "name": "Save Our Ship 2 - Archotech Gift Pool Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bullet Magnet",
+    "name": "Save Our Ship 2 - Traitors Beyond Counting Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Antisodium",
+    "name": "Save Our Ship 2 Enemy Ship Extension: StarSector",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "Save our Ship - Archotech Expanded Prosthetics Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  ISOREX and  xrushha",
+    "name": "Vanilla Textures Expanded - Save Our Ship 2",
+    "steamId": "2805433179",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "M.A.G.Gen.",
+    "name": "SOS2 Play with Spore",
+    "steamId": "2451448565",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "MrGlasses",
+    "name": "SRTS Landing Zone for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "White_Phant0m",
+    "name": "Better SoS2 holograms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Morylska",
+    "name": "Vanilla Armor Patch for SoS",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Riddle78",
+    "name": "Sealed Power Armour",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Ships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OrcAndHat",
+    "name": "Warcaskets in Space",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Londo Mollari",
+    "name": "More Hull Corners",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Repair in the Zone",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Anima Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus (Continued)",
+    "steamId": "2589072911",
+    "version": "1.3.1"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Bradson's Main Button Icons for Vanilla Textures Expanded",
+    "steamId": "2361775777",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
+    "name": "VFME - Caravan Packs!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ifsck",
+    "name": "Vaults Aren't Empire's Enemy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1986,8 +2130,26 @@
     "version": "1.1.9"
   },
   {
-    "author": "Clown Cat",
-    "name": "Unofficial Vanilla Outposts Expanded Expanded: Trading",
+    "author": "SFLegion",
+    "name": "VFEEA - Extract Super-Nanites",
+    "steamId": "2812995516",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vintorez",
+    "name": "VFE - Ancients Unlocked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MP3",
+    "name": "Survivalist Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shavius",
+    "name": "Shavius's Vanilla Expanded Patches",
     "steamId": null,
     "version": null
   }
