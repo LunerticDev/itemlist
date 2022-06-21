@@ -690,18 +690,6 @@
     "version": null
   },
   {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
-  },
-  {
-    "author": "Derek Bickley",
-    "name": "Colony Groups UI Rimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Colony Manager",
     "steamId": "715565262",
@@ -1365,7 +1353,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8182.38322"
+    "version": "1.0.8204.32145"
   },
   {
     "author": "aRandomKiwi",
@@ -1670,18 +1658,6 @@
   {
     "author": "AuxiliusM",
     "name": "Super Soil",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nowano",
-    "name": "Craftable VFE - Viking Weapons and Armours",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nowano",
-    "name": "Craftable VFE-Insectoids plasma weapon",
     "steamId": null,
     "version": null
   },
@@ -2043,7 +2019,7 @@
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
-    "version": "1.0.0.0"
+    "version": "2.0.0"
   },
   {
     "author": "jeonggihun",
@@ -2064,18 +2040,6 @@
     "version": "1.3.1"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "bradson",
     "name": "Bradson's Main Button Icons for Vanilla Textures Expanded",
     "steamId": "2361775777",
@@ -2094,14 +2058,50 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Gastronomy",
+    "author": "ifsck",
+    "name": "Vaults Aren't Empire's Enemy",
     "steamId": null,
     "version": null
   },
   {
-    "author": "ifsck",
-    "name": "Vaults Aren't Empire's Enemy",
+    "author": "SFLegion",
+    "name": "VFEEA - Extract Super-Nanites",
+    "steamId": "2812995516",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vintorez",
+    "name": "VFE - Ancients Unlocked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MP3",
+    "name": "Survivalist Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shavius",
+    "name": "Shavius's Vanilla Expanded Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Mythic Framework",
+    "steamId": "2819828894",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Bardez",
+    "name": "Rimefeller PRF Automated Autoclave for 1.3",
     "steamId": null,
     "version": null
   },
@@ -2128,29 +2128,5 @@
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
     "version": "1.1.9"
-  },
-  {
-    "author": "SFLegion",
-    "name": "VFEEA - Extract Super-Nanites",
-    "steamId": "2812995516",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vintorez",
-    "name": "VFE - Ancients Unlocked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MP3",
-    "name": "Survivalist Meme",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Shavius",
-    "name": "Shavius's Vanilla Expanded Patches",
-    "steamId": null,
-    "version": null
   }
 ]

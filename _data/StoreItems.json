@@ -292,7 +292,7 @@
       "abr": "antigrainwarhead",
       "category": "Mortar shells",
       "defname": "Shell_AntigrainWarhead",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "anti-materialrifle",
@@ -24109,18 +24109,6 @@
       "price": -10
     },
     {
-      "abr": "whydoihavetoaddthis",
-      "category": "Misc",
-      "defname": "USH_WhyDoIHaveToDoThis",
-      "price": -10
-    },
-    {
-      "abr": "whydoihavetoaddthisagain",
-      "category": "Misc",
-      "defname": "USH_WhyDoIHaveToDoThisAgain",
-      "price": -10
-    },
-    {
       "abr": "advancedholodeck",
       "category": "Recreation",
       "defname": "Holodeck_Standard",
@@ -24553,12 +24541,6 @@
       "price": -10
     },
     {
-      "abr": "butlermodule",
-      "category": "Module",
-      "defname": "WTHExCore_ButlerModule",
-      "price": 1483
-    },
-    {
       "abr": "cannonturret",
       "category": "Misc",
       "defname": "ShipTurret_ACI",
@@ -24580,12 +24562,6 @@
       "abr": "cargoshuttle(hovermode)",
       "category": "Animal",
       "defname": "ShuttleCargoRace",
-      "price": -10
-    },
-    {
-      "abr": "cashregister",
-      "category": "Furniture",
-      "defname": "CashRegister_CashRegister",
       "price": -10
     },
     {
@@ -24652,301 +24628,301 @@
       "abr": "empoweredsn(acidspitting)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_AcidSpitting",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(animalspeech)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_AnimalSpeech",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(assassin)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Assassin",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(blastresistance)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_BlastResistance",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(bulletproofskin)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_BulletproofSkin",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(celebrity)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Celebrity",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(coldresistance)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_ColdResistance",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(darkvision)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Darkvision",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(eagleeye)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_EagleEye",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(efficientbuilder)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_EfficientBuilder",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(electricityblast)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_ElectricityBlast",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(electro-magneticpulse)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_ElectromagneticPulse",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(empathy)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Empathy",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(firebreath)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_FireBreath",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(fireball)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Fireball",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(geniusintellect)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_GeniusIntellect",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(glorykill)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_GloryKill",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(healothers)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_HealOthers",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(heatresistance)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_HeatResistance",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(icebreath)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_IceBreath",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(invisibility)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Invisibility",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(lasereyes)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_LaserEyes",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(loner)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Loner",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(marksmanship)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Marksmanship",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(martialartist)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_MartialArtist",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(masterhacker)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_MasterHacker",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(masterfulcraft)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_MasterfulCraft",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(matterphasing)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_MatterPhasing",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(metamorphosis)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Metamorphosis",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(overshield)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Overshield",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(plasteelclaws)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_PlasteelClaws",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(plasteelskeleton)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_PlasteelSkeleton",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(promisingcandidate)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_PromisingCandidate",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(psychicresistance)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_PsychicResistance",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(psychicshock)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_PsychicShock",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(redundantstomach)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_RedundantStomach",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(regeneratinglimbs)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_RegeneratingLimbs",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(regeneration)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Regeneration",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(selfresurrection)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SelfResurrection",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(self-control)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SelfControl",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(speedburst)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SpeedBurst",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(summonlightning)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SummonLightning",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(superjump)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SuperJump",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(superlearning)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SuperLearning",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(superspeed)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SuperSpeed",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(superstrength)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_SuperStrength",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(telepathy)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Telepathy",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(toxicresistance)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_ToxicResistance",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(unstoppable)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_Unstoppable",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsn(weaponsexpert)",
       "category": "Empowered Super-Nanites",
       "defname": "VFEEA_Empowered_SuperNanites_WeaponExpert",
-      "price": 1750
+      "price": -10
     },
     {
       "abr": "empoweredsuper-nanitesinjector",
@@ -26143,173 +26119,53 @@
       "price": -10
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
+      "abr": "acidgastrapimplant",
+      "category": "Bionic",
+      "defname": "GasTrapImplantAcid",
+      "price": 1700
+    },
+    {
+      "abr": "automatedautoclave",
+      "category": "Automation",
+      "defname": "PRFAutoclave",
       "price": -10
     },
     {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestancientbed",
+      "abr": "compressedscarletsludgepipe",
       "category": "Misc",
-      "defname": "AncientBedGuest",
+      "defname": "USH_CompressedScarletSludgePipe",
       "price": -10
     },
     {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
+      "abr": "epicureandelight",
+      "category": "Meals",
+      "defname": "MooMF_MealEpicurean",
+      "price": 583
+    },
+    {
+      "abr": "luciferiumsynthesizer",
+      "category": "Production",
+      "defname": "USH_LuciferiumSynthesizer",
       "price": -10
     },
     {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": -10
+      "abr": "ragegastrapimplant",
+      "category": "Bionic",
+      "defname": "GasTrapImplantRage",
+      "price": 1458
     },
     {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "VFEV_FurBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "VFEV_DoubleFurBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvancedbed",
-      "category": "Furniture",
-      "defname": "Bed_AdvBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvanceddoublebed",
-      "category": "Furniture",
-      "defname": "Bed_AdvDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestancientbed",
+      "abr": "scarletmechanitespipe",
       "category": "Misc",
-      "defname": "VME_AncientBedGuest",
+      "defname": "USH_ScarletMechanitesPipe",
       "price": -10
     },
     {
-      "abr": "guestancientbed",
-      "category": "Furniture",
-      "defname": "VFEA_AncientBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestancientcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "VFEA_AncientCryptosleepSuspenderGuest",
-      "price": -10
-    },
-    {
-      "abr": "gueststone-framedbedroll",
-      "category": "Furniture",
-      "defname": "AM_StoneBedrollGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestandroidpod",
-      "category": "Furniture",
-      "defname": "ATPP_AndroidPodGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestm7pod",
-      "category": "Furniture",
-      "defname": "ATPP_AndroidPodMechGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestandroidupgradestation",
-      "category": "Furniture",
-      "defname": "AndroidOperationBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesttent",
-      "category": "Furniture",
-      "defname": "VFEC_TentGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoubletent",
-      "category": "Furniture",
-      "defname": "VFEC_Mosi_DoubleTentGuest",
-      "price": -10
+      "abr": "toxicgastrapimplant",
+      "category": "Bionic",
+      "defname": "GasTrapImplantToxic",
+      "price": 667
     }
   ],
-  "total": 4385
+  "total": 4361
 }

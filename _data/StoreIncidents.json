@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -72,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 8700,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -117,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 225,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
@@ -199,6 +209,11 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -292,12 +307,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 1250,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -551,5 +566,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 110
+	"total": 113
 }
