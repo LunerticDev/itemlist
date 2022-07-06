@@ -79659,7 +79659,7 @@
     "Mod": "LWM's Deep Storage",
     "KarmaType": null
   },
-  "pipelineValve": {
+  "CashRegister_CashRegister": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79676,7 +79676,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Rimefeller",
+    "Mod": "Cash Register",
     "KarmaType": null
   },
   "denture": {
@@ -86099,7 +86099,7 @@
     "Mod": "Centralized Climate Control (Continued)",
     "KarmaType": null
   },
-  "redAirPipe": {
+  "AA_Bobeene": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -86116,7 +86116,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Centralized Climate Control (Continued)",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
   "USH_CompressedScarletSludgePipe": {
@@ -86217,6 +86217,106 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Rimefeller PRF Automated Autoclave for 1.3",
+    "KarmaType": null
+  },
+  "redAirPipe": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Centralized Climate Control (Continued)",
+    "KarmaType": null
+  },
+  "USH_LuciferiumPrecisionBooster": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ushankas Luciferium Expansion",
+    "KarmaType": null
+  },
+  "MooMF_MythMaker": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mooloh's Mythic Framework",
+    "KarmaType": null
+  },
+  "pipelineValve": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Rimefeller",
+    "KarmaType": null
+  },
+  "WTHExCore_ButlerModule": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
     "KarmaType": null
   }
 }
