@@ -337,7 +337,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -362,12 +362,12 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 4500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 3500,
 		"karmatype": "Neutral"
 	},
 	{

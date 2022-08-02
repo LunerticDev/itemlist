@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "Neceros",
@@ -114,12 +114,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson,  Helixien,  Cassie and  Luizi",
-    "name": "Alpha Memes",
-    "steamId": "2661356814",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Carny Senpai",
     "name": "Enable Oversized Weapons",
     "steamId": "2543371889",
@@ -188,6 +182,18 @@
   {
     "author": "xrushha",
     "name": "Anima Animals - Community Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti",
+    "name": "Anima Bionics",
     "steamId": null,
     "version": null
   },
@@ -360,12 +366,6 @@
     "version": null
   },
   {
-    "author": "Azuraal",
-    "name": "Choice Of Psycasts",
-    "steamId": "2293460251",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Clean Pathfinding",
     "steamId": "2603765747",
@@ -426,12 +426,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sky",
-    "name": "Deep Storage Plus (Continued)",
-    "steamId": "2589072911",
-    "version": "1.3.1"
-  },
-  {
     "author": "Ron Popeil",
     "name": "Don't Steal My Walls!",
     "steamId": "2058688941",
@@ -472,6 +466,12 @@
     "name": "Dubs Break Mod",
     "steamId": "1722398508",
     "version": "1.0.0"
+  },
+  {
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
@@ -660,12 +660,6 @@
     "version": "3.5.4.0"
   },
   {
-    "author": "Hex",
-    "name": "I Demand Permits",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NavySeal",
     "name": "InfestationBait",
     "steamId": "1541249195",
@@ -798,12 +792,6 @@
     "version": null
   },
   {
-    "author": "Alan Dariva and  Usagirei",
-    "name": "More Planning 1.3",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "llunak",
     "name": "More Precepts",
     "steamId": null,
@@ -820,6 +808,12 @@
     "name": "Rimefeller",
     "steamId": "1321849735",
     "version": "1.2.7364"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and  XeoNovaDan",
@@ -894,6 +888,12 @@
     "version": null
   },
   {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Densevoid",
     "name": "One bed to sleep with all",
     "steamId": "2572109781",
@@ -915,17 +915,11 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.6.5"
+    "version": "2.6.7"
   },
   {
     "author": "Daemon976",
     "name": "PRF-More Machines",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
@@ -948,14 +942,14 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "StatistNo1",
-    "name": "Persona Bond Forge Fix",
+    "author": "Xedos",
+    "name": "Persona Bond Forge",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Xedos",
-    "name": "Persona Bond Forge",
+    "author": "StatistNo1",
+    "name": "Persona Bond Forge Fix",
     "steamId": null,
     "version": null
   },
@@ -1065,7 +1059,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8218.43109"
+    "version": "1.0.8247.19221"
   },
   {
     "author": "Ratys",
@@ -1120,6 +1114,12 @@
     "name": "Rechargeable Low-shield Pack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "legodude17 and  Oskar Potocki",
+    "name": "Vanilla UI Expanded",
+    "steamId": "2749945924",
+    "version": "1.0.0.0"
   },
   {
     "author": "Jaxe",
@@ -1242,12 +1242,6 @@
     "version": null
   },
   {
-    "author": "Andross",
-    "name": "Royal Thrumbos",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
     "steamId": null,
@@ -1342,12 +1336,6 @@
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Neronix17",
@@ -1494,10 +1482,10 @@
     "version": "1.2.3"
   },
   {
-    "author": "MarvinKosh",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.7895.35757"
+    "author": "crazedmonkey231",
+    "name": "Spread The Word",
+    "steamId": "2829387657",
+    "version": "1.0.0.0"
   },
   {
     "author": "zhrock11",
@@ -1542,7 +1530,7 @@
     "version": null
   },
   {
-    "author": "MP3",
+    "author": "Mighty Panther III",
     "name": "Survivalist Meme",
     "steamId": null,
     "version": null
@@ -1830,6 +1818,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson,  Chowder and  Trahspanda",
     "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
@@ -2094,16 +2088,16 @@
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] More Quests",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kiame Vivacity",
     "name": "[KV] Trading Spot",
     "steamId": "1180719658",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
   },
   {
     "author": "Neronix17",
@@ -2136,8 +2130,134 @@
     "version": null
   },
   {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": "1668141382",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Questing Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jangles",
+    "name": "Tribal Genetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson,  Helixien,  Cassie,  Luizi and  Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus (Continued)",
+    "steamId": "2589072911",
+    "version": "1.3.1"
+  },
+  {
+    "author": "HIGGS",
+    "name": "DUNE: Stillsuits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SpaceMoth",
+    "name": "VFE Ancients - Functional Hygiene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jewels",
+    "name": "[JWL] Fish Hatcheries",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shavius",
+    "name": "VFE Production/Farming - Dubs Bad Hygiene Patches (Adopted)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CiXwOw",
+    "name": "Helixien Gas Boiler",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SeanMungo",
+    "name": "Royal + 'Nobility Enhanced'",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Custom Prisoner Interactions",
+    "steamId": "2841231775",
+    "version": "1.3.1"
+  },
+  {
+    "author": "exokem",
+    "name": "Alternate Archonexus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimThemes",
+    "steamId": "1668983184",
+    "version": "2021.0.1.6"
+  },
+  {
+    "author": "cvar",
+    "name": "Joywire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Music Manager",
+    "steamId": "2229205672",
+    "version": "1.2.196"
+  },
+  {
+    "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Vanilla Genetics Expanded – Animal Work Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "epicfloor",
+    "name": "VFE Pirates unofficial add-on: Warcasket Melee Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sir Van",
+    "name": "WHat The Hack?! Retexture",
     "steamId": null,
     "version": null
   },
@@ -2155,6 +2275,12 @@
   },
   {
     "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.2.0.7"
@@ -2164,5 +2290,11 @@
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
     "version": "1.1.9"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
