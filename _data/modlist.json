@@ -423,7 +423,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8334.7464"
+    "version": "1.0.8340.23911"
   },
   {
     "author": "Ratys",
@@ -1512,12 +1512,6 @@
     "version": "1.1.3"
   },
   {
-    "author": "sindre0830",
-    "name": "RimNauts 2",
-    "steamId": "2880599514",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "legodude17",
     "name": "Vanilla Factions Expanded - Mechanoids - Auto-Mortar Shell Choice Patch",
     "steamId": "2370696994",
@@ -1554,6 +1548,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Owlchemist and jptrrs",
+    "name": "Windows",
+    "steamId": "2571189146",
+    "version": "1.4"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Stargate Retexture / Retheme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Thomotron and The Phinix Team",
+    "name": "Phinix",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1572,9 +1584,9 @@
     "version": "6.3.0.0.biotech.B2"
   },
   {
-    "author": "Owlchemist and jptrrs",
-    "name": "Windows",
-    "steamId": "2571189146",
-    "version": "1.4"
+    "author": "sindre0830",
+    "name": "RimNauts 2",
+    "steamId": "2880599514",
+    "version": "1.0.0.0"
   }
 ]

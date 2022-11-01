@@ -1214,24 +1214,6 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore"
-    },
-    "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": 0,
-    "shortcut": false,
-    "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
       "mod": "Twitch Toolkit (Unofficial)"
     },
     "description": "Updates the current list of active viewers.",
@@ -1564,5 +1546,23 @@
     "userLevel": 0,
     "shortcut": false,
     "defName": "InstalledMods"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitCore"
+    },
+    "description": null,
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "HelloWorld"
   }
 ]
