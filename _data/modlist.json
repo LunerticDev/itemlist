@@ -423,7 +423,7 @@
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "Lakuna",
@@ -447,7 +447,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8381.11616"
+    "version": "1.0.8412.1879"
   },
   {
     "author": "Ratys",
@@ -477,7 +477,7 @@
     "author": "Andreas Pardeike",
     "name": "Range Finder",
     "steamId": "1332119637",
-    "version": "2.3.0.0"
+    "version": "2.4.0.0"
   },
   {
     "author": "xrushha",
@@ -1849,9 +1849,9 @@
   },
   {
     "author": "Sergkart",
-    "name": "More Mechanoids Work Modes",
-    "steamId": null,
-    "version": null
+    "name": "WVC - Work Modes",
+    "steamId": "2888380373",
+    "version": "1.0.0.0"
   },
   {
     "author": "Ushanka",
@@ -2043,7 +2043,7 @@
     "author": "ChJees",
     "name": "Supreme Melee (Continued)",
     "steamId": "2311299987",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Nmajask",
@@ -2286,20 +2286,134 @@
     "version": null
   },
   {
-    "author": "sellophane",
-    "name": "Stockpile Stack Limit (Continued)",
+    "author": "kathanon",
+    "name": "Show Weapon Tallies",
+    "steamId": "2901520677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "cyanobot",
+    "name": "Toddlers",
+    "steamId": "2903359152",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Уверен?",
+    "name": "Hemogen Extractor",
+    "steamId": "2903919607",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Halituis Amaricanous",
+    "name": "Vanilla Spacer weapons - Beam Gun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Halituis Amaricanous and Sl4vP0wer",
+    "name": "Vanilla Spacer weapons - Bounce Gun",
+    "steamId": "2906455444",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Halituis Amaricanous",
+    "name": "Vanilla Spacer weapons - Explosive Bolt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Genes - Insectoid Mutations",
+    "steamId": "2906193379",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, OskarPotocki, Luizi, IcingWithCheeseCake, Sir Van and Reann_Shepard",
+    "name": "Reinforced Mechanoid 2",
+    "steamId": "2910050186",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrus",
+    "name": "Biosculpter Pod and Neural Supercharger Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AuxiliusM",
+    "name": "Super Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Resizable Table Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sir Van and Elseud",
+    "name": "Eltex Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "2.9.3.0"
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Power Grid",
+    "steamId": "2915686437",
+    "version": "1.1.3.0"
+  },
+  {
+    "author": "arl85",
+    "name": "Corpse info",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Stagz",
+    "name": "VSIE - Rational Trait Development",
+    "steamId": "2916405546",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "22、昏暗",
+    "name": "Biotech xenotype expanded - Rotfish",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Custom Icons",
     "steamId": null,
     "version": null
   },
   {
     "author": "hodlhodl",
-    "name": "ToolkitCore (Unofficial)",
+    "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",
-    "name": "Twitch Toolkit (Unofficial)",
+    "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
   },
@@ -2307,7 +2421,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.B4"
+    "version": "6.3.0.0.biotech.b6"
   },
   {
     "author": "Krkr",

@@ -196,11 +196,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -322,7 +317,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -342,12 +337,12 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -379,7 +374,17 @@
 		"abr": "equip",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 1000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 76
+	"total": 77
 }

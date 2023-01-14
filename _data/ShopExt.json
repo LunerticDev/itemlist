@@ -401,11 +401,11 @@
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -423,11 +423,11 @@
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -445,11 +445,11 @@
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -3415,7 +3415,7 @@
       "name": "schizoid"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
       "removePrice": 1000,
@@ -3516,7 +3516,7 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 1,
-      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
+      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and even deflect projectiles, if luck permits.",
       "stats": [
         "+10.0 melee parry melee chance",
         "+5.0 melee parry projectile chance",
@@ -3550,7 +3550,7 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 2,
-      "description": "Timmy's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
+      "description": "Timmy's reflexes transcend common sense. They effortlessly parry melee attacks and even deflect projectiles, if luck permits.",
       "stats": [
         "+20.0 melee parry melee chance",
         "+10.0 melee parry projectile chance",

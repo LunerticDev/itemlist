@@ -922,8 +922,8 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 150,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
@@ -1556,7 +1556,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore (Unofficial)"
+      "mod": "ToolkitCore"
     },
     "description": null,
     "name": "hello",
