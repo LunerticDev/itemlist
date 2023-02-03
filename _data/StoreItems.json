@@ -2900,7 +2900,7 @@
     },
     {
       "abr": "shieldcore",
-      "category": "Misc",
+      "category": "Items",
       "defname": "BroadshieldCore",
       "price": 583
     },
@@ -5242,7 +5242,7 @@
       "abr": "animabranch",
       "category": "Items",
       "defname": "AnimaBranch",
-      "price": -10
+      "price": 1658
     },
     {
       "abr": "animacolossus",
@@ -8800,13 +8800,13 @@
       "abr": "cryptocrossbow",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoLightCrossbow",
-      "price": -10
+      "price": 1550
     },
     {
       "abr": "cryptohatchet",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoLightAxe",
-      "price": -10
+      "price": 2200
     },
     {
       "abr": "cryptoheavyarmor",
@@ -8818,7 +8818,7 @@
       "abr": "cryptoheavycrossbow",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoHeavyCrossbow",
-      "price": -10
+      "price": 2525
     },
     {
       "abr": "cryptohelmet",
@@ -8830,13 +8830,13 @@
       "abr": "cryptopistol",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoPistol",
-      "price": -10
+      "price": 1742
     },
     {
       "abr": "cryptorifle",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoRifle",
-      "price": -10
+      "price": 2592
     },
     {
       "abr": "cryptoshield",
@@ -11806,7 +11806,7 @@
       "abr": "heavycryptoaxe",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoHeavyAxe",
-      "price": -10
+      "price": 3425
     },
     {
       "abr": "heavycryptohelmet",
@@ -18044,7 +18044,7 @@
     },
     {
       "abr": "royalinsectjelly",
-      "category": "Animal products",
+      "category": "Drugs",
       "defname": "VFEI_RoyalInsectJelly",
       "price": 17
     },
@@ -22087,6 +22087,204 @@
       "price": 6833
     },
     {
+      "abr": "nutrientpastedripper",
+      "category": "Misc",
+      "defname": "VNPE_NutrientPasteDripper",
+      "price": -10
+    },
+    {
+      "abr": "nutrientpastefeeder",
+      "category": "Furniture",
+      "defname": "VNPE_NutrientPasteFeeder",
+      "price": -10
+    },
+    {
+      "abr": "carnivorefinesoup",
+      "category": "Meals",
+      "defname": "VCE_CookedSoupFine_Carn",
+      "price": 33
+    },
+    {
+      "abr": "carnivorefinestew",
+      "category": "Meals",
+      "defname": "VCE_CookedStewFine_Carn",
+      "price": 30
+    },
+    {
+      "abr": "carnivoregourmetmeal",
+      "category": "Meals",
+      "defname": "VCE_MealGourmet_Carn",
+      "price": 117
+    },
+    {
+      "abr": "carnivoregourmetsoup",
+      "category": "Meals",
+      "defname": "VCE_CookedSoupGourmet_Carn",
+      "price": 117
+    },
+    {
+      "abr": "carnivorelavishsoup",
+      "category": "Meals",
+      "defname": "VCE_CookedSoupLavish_Carn",
+      "price": 67
+    },
+    {
+      "abr": "carnivorelavishstew",
+      "category": "Meals",
+      "defname": "VCE_CookedStewLavish_Carn",
+      "price": 63
+    },
+    {
+      "abr": "fireworklauncher",
+      "category": "Misc",
+      "defname": "FireworkLauncher",
+      "price": -10
+    },
+    {
+      "abr": "makeshifthammer",
+      "category": "Melee weapons",
+      "defname": "DV_MakeshiftHammer",
+      "price": 178
+    },
+    {
+      "abr": "makeshiftmace",
+      "category": "Melee weapons",
+      "defname": "DV_MakeshiftMace",
+      "price": 178
+    },
+    {
+      "abr": "makeshiftscythe",
+      "category": "Melee weapons",
+      "defname": "DV_MakeshiftScythe",
+      "price": 178
+    },
+    {
+      "abr": "uncookedcarnivorefinesoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupFine_Carn",
+      "price": 227
+    },
+    {
+      "abr": "uncookedcarnivorefinestew",
+      "category": "Uncooked stew",
+      "defname": "VCE_UncookedStewFine_Carn",
+      "price": 256
+    },
+    {
+      "abr": "uncookedcarnivoregourmetsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupGourmet_Carn",
+      "price": 742
+    },
+    {
+      "abr": "uncookedcarnivorelavishsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupLavish_Carn",
+      "price": 458
+    },
+    {
+      "abr": "uncookedcarnivorelavishstew",
+      "category": "Uncooked stew",
+      "defname": "VCE_UncookedStewLavish_Carn",
+      "price": 508
+    },
+    {
+      "abr": "uncookedvegetarianfinesoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupFine_Veg",
+      "price": 227
+    },
+    {
+      "abr": "uncookedvegetarianfinestew",
+      "category": "Uncooked stew",
+      "defname": "VCE_UncookedStewFine_Veg",
+      "price": 256
+    },
+    {
+      "abr": "uncookedvegetariangourmetsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupGourmet_Veg",
+      "price": 742
+    },
+    {
+      "abr": "uncookedvegetarianlavishsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupLavish_Veg",
+      "price": 458
+    },
+    {
+      "abr": "uncookedvegetarianlavishstew",
+      "category": "Uncooked stew",
+      "defname": "VCE_UncookedStewLavish_Veg",
+      "price": 508
+    },
+    {
+      "abr": "vegetarianfinebake",
+      "category": "Meals",
+      "defname": "VCE_FineBake_Veg",
+      "price": 33
+    },
+    {
+      "abr": "vegetarianfinesoup",
+      "category": "Meals",
+      "defname": "VCE_CookedSoupFine_Veg",
+      "price": 33
+    },
+    {
+      "abr": "companiondryad",
+      "category": "Animals",
+      "defname": "VRE_CompanionDryad",
+      "price": -10
+    },
+    {
+      "abr": "ocularslinger",
+      "category": "Animals",
+      "defname": "AG_OcularSlinger",
+      "price": 833
+    },
+    {
+      "abr": "vegetarianfinestew",
+      "category": "Meals",
+      "defname": "VCE_CookedStewFine_Veg",
+      "price": 30
+    },
+    {
+      "abr": "vegetariangourmetbake",
+      "category": "Meals",
+      "defname": "VCE_GourmetBake_Veg",
+      "price": 117
+    },
+    {
+      "abr": "vegetariangourmetmeal",
+      "category": "Meals",
+      "defname": "VCE_MealGourmet_Veg",
+      "price": 117
+    },
+    {
+      "abr": "vegetariangourmetsoup",
+      "category": "Meals",
+      "defname": "VCE_CookedSoupGourmet_Veg",
+      "price": 117
+    },
+    {
+      "abr": "vegetarianlavishbake",
+      "category": "Meals",
+      "defname": "VCE_LavishBake_Veg",
+      "price": 67
+    },
+    {
+      "abr": "vegetarianlavishsoup",
+      "category": "Meals",
+      "defname": "VCE_CookedSoupLavish_Veg",
+      "price": 67
+    },
+    {
+      "abr": "vegetarianlavishstew",
+      "category": "Meals",
+      "defname": "VCE_CookedStewLavish_Veg",
+      "price": 63
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -22267,5 +22465,5 @@
       "price": -10
     }
   ],
-  "total": 3711
+  "total": 3744
 }

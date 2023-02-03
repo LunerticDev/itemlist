@@ -30,6 +30,12 @@
     "version": "10.0.1"
   },
   {
+    "author": "sindre0830",
+    "name": "Universum",
+    "steamId": "2920558019",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -52,6 +58,12 @@
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
@@ -111,7 +123,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.8369.20891"
+    "version": "1.0.8420.33175"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -447,7 +459,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8412.1879"
+    "version": "1.0.8430.28320"
   },
   {
     "author": "Ratys",
@@ -484,6 +496,12 @@
     "name": "Rechargeable Low-shield Pack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Path Avoid",
+    "steamId": "1180719857",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -967,7 +985,7 @@
   },
   {
     "author": "MrHydralisk",
-    "name": "Vanilla Outposts Expanded Additional Outposts",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
     "steamId": null,
     "version": null
   },
@@ -1740,12 +1758,6 @@
     "version": "1.4.1"
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Aranmaho",
     "name": "Project RimFactory Revived Retextured",
     "steamId": null,
@@ -2354,8 +2366,8 @@
   {
     "author": "SmArtKar",
     "name": "Athena Framework",
-    "steamId": null,
-    "version": null
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
   },
   {
     "author": "Sir Van and Elseud",
@@ -2373,7 +2385,7 @@
     "author": "MrHydralisk",
     "name": "Vanilla Outposts Expanded: Power Grid",
     "steamId": "2915686437",
-    "version": "1.1.3.0"
+    "version": "1.1.5.0"
   },
   {
     "author": "arl85",
@@ -2402,6 +2414,108 @@
   {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Custom Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Childrens Drawings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dutchman",
+    "name": "Royalty 1.2 Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Nutrient Paste Expanded: Deep Vat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist (Forked with blood rot fix)",
+    "steamId": "2920283971",
+    "version": "2.9.140"
+  },
+  {
+    "author": "telardo",
+    "name": "Fireworks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BrickWaffle",
+    "name": "Better Helixien Gas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GonDragon",
+    "name": "Electrical Grid Toggler",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DetVisor",
+    "name": "Makeshift Melee Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sokyran and Hush",
+    "name": "More Rimefeller Compat",
+    "steamId": "2763187069",
+    "version": "1.1"
+  },
+  {
+    "author": "SpaceMoth",
+    "name": "Show Known Techprints",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "VCE - Carnivore/Vegetarian Meals Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
+    "name": "Vanilla Races Expanded - Phytokin",
+    "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MaxZiCode",
+    "name": "ZiTools objects seeker",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "Biotech Mech Stuff Elongated - Mechanoid Upgrades V2",
     "steamId": null,
     "version": null
   },
