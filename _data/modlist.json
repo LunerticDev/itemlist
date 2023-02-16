@@ -459,7 +459,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8430.28320"
+    "version": "1.0.8446.24484"
   },
   {
     "author": "Ratys",
@@ -538,12 +538,6 @@
     "name": "Rimefeller",
     "steamId": "1321849735",
     "version": "1.2.7364"
-  },
-  {
-    "author": "user19990313 and Trinity",
-    "name": "RuntimeGC [1.4]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
   },
   {
     "author": "Uuugggg",
@@ -1455,7 +1449,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.7.6"
+    "version": "2.7.7"
   },
   {
     "author": "aRandomKiwi",
@@ -2518,6 +2512,84 @@
     "name": "Biotech Mech Stuff Elongated - Mechanoid Upgrades V2",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Gege",
+    "name": "Command range extender mechanoid - Observer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Mech Colors",
+    "steamId": "2929236759",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830 and Nowano",
+    "name": "VFE - Mechanoids : Prison control droid (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Ship Cargo Hold",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Reminders",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Blazen_Rock, xrushha, legodude17, amnabi and Kitsune",
+    "name": "Heavy Melee Weapons (Continued)",
+    "steamId": "2932628115",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Biotech Gene Variety",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShadowX99",
+    "name": "Blood Color Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OMGSplat",
+    "name": "Split Genepack",
+    "steamId": "2905371517",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "1.14.0"
   },
   {
     "author": "hodlhodl",

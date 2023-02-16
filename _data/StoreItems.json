@@ -3766,367 +3766,367 @@
       "abr": "<color=#00fff7>auxilaryheart</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_AuxilaryHeart",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>butchersnails</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Brain_ButchersNails",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>calciumalloyribcage</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Ribcage_CalciumAlloyRibcage",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>combatserumgland</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_CombatSerumGland",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>cranialplating</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skull_CranialPlating",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>distendablejaw</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Jaw_DistendableJaw",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>extrananofilterlung</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_ExtraNanofilterLung",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>extradextrousappendage</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_ExtradextrousArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>eyeofthevoid</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Eye_EyeOfTheVoid",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>featheredwings</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_FeatheredWings",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>flameretardantskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_FlameRetardantSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>frostmantishook</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_FrostMantisHook",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>graspingleg</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_GraspingLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>highpressurepincer</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_HighPressurePincer",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>hormoneregulator</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_HormoneRegulator",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>interferenceshielding</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skull_InterferenceShielding",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>iridescenteye</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Eye_IridescentEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>leatherywings</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_LeatheryWings",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>lymphaticproliferator</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_LymphaticProliferator",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>microanalyzernose</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Nose_MicroAnalyzerNose",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>mucousgland</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Torso_MucousGland",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multichamberstomach</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Stomach_MultichamberStomach",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multifrequencyear</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Ear_MultifrequencyEar",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multilayereddermalplating</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Torso_MultilayeredDermalPlating",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multispectrumeye</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Eye_MultispectrumEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>musculaturebraces</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_MusculatureBraces",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>nanoalveolilung</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Lung_NanoAlveoliLung",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>neuralhyperthreader</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Brain_NeuralHyperthreader",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>neuroacceleratedspine</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Spine_NeuroAcceleratedSpine",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>norncrown</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_NornCrown",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>ossifiedbonesaber</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_OssifiedBoneSaber",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>peltgrowth</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_PeltGrowth",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>perspirationcleansingkidney</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Kidney_PerspirationCleansingKidney",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>pheromonereleasernose</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Nose_PheromoneReleaserNose",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>phytoplanktonskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_PhytoplanktonSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>plaguelesions</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_PlagueLesions",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>psychicresonancetissue</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skull_PsychicResonanceTissue",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>quadlobeliver</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Liver_QuadlobeLiver",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>radiationabsorbingskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_RadiationAbsorbingSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>rasvacoule</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_RasVacoule",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reactiveshimmerworms</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_ReactiveShimmerworms",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>regenerativeliver</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Liver_RegenerativeLiver",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reinforcedleg</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_ReinforcedLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reinforcedneckmuscles</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Neck_ReinforcedNeckMuscles",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reinforcedtortoiseshell</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_ReinforcedTortoiseShell",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>rendingclaw</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_RendingClaw",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reptilianfrontalcortex</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Brain_ReptilianFrontalCortex",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>salamanderwhip</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_SalamanderWhip",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>shimmeringskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_ShimmeringSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>shirehorseleg</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_ShireHorseLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>sonicimpactmace</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_SonicImpactMace",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>tentaclecluster</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_TentacleCluster",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>triplatedlimb</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_TriPlacedLimb",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>triplefilterpasskidney</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Kidney_TripleFilterPassKidney",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>triwovenprimaryheart</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Heart_TriwovenPrimaryHeart",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>variableinsulationskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_VariableInsulationSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>venomousfangs</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Jaw_VenomousFangs",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>venomousstinger</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Tail_VenomousStinger",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>venopillararm</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_VenopillarArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>waterfilledgrowth</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_WaterFilledGrowth",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>weigthedtail</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_WeightedTail",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "16kbattery",
@@ -22285,6 +22285,612 @@
       "price": 63
     },
     {
+      "abr": "advancedholodeck",
+      "category": "Recreation",
+      "defname": "Holodeck_Standard",
+      "price": -10
+    },
+    {
+      "abr": "afterlifecasket",
+      "category": "Buildings",
+      "defname": "Ship_AvatarCasket",
+      "price": -10
+    },
+    {
+      "abr": "antigraintorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_Antimatter",
+      "price": 2500
+    },
+    {
+      "abr": "archocat",
+      "category": "Animals",
+      "defname": "Archocat",
+      "price": -10
+    },
+    {
+      "abr": "archoffalo",
+      "category": "Animals",
+      "defname": "Archoffalo",
+      "price": -10
+    },
+    {
+      "abr": "archojerboa",
+      "category": "Animals",
+      "defname": "Archojerboa",
+      "price": -10
+    },
+    {
+      "abr": "archolifepod",
+      "category": "Items",
+      "defname": "ArcholifePod",
+      "price": -10
+    },
+    {
+      "abr": "archolope",
+      "category": "Animals",
+      "defname": "Archolope",
+      "price": -10
+    },
+    {
+      "abr": "archomutt",
+      "category": "Animals",
+      "defname": "Archomutt",
+      "price": -10
+    },
+    {
+      "abr": "archopanda",
+      "category": "Animals",
+      "defname": "Archopanda",
+      "price": -10
+    },
+    {
+      "abr": "archospider",
+      "category": "Animals",
+      "defname": "Archospider",
+      "price": -10
+    },
+    {
+      "abr": "archostrich",
+      "category": "Animals",
+      "defname": "Archostrich",
+      "price": -10
+    },
+    {
+      "abr": "archostrichegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggArchostrichFertilized",
+      "price": -10
+    },
+    {
+      "abr": "archostrichegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "EggArchostrichUnfertilized",
+      "price": 38
+    },
+    {
+      "abr": "archotechear",
+      "category": "Archotech",
+      "defname": "SoSArchotechEar",
+      "price": 2000
+    },
+    {
+      "abr": "archotechheart",
+      "category": "Archotech",
+      "defname": "SoSArchotechHeart",
+      "price": 4667
+    },
+    {
+      "abr": "archotechjaw",
+      "category": "Archotech",
+      "defname": "SoSArchotechJaw",
+      "price": 2000
+    },
+    {
+      "abr": "archotechkidney",
+      "category": "Archotech",
+      "defname": "SoSArchotechKidney",
+      "price": 2000
+    },
+    {
+      "abr": "archotechliver",
+      "category": "Archotech",
+      "defname": "SoSArchotechLiver",
+      "price": 2000
+    },
+    {
+      "abr": "archotechlung",
+      "category": "Archotech",
+      "defname": "SoSArchotechLung",
+      "price": 4667
+    },
+    {
+      "abr": "archotechnose",
+      "category": "Archotech",
+      "defname": "SoSArchotechNose",
+      "price": 2000
+    },
+    {
+      "abr": "archotechpillaralpha",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarA",
+      "price": -10
+    },
+    {
+      "abr": "archotechpillarbeta",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarB",
+      "price": -10
+    },
+    {
+      "abr": "archotechpillardelta",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarD",
+      "price": -10
+    },
+    {
+      "abr": "archotechpillargamma",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarC",
+      "price": -10
+    },
+    {
+      "abr": "archotechskin",
+      "category": "Archotech",
+      "defname": "SoSArchotechSkin",
+      "price": 4667
+    },
+    {
+      "abr": "archotechspine",
+      "category": "Archotech",
+      "defname": "SoSArchotechSpine",
+      "price": 4667
+    },
+    {
+      "abr": "archotechstomach",
+      "category": "Archotech",
+      "defname": "SoSArchotechStomach",
+      "price": 4667
+    },
+    {
+      "abr": "archotechuplink",
+      "category": "Misc",
+      "defname": "ArchotechUplink",
+      "price": -10
+    },
+    {
+      "abr": "archothrumbo",
+      "category": "Animals",
+      "defname": "Archothrumbo",
+      "price": -10
+    },
+    {
+      "abr": "archotortoise",
+      "category": "Animals",
+      "defname": "Archotortoise",
+      "price": -10
+    },
+    {
+      "abr": "archotortoiseegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggArchotortoiseFertilized",
+      "price": -10
+    },
+    {
+      "abr": "astromite",
+      "category": "Animals",
+      "defname": "Astromite",
+      "price": 167
+    },
+    {
+      "abr": "aurumfuel",
+      "category": "Foods",
+      "defname": "BTEMy_AurumFuel",
+      "price": 8
+    },
+    {
+      "abr": "aurumidol",
+      "category": "Misc",
+      "defname": "BTEMy_AurumIdol",
+      "price": -10
+    },
+    {
+      "abr": "basicholodeck",
+      "category": "Recreation",
+      "defname": "Holodeck_Basic",
+      "price": -10
+    },
+    {
+      "abr": "boxermechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFEMPCD_Mechanoids_BoxerBase",
+      "price": -10
+    },
+    {
+      "abr": "burstblade",
+      "category": "Melee weapons",
+      "defname": "HMW_MeleeWeapon_ZeusSword",
+      "price": 5000
+    },
+    {
+      "abr": "cargoshuttle",
+      "category": "Furniture",
+      "defname": "CargoShuttle",
+      "price": -10
+    },
+    {
+      "abr": "cargoshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleCargoRace",
+      "price": -10
+    },
+    {
+      "abr": "cosmopillar",
+      "category": "Animals",
+      "defname": "Cosmopillar",
+      "price": 833
+    },
+    {
+      "abr": "crowdcontrolmechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFEMPCD_Mechanoids_CCBase",
+      "price": -10
+    },
+    {
+      "abr": "emptorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_EMP",
+      "price": 433
+    },
+    {
+      "abr": "entanglementmanifold",
+      "category": "Items",
+      "defname": "SoSEntanglementManifold",
+      "price": 6667
+    },
+    {
+      "abr": "evahelmet",
+      "category": "Headgear",
+      "defname": "Apparel_SpaceSuitHelmet",
+      "price": 675
+    },
+    {
+      "abr": "evasuit",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSuitBody",
+      "price": 1150
+    },
+    {
+      "abr": "exoticparticles",
+      "category": "Items",
+      "defname": "ArchotechExoticParticles",
+      "price": 167
+    },
+    {
+      "abr": "genearchive",
+      "category": "Production",
+      "defname": "ThingGeneArchive",
+      "price": -10
+    },
+    {
+      "abr": "genemacroprocessor",
+      "category": "Production",
+      "defname": "ThingGeneMacroprocessor",
+      "price": -10
+    },
+    {
+      "abr": "generegister",
+      "category": "Production",
+      "defname": "ThingGeneRegister",
+      "price": -10
+    },
+    {
+      "abr": "genesubprocessor",
+      "category": "Production",
+      "defname": "ThingGeneSubprocessor",
+      "price": -10
+    },
+    {
+      "abr": "genepacksingle",
+      "category": "Misc",
+      "defname": "GenepackSingle",
+      "price": 42
+    },
+    {
+      "abr": "guardianshield",
+      "category": "Shields",
+      "defname": "HMW__GuardianShield",
+      "price": 1350
+    },
+    {
+      "abr": "hand",
+      "category": "Melee weapons",
+      "defname": "VFEMPCD_InvisibleHand",
+      "price": 3
+    },
+    {
+      "abr": "heavycargoshuttle",
+      "category": "Furniture",
+      "defname": "HeavyShuttle",
+      "price": -10
+    },
+    {
+      "abr": "heavycargoshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleHeavyRace",
+      "price": -10
+    },
+    {
+      "abr": "heavyevahelmet",
+      "category": "Headgear",
+      "defname": "Apparel_SpaceSuitHelmetHeavy",
+      "price": 1500
+    },
+    {
+      "abr": "heavyevasuit",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSuitBodyHeavy",
+      "price": 4117
+    },
+    {
+      "abr": "heavymonosword",
+      "category": "Melee weapons",
+      "defname": "HMW_MeleeWeapon_HeavyMonoSword",
+      "price": 5000
+    },
+    {
+      "abr": "high-explosivetorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_HighExplosive",
+      "price": 433
+    },
+    {
+      "abr": "hullfoamcanister",
+      "category": "Items",
+      "defname": "HullFoam",
+      "price": 33
+    },
+    {
+      "abr": "mechanitecocktails",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeMechanite",
+      "price": 1675
+    },
+    {
+      "abr": "mechanitedisassemblercore",
+      "category": "Items",
+      "defname": "ArchotechMechaniteCore",
+      "price": 6667
+    },
+    {
+      "abr": "mechaniterepairgel",
+      "category": "Items",
+      "defname": "ArchotechRepairGel",
+      "price": 833
+    },
+    {
+      "abr": "personaburstblade",
+      "category": "Persona weapons",
+      "defname": "HMW_MeleeWeapon_PersonaZeusSword",
+      "price": 10000
+    },
+    {
+      "abr": "personaheavymonosword",
+      "category": "Persona weapons",
+      "defname": "HMW_MeleeWeapon_PersonaHeavyMonoSword",
+      "price": 10000
+    },
+    {
+      "abr": "personaplasmalance",
+      "category": "Persona weapons",
+      "defname": "HMW_MeleeWeapon_PersonaFlameLance",
+      "price": 10000
+    },
+    {
+      "abr": "personarelicmaul",
+      "category": "Persona weapons",
+      "defname": "HMW_MeleeWeapon_PersonaPsychicWarhammer",
+      "price": 10000
+    },
+    {
+      "abr": "personalshuttle",
+      "category": "Furniture",
+      "defname": "PersonalShuttle",
+      "price": -10
+    },
+    {
+      "abr": "personalshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttlePersonalRace",
+      "price": -10
+    },
+    {
+      "abr": "plasmalance",
+      "category": "Melee weapons",
+      "defname": "HMW_MeleeWeapon_FlameLance",
+      "price": 5000
+    },
+    {
+      "abr": "psychicflayercore",
+      "category": "Items",
+      "defname": "ArchotechPsychicCore",
+      "price": 6667
+    },
+    {
+      "abr": "psychicmanipulator",
+      "category": "Archotech",
+      "defname": "SoSPsychicManipulator",
+      "price": 3333
+    },
+    {
+      "abr": "psychicpredictor",
+      "category": "Archotech",
+      "defname": "SoSPsychicPredictor",
+      "price": 2333
+    },
+    {
+      "abr": "recyclotron",
+      "category": "Production",
+      "defname": "ArchoRecycler",
+      "price": -10
+    },
+    {
+      "abr": "relicmaul",
+      "category": "Melee weapons",
+      "defname": "HMW_MeleeWeapon_PsychicWarhammer",
+      "price": 5000
+    },
+    {
+      "abr": "reveredmote",
+      "category": "Foods",
+      "defname": "BTEMy_ReverenceFuel",
+      "price": 8
+    },
+    {
+      "abr": "reveredpsylinker",
+      "category": "Archotech",
+      "defname": "BTEMy_ReveredPsylinker",
+      "price": 4333
+    },
+    {
+      "abr": "rockethammer",
+      "category": "Melee weapons",
+      "defname": "HMW_MeleeWeapon_RocketHammer",
+      "price": 4167
+    },
+    {
+      "abr": "sagittariusmight",
+      "category": "Melee weapons",
+      "defname": "HMW_MeleeWeapon_SagittariusMight",
+      "price": 11667
+    },
+    {
+      "abr": "sapientholodeck",
+      "category": "Recreation",
+      "defname": "Holodeck_AI",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(ancientmartiancorvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPTachinante",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(archerfrigate)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPFrigateArcher",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(corvettegunship)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvetteGunship",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(corvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvette",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(corvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvetteWinged",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(fireflytransport)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCargoFirefly",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(frigate)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPFrigateWinged",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(heavybomber)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPBomberHeavy",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(smalltransport)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPTransportSmall",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(torpedocorvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvetteTorp",
+      "price": -10
+    },
+    {
+      "abr": "shipcapacitor",
+      "category": "Furniture",
+      "defname": "ShipCapacitorSmall",
+      "price": -10
+    },
+    {
+      "abr": "shipsalvage",
+      "category": "Special",
+      "defname": "ShipChunkSalvage",
+      "price": -10
+    },
+    {
+      "abr": "spacetelescope",
+      "category": "Recreation",
+      "defname": "TelescopeSpace",
+      "price": -10
+    },
+    {
+      "abr": "stellapede",
+      "category": "Animals",
+      "defname": "Stellapede",
+      "price": 333
+    },
+    {
+      "abr": "superheavydropship",
+      "category": "Furniture",
+      "defname": "DropshipShuttle",
+      "price": -10
+    },
+    {
+      "abr": "superheavydropship(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleDropshipRace",
+      "price": -10
+    },
+    {
+      "abr": "survivalbelt",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSurvivalBelt",
+      "price": 178
+    },
+    {
+      "abr": "uraniumfuelpod",
+      "category": "Manufactured",
+      "defname": "ShuttleFuelPods",
+      "price": 1
+    },
+    {
+      "abr": "vanoroot",
+      "category": "Vegetarian",
+      "defname": "RawVanoroot",
+      "price": 2
+    },
+    {
+      "abr": "weathernormalizationdevice",
+      "category": "Artifacts",
+      "defname": "WeatherCancelDevice",
+      "price": 2000
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -22336,7 +22942,7 @@
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "guestcrib",
@@ -22348,7 +22954,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "VME_AncientBedGuest",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "gueststone-framedbedroll",
@@ -22465,5 +23071,5 @@
       "price": -10
     }
   ],
-  "total": 3744
+  "total": 3845
 }
