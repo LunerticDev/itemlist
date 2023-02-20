@@ -208,13 +208,13 @@
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": 2275
+      "price": -10
     },
     {
       "abr": "basicsubcore",
       "category": "Manufactured",
       "defname": "SubcoreBasic",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "battery",
@@ -724,7 +724,7 @@
       "abr": "controlpack",
       "category": "Utility",
       "defname": "Apparel_PackControl",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "controlsublink(high)",
@@ -2098,7 +2098,7 @@
       "abr": "mechcommanderhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechCommander",
-      "price": 2150
+      "price": -10
     },
     {
       "abr": "mechlink",
@@ -2110,13 +2110,13 @@
       "abr": "mechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechlordHelmet",
-      "price": 8892
+      "price": -10
     },
     {
       "abr": "mechlordsuit",
       "category": "Armor",
       "defname": "Apparel_MechlordSuit",
-      "price": 11692
+      "price": -10
     },
     {
       "abr": "medicine",
@@ -3178,7 +3178,7 @@
       "abr": "standardsubcore",
       "category": "Manufactured",
       "defname": "SubcoreRegular",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "standinglamp",
@@ -12604,7 +12604,7 @@
       "abr": "irisinstallationkit",
       "category": "Items",
       "defname": "StargateMod_IrisInstallKit",
-      "price": -10
+      "price": 8675
     },
     {
       "abr": "irishcoffee",
@@ -13414,7 +13414,7 @@
       "abr": "ma-aichip",
       "category": "Manufactured",
       "defname": "EPOE_MAAI_Chip",
-      "price": 725
+      "price": -10
     },
     {
       "abr": "machiningcabinet",
@@ -13882,7 +13882,7 @@
       "abr": "mechanoidcomponent",
       "category": "Manufactured",
       "defname": "VFE_ComponentMechanoid",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "mechanoideffigy",
@@ -14686,7 +14686,7 @@
       "abr": "nanomechanites",
       "category": "Manufactured",
       "defname": "EVOR_Resource_Mechanites",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "nanotechretractor",
@@ -15832,7 +15832,7 @@
       "abr": "plutonium",
       "category": "Rimatomics Product",
       "defname": "Plutonium",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "pneumaticclaw",
@@ -15946,19 +15946,19 @@
       "abr": "prestigemechcommanderhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetPrestigeMechCommander",
-      "price": 2575
+      "price": -10
     },
     {
       "abr": "prestigemechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetPrestigeMechlordHelmet",
-      "price": 9850
+      "price": -10
     },
     {
       "abr": "prestigemechlordsuit",
       "category": "Armor",
       "defname": "Apparel_PrestigeMechlordSuit",
-      "price": 12908
+      "price": -10
     },
     {
       "abr": "prestigephalanxarmor",
@@ -22285,204 +22285,6 @@
       "price": 63
     },
     {
-      "abr": "advancedholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Standard",
-      "price": -10
-    },
-    {
-      "abr": "afterlifecasket",
-      "category": "Buildings",
-      "defname": "Ship_AvatarCasket",
-      "price": -10
-    },
-    {
-      "abr": "antigraintorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_Antimatter",
-      "price": 2500
-    },
-    {
-      "abr": "archocat",
-      "category": "Animals",
-      "defname": "Archocat",
-      "price": -10
-    },
-    {
-      "abr": "archoffalo",
-      "category": "Animals",
-      "defname": "Archoffalo",
-      "price": -10
-    },
-    {
-      "abr": "archojerboa",
-      "category": "Animals",
-      "defname": "Archojerboa",
-      "price": -10
-    },
-    {
-      "abr": "archolifepod",
-      "category": "Items",
-      "defname": "ArcholifePod",
-      "price": -10
-    },
-    {
-      "abr": "archolope",
-      "category": "Animals",
-      "defname": "Archolope",
-      "price": -10
-    },
-    {
-      "abr": "archomutt",
-      "category": "Animals",
-      "defname": "Archomutt",
-      "price": -10
-    },
-    {
-      "abr": "archopanda",
-      "category": "Animals",
-      "defname": "Archopanda",
-      "price": -10
-    },
-    {
-      "abr": "archospider",
-      "category": "Animals",
-      "defname": "Archospider",
-      "price": -10
-    },
-    {
-      "abr": "archostrich",
-      "category": "Animals",
-      "defname": "Archostrich",
-      "price": -10
-    },
-    {
-      "abr": "archostrichegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchostrichFertilized",
-      "price": -10
-    },
-    {
-      "abr": "archostrichegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "EggArchostrichUnfertilized",
-      "price": 38
-    },
-    {
-      "abr": "archotechear",
-      "category": "Archotech",
-      "defname": "SoSArchotechEar",
-      "price": 2000
-    },
-    {
-      "abr": "archotechheart",
-      "category": "Archotech",
-      "defname": "SoSArchotechHeart",
-      "price": 4667
-    },
-    {
-      "abr": "archotechjaw",
-      "category": "Archotech",
-      "defname": "SoSArchotechJaw",
-      "price": 2000
-    },
-    {
-      "abr": "archotechkidney",
-      "category": "Archotech",
-      "defname": "SoSArchotechKidney",
-      "price": 2000
-    },
-    {
-      "abr": "archotechliver",
-      "category": "Archotech",
-      "defname": "SoSArchotechLiver",
-      "price": 2000
-    },
-    {
-      "abr": "archotechlung",
-      "category": "Archotech",
-      "defname": "SoSArchotechLung",
-      "price": 4667
-    },
-    {
-      "abr": "archotechnose",
-      "category": "Archotech",
-      "defname": "SoSArchotechNose",
-      "price": 2000
-    },
-    {
-      "abr": "archotechpillaralpha",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarA",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillarbeta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarB",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillardelta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarD",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillargamma",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarC",
-      "price": -10
-    },
-    {
-      "abr": "archotechskin",
-      "category": "Archotech",
-      "defname": "SoSArchotechSkin",
-      "price": 4667
-    },
-    {
-      "abr": "archotechspine",
-      "category": "Archotech",
-      "defname": "SoSArchotechSpine",
-      "price": 4667
-    },
-    {
-      "abr": "archotechstomach",
-      "category": "Archotech",
-      "defname": "SoSArchotechStomach",
-      "price": 4667
-    },
-    {
-      "abr": "archotechuplink",
-      "category": "Misc",
-      "defname": "ArchotechUplink",
-      "price": -10
-    },
-    {
-      "abr": "archothrumbo",
-      "category": "Animals",
-      "defname": "Archothrumbo",
-      "price": -10
-    },
-    {
-      "abr": "archotortoise",
-      "category": "Animals",
-      "defname": "Archotortoise",
-      "price": -10
-    },
-    {
-      "abr": "archotortoiseegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchotortoiseFertilized",
-      "price": -10
-    },
-    {
-      "abr": "astromite",
-      "category": "Animals",
-      "defname": "Astromite",
-      "price": 167
-    },
-    {
       "abr": "aurumfuel",
       "category": "Foods",
       "defname": "BTEMy_AurumFuel",
@@ -22492,12 +22294,6 @@
       "abr": "aurumidol",
       "category": "Misc",
       "defname": "BTEMy_AurumIdol",
-      "price": -10
-    },
-    {
-      "abr": "basicholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Basic",
       "price": -10
     },
     {
@@ -22513,58 +22309,10 @@
       "price": 5000
     },
     {
-      "abr": "cargoshuttle",
-      "category": "Furniture",
-      "defname": "CargoShuttle",
-      "price": -10
-    },
-    {
-      "abr": "cargoshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleCargoRace",
-      "price": -10
-    },
-    {
-      "abr": "cosmopillar",
-      "category": "Animals",
-      "defname": "Cosmopillar",
-      "price": 833
-    },
-    {
       "abr": "crowdcontrolmechanoidchargingstation",
       "category": "Production",
       "defname": "VFEMPCD_Mechanoids_CCBase",
       "price": -10
-    },
-    {
-      "abr": "emptorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_EMP",
-      "price": 433
-    },
-    {
-      "abr": "entanglementmanifold",
-      "category": "Items",
-      "defname": "SoSEntanglementManifold",
-      "price": 6667
-    },
-    {
-      "abr": "evahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmet",
-      "price": 675
-    },
-    {
-      "abr": "evasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBody",
-      "price": 1150
-    },
-    {
-      "abr": "exoticparticles",
-      "category": "Items",
-      "defname": "ArchotechExoticParticles",
-      "price": 167
     },
     {
       "abr": "genearchive",
@@ -22594,7 +22342,7 @@
       "abr": "genepacksingle",
       "category": "Misc",
       "defname": "GenepackSingle",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "guardianshield",
@@ -22609,64 +22357,10 @@
       "price": 3
     },
     {
-      "abr": "heavycargoshuttle",
-      "category": "Furniture",
-      "defname": "HeavyShuttle",
-      "price": -10
-    },
-    {
-      "abr": "heavycargoshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleHeavyRace",
-      "price": -10
-    },
-    {
-      "abr": "heavyevahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmetHeavy",
-      "price": 1500
-    },
-    {
-      "abr": "heavyevasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBodyHeavy",
-      "price": 4117
-    },
-    {
       "abr": "heavymonosword",
       "category": "Melee weapons",
       "defname": "HMW_MeleeWeapon_HeavyMonoSword",
       "price": 5000
-    },
-    {
-      "abr": "high-explosivetorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_HighExplosive",
-      "price": 433
-    },
-    {
-      "abr": "hullfoamcanister",
-      "category": "Items",
-      "defname": "HullFoam",
-      "price": 33
-    },
-    {
-      "abr": "mechanitecocktails",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeMechanite",
-      "price": 1675
-    },
-    {
-      "abr": "mechanitedisassemblercore",
-      "category": "Items",
-      "defname": "ArchotechMechaniteCore",
-      "price": 6667
-    },
-    {
-      "abr": "mechaniterepairgel",
-      "category": "Items",
-      "defname": "ArchotechRepairGel",
-      "price": 833
     },
     {
       "abr": "personaburstblade",
@@ -22693,46 +22387,10 @@
       "price": 10000
     },
     {
-      "abr": "personalshuttle",
-      "category": "Furniture",
-      "defname": "PersonalShuttle",
-      "price": -10
-    },
-    {
-      "abr": "personalshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttlePersonalRace",
-      "price": -10
-    },
-    {
       "abr": "plasmalance",
       "category": "Melee weapons",
       "defname": "HMW_MeleeWeapon_FlameLance",
       "price": 5000
-    },
-    {
-      "abr": "psychicflayercore",
-      "category": "Items",
-      "defname": "ArchotechPsychicCore",
-      "price": 6667
-    },
-    {
-      "abr": "psychicmanipulator",
-      "category": "Archotech",
-      "defname": "SoSPsychicManipulator",
-      "price": 3333
-    },
-    {
-      "abr": "psychicpredictor",
-      "category": "Archotech",
-      "defname": "SoSPsychicPredictor",
-      "price": 2333
-    },
-    {
-      "abr": "recyclotron",
-      "category": "Production",
-      "defname": "ArchoRecycler",
-      "price": -10
     },
     {
       "abr": "relicmaul",
@@ -22763,132 +22421,6 @@
       "category": "Melee weapons",
       "defname": "HMW_MeleeWeapon_SagittariusMight",
       "price": 11667
-    },
-    {
-      "abr": "sapientholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_AI",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(ancientmartiancorvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPTachinante",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(archerfrigate)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPFrigateArcher",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvettegunship)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteGunship",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvette",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteWinged",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(fireflytransport)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCargoFirefly",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(frigate)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPFrigateWinged",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(heavybomber)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPBomberHeavy",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(smalltransport)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPTransportSmall",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(torpedocorvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteTorp",
-      "price": -10
-    },
-    {
-      "abr": "shipcapacitor",
-      "category": "Furniture",
-      "defname": "ShipCapacitorSmall",
-      "price": -10
-    },
-    {
-      "abr": "shipsalvage",
-      "category": "Special",
-      "defname": "ShipChunkSalvage",
-      "price": -10
-    },
-    {
-      "abr": "spacetelescope",
-      "category": "Recreation",
-      "defname": "TelescopeSpace",
-      "price": -10
-    },
-    {
-      "abr": "stellapede",
-      "category": "Animals",
-      "defname": "Stellapede",
-      "price": 333
-    },
-    {
-      "abr": "superheavydropship",
-      "category": "Furniture",
-      "defname": "DropshipShuttle",
-      "price": -10
-    },
-    {
-      "abr": "superheavydropship(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleDropshipRace",
-      "price": -10
-    },
-    {
-      "abr": "survivalbelt",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSurvivalBelt",
-      "price": 178
-    },
-    {
-      "abr": "uraniumfuelpod",
-      "category": "Manufactured",
-      "defname": "ShuttleFuelPods",
-      "price": 1
-    },
-    {
-      "abr": "vanoroot",
-      "category": "Vegetarian",
-      "defname": "RawVanoroot",
-      "price": 2
-    },
-    {
-      "abr": "weathernormalizationdevice",
-      "category": "Artifacts",
-      "defname": "WeatherCancelDevice",
-      "price": 2000
     },
     {
       "abr": "guestbed",
@@ -22942,7 +22474,7 @@
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "guestcrib",
@@ -22954,7 +22486,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "VME_AncientBedGuest",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "gueststone-framedbedroll",
@@ -23069,7 +22601,379 @@
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
       "price": -10
+    },
+    {
+      "abr": "air-conindoorunit",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "air-conoutdoorunit",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "ancientwaterfilter",
+      "category": "Hygiene",
+      "defname": "VFEA_AncientWaterFilter",
+      "price": -10
+    },
+    {
+      "abr": "bandwidthcontroltower",
+      "category": "Misc",
+      "defname": "BandwidthControlTower",
+      "price": -10
+    },
+    {
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": -10
+    },
+    {
+      "abr": "bathmat",
+      "category": "Furniture",
+      "defname": "BathMat",
+      "price": -10
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": -10
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "biosolids",
+      "category": "Waste",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "biosolidscomposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": -10
+    },
+    {
+      "abr": "bloodbiscuit",
+      "category": "Foods",
+      "defname": "HC_BloodBiscuit",
+      "price": 7
+    },
+    {
+      "abr": "bloodsoda",
+      "category": "Drugs",
+      "defname": "HC_BloodSoda",
+      "price": 20
+    },
+    {
+      "abr": "bloodsodasyrup",
+      "category": "Musts and syrups",
+      "defname": "HC_BloodSodaSyrup",
+      "price": 4
+    },
+    {
+      "abr": "bloodsoup",
+      "category": "Meals",
+      "defname": "HC_CookedBloodSoup",
+      "price": 27
+    },
+    {
+      "abr": "bloodstew",
+      "category": "Meals",
+      "defname": "HC_CookedBloodStew",
+      "price": 28
+    },
+    {
+      "abr": "ceilingfan1x1",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan2x2",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelboiler",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": -10
+    },
+    {
+      "abr": "electricboiler",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": -10
+    },
+    {
+      "abr": "electricpump",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": -10
+    },
+    {
+      "abr": "electricsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": -10
+    },
+    {
+      "abr": "fieldresearchanalyzer-kit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitMultiAnalyzer",
+      "price": 270
+    },
+    {
+      "abr": "fieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitHiTech",
+      "price": 129
+    },
+    {
+      "abr": "firesprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "fountain",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": -10
+    },
+    {
+      "abr": "fueledsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": -10
+    },
+    {
+      "abr": "helixiengasboiler",
+      "category": "Hygiene",
+      "defname": "HelixienGasBoiler",
+      "price": -10
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": -10
+    },
+    {
+      "abr": "hotwatertank",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": -10
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "largeradiator",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": -10
+    },
+    {
+      "abr": "lasercarbine",
+      "category": "Ranged weapons",
+      "defname": "Laser_Carbine",
+      "price": 4000
+    },
+    {
+      "abr": "laserdestructor",
+      "category": "Ranged weapons",
+      "defname": "Laser_Destructor",
+      "price": 5333
+    },
+    {
+      "abr": "laserhandcannon",
+      "category": "Ranged weapons",
+      "defname": "Laser_Handcannon",
+      "price": 3500
+    },
+    {
+      "abr": "lasersaber",
+      "category": "Melee weapons",
+      "defname": "Laser_Saber",
+      "price": 3333
+    },
+    {
+      "abr": "laserscatterer",
+      "category": "Ranged weapons",
+      "defname": "Laser_Scatterer",
+      "price": 4000
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": -10
+    },
+    {
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": -10
+    },
+    {
+      "abr": "logboiler",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": -10
+    },
+    {
+      "abr": "mechcontrolbeacon",
+      "category": "Misc",
+      "defname": "MechControlBeacon",
+      "price": -10
+    },
+    {
+      "abr": "mechcontroltower",
+      "category": "Misc",
+      "defname": "MechControlTower",
+      "price": -10
+    },
+    {
+      "abr": "mechoverdrivebeacon",
+      "category": "Misc",
+      "defname": "MechOverdriveBeacon",
+      "price": -10
+    },
+    {
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": -10
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "radiator",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": -10
+    },
+    {
+      "abr": "remotefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitRemote",
+      "price": 642
+    },
+    {
+      "abr": "saunaseating",
+      "category": "Furniture",
+      "defname": "DBHSaunaSeating",
+      "price": -10
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": -10
+    },
+    {
+      "abr": "simplefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitSimple",
+      "price": 58
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": -10
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "teachersdesk",
+      "category": "Production",
+      "defname": "TeachersDesk",
+      "price": -10
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": -10
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": -10
+    },
+    {
+      "abr": "towelrail",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": -10
+    },
+    {
+      "abr": "uncookedbloodsoup",
+      "category": "Uncooked soups",
+      "defname": "HC_UncookedBloodSoup",
+      "price": 204
+    },
+    {
+      "abr": "uncookedbloodstew",
+      "category": "Uncooked stew",
+      "defname": "HC_UncookedBloodStew",
+      "price": 230
+    },
+    {
+      "abr": "walk-infreezerunit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": -10
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": -10
+    },
+    {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": -10
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": -10
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": -10
     }
   ],
-  "total": 3845
+  "total": 3829
 }
