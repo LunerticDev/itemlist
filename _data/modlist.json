@@ -12,12 +12,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.8315.17730"
-  },
-  {
     "author": "Smash Phil and Neceros",
     "name": "SRTS Expanded",
     "steamId": "2878587061",
@@ -34,6 +28,12 @@
     "name": "Universum",
     "steamId": "2920558019",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Andreas Pardeike",
@@ -75,7 +75,7 @@
     "author": "Sarg Bjornson and AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
-    "version": "1.0.0.0"
+    "version": "1.4.8315.17730"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -204,12 +204,6 @@
     "version": null
   },
   {
-    "author": "Ogam",
-    "name": "Custom player icon",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "K",
     "name": "GlitterNet",
     "steamId": "1725544583",
@@ -266,24 +260,6 @@
   {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
     "steamId": null,
     "version": null
   },
@@ -357,7 +333,7 @@
     "author": "Arquebus",
     "name": "More Persona Traits",
     "steamId": "2863308112",
-    "version": "1.1.8379.24281"
+    "version": "0.0.0.0"
   },
   {
     "author": "Morphium",
@@ -429,7 +405,7 @@
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.7.0"
+    "version": "1.7.1"
   },
   {
     "author": "Lakuna",
@@ -490,18 +466,6 @@
     "name": "Rechargeable Low-shield Pack",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Path Avoid",
-    "steamId": "1180719857",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -642,16 +606,34 @@
     "version": "1.7.0"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented: Stepping Stones",
-    "steamId": "2868389782",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Grimm",
     "name": "Un-Limited",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson and harkon",
+    "name": "Bradson's Main Button Icons for VE Textures",
+    "steamId": "2361775777",
+    "version": "1.0.0"
   },
   {
     "author": "Owlchemist",
@@ -718,12 +700,6 @@
     "name": "Vanilla Factions Expanded - Vikings",
     "steamId": "2231295285",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "bradson and harkon",
-    "name": "Bradson's Main Button Icons for VE Textures",
-    "steamId": "2361775777",
-    "version": "1.0.0"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
@@ -1248,18 +1224,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Hex",
-    "name": "I Demand Permits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GhostData",
-    "name": "Life Lessons",
-    "steamId": "2920678419",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
@@ -1353,12 +1317,6 @@
     "author": "民火",
     "name": "Statue of Colonist",
     "steamId": "1539031321",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Stockpile Ranking",
-    "steamId": "1558464886",
     "version": "1.0.0.0"
   },
   {
@@ -1566,12 +1524,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Owlchemist and jptrrs",
-    "name": "Windows",
-    "steamId": "2571189146",
-    "version": "1.4"
-  },
-  {
     "author": "MrKociak",
     "name": "Stargate Retexture / Retheme",
     "steamId": null,
@@ -1636,12 +1588,6 @@
     "name": "Vanilla Fishing Expanded - Automation",
     "steamId": "2266336252",
     "version": "1.4.0.0"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "Kill For Me",
-    "steamId": "1629854111",
-    "version": "1.6.5.2"
   },
   {
     "author": "Vesper",
@@ -1764,18 +1710,6 @@
     "version": null
   },
   {
-    "author": "Hydrologist",
-    "name": "Mechanitor Psy-Sensitive Control Range",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hydroxyapatite",
-    "name": "Mechanitor Command Relays",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sindre0830",
     "name": "RimNauts 2",
     "steamId": "2880599514",
@@ -1784,12 +1718,6 @@
   {
     "author": "AobaKuma",
     "name": "Cargo container",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Cargo waste container",
     "steamId": null,
     "version": null
   },
@@ -1974,6 +1902,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ㅇ",
     "name": "Infinite Reinforce",
     "steamId": "2623528901",
@@ -2136,6 +2070,12 @@
     "version": null
   },
   {
+    "author": "AludisNHG",
+    "name": "VFE: Mechanoids Assemble Mechanoid Chips",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Seos",
     "name": "VFE - Mechanoids : Drones",
     "steamId": null,
@@ -2175,13 +2115,7 @@
     "author": "Vampiresbane",
     "name": "Rails and Roads of the Rim",
     "steamId": "2896163437",
-    "version": "1.4.1"
-  },
-  {
-    "author": "PrinceOfPluto",
-    "name": "SRTS Trains",
-    "steamId": null,
-    "version": null
+    "version": "1.4.2"
   },
   {
     "author": "Ratys",
@@ -2598,12 +2532,6 @@
     "version": "1.3.3"
   },
   {
-    "author": "Shadowrabbit, engager6 and 3HST有限公司",
-    "name": "[SR]Realistic Ore Generation",
-    "steamId": "2604132286",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Cabbage",
     "name": "RimCities",
     "steamId": "1775170117",
@@ -2666,7 +2594,7 @@
   {
     "author": "Sl4vP0weR",
     "name": "RimTerritory",
-    "steamId": "",
+    "steamId": "2932967004",
     "version": "1.0.0"
   },
   {
@@ -2674,6 +2602,78 @@
     "name": "More Mechanitor Towers",
     "steamId": "",
     "version": "1.0.0"
+  },
+  {
+    "author": "kathanon",
+    "name": "Fix Mech Threat Delay",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheLastBulletBender",
+    "name": "Saddle-up 2!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Grizzlemethis",
+    "name": "[GMT] Trading Spot",
+    "steamId": "2874517333",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "xrushha",
+    "name": "Buyable psylink neuroformers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NoImageAvailable",
+    "name": "Mass Graves",
+    "steamId": "1542386771",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Grizzlemethis",
+    "name": "[GMT] Mausoleums, Tombs and Graves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pal 5k",
+    "name": "Logistics_Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ThatBartGuy",
+    "name": "Evolved Organs Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mort Strudel",
+    "name": "Conservationist and Polluter - Mort's Ideologies: Memes and Precepts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrunchyDuck",
+    "name": "Mechanoid Hibernation",
+    "steamId": "2882284964",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",

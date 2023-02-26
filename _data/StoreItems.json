@@ -7591,12 +7591,6 @@
       "price": -10
     },
     {
-      "abr": "cashregister",
-      "category": "Furniture",
-      "defname": "CashRegister_CashRegister",
-      "price": -10
-    },
-    {
       "abr": "cassavas",
       "category": "Vegetarian",
       "defname": "VCE_RawCassava",
@@ -9655,12 +9649,6 @@
       "price": 2333
     },
     {
-      "abr": "emdsd40-2",
-      "category": "Buildings",
-      "defname": "SRTS_Trains_Diesel_EMD_SD40_Loco",
-      "price": -10
-    },
-    {
       "abr": "empchargegenerator",
       "category": "Prosthetic",
       "defname": "SP_EMPGenerator",
@@ -10729,12 +10717,6 @@
       "price": -10
     },
     {
-      "abr": "frisco1503",
-      "category": "Buildings",
-      "defname": "SRTS_Trains_Steam_Engine_Frisco",
-      "price": -10
-    },
-    {
       "abr": "frontierpistol",
       "category": "Ranged weapons",
       "defname": "VWEFT_Gun_FrontierPistol",
@@ -11675,12 +11657,6 @@
       "category": "Ranged weapons",
       "defname": "VWE_Gun_HandCannon",
       "price": 232
-    },
-    {
-      "abr": "handcar",
-      "category": "Buildings",
-      "defname": "SRTS_Trains_Handcar",
-      "price": -10
     },
     {
       "abr": "handheldgatlinggun",
@@ -19375,12 +19351,6 @@
       "price": -10
     },
     {
-      "abr": "steamlocomotive",
-      "category": "Buildings",
-      "defname": "SRTS_Trains_Steam_Engine_A",
-      "price": -10
-    },
-    {
       "abr": "steampunkslab(broad)",
       "category": "Furniture",
       "defname": "AM_SteampunkSlab_Broad",
@@ -21571,18 +21541,6 @@
       "price": -10
     },
     {
-      "abr": "woodburningfrisco1503",
-      "category": "Buildings",
-      "defname": "SRTS_Trains_Steam_Engine_Frisco_Wood",
-      "price": -10
-    },
-    {
-      "abr": "woodburningsteamlocomotive",
-      "category": "Buildings",
-      "defname": "SRTS_Trains_Steam_Engine_A_Wood",
-      "price": -10
-    },
-    {
       "abr": "woodenarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_WoodenArmor",
@@ -22423,6 +22381,576 @@
       "price": 11667
     },
     {
+      "abr": "air-conindoorunit",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "air-conoutdoorunit",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "ancientwaterfilter",
+      "category": "Hygiene",
+      "defname": "VFEA_AncientWaterFilter",
+      "price": -10
+    },
+    {
+      "abr": "bandwidthcontroltower",
+      "category": "Misc",
+      "defname": "BandwidthControlTower",
+      "price": -10
+    },
+    {
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": -10
+    },
+    {
+      "abr": "bathmat",
+      "category": "Furniture",
+      "defname": "BathMat",
+      "price": -10
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": -10
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "biosolids",
+      "category": "Waste",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "biosolidscomposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": -10
+    },
+    {
+      "abr": "bloodbiscuit",
+      "category": "Foods",
+      "defname": "HC_BloodBiscuit",
+      "price": 7
+    },
+    {
+      "abr": "bloodsoda",
+      "category": "Drugs",
+      "defname": "HC_BloodSoda",
+      "price": 20
+    },
+    {
+      "abr": "bloodsodasyrup",
+      "category": "Musts and syrups",
+      "defname": "HC_BloodSodaSyrup",
+      "price": 4
+    },
+    {
+      "abr": "bloodsoup",
+      "category": "Meals",
+      "defname": "HC_CookedBloodSoup",
+      "price": 27
+    },
+    {
+      "abr": "bloodstew",
+      "category": "Meals",
+      "defname": "HC_CookedBloodStew",
+      "price": 28
+    },
+    {
+      "abr": "ceilingfan1x1",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan2x2",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelboiler",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": -10
+    },
+    {
+      "abr": "electricboiler",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": -10
+    },
+    {
+      "abr": "electricpump",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": -10
+    },
+    {
+      "abr": "electricsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": -10
+    },
+    {
+      "abr": "firesprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "fountain",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": -10
+    },
+    {
+      "abr": "fueledsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": -10
+    },
+    {
+      "abr": "helixiengasboiler",
+      "category": "Hygiene",
+      "defname": "HelixienGasBoiler",
+      "price": -10
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": -10
+    },
+    {
+      "abr": "hotwatertank",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": -10
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "largeradiator",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": -10
+    },
+    {
+      "abr": "lasercarbine",
+      "category": "Ranged weapons",
+      "defname": "Laser_Carbine",
+      "price": 4000
+    },
+    {
+      "abr": "laserdestructor",
+      "category": "Ranged weapons",
+      "defname": "Laser_Destructor",
+      "price": 5333
+    },
+    {
+      "abr": "laserhandcannon",
+      "category": "Ranged weapons",
+      "defname": "Laser_Handcannon",
+      "price": 3500
+    },
+    {
+      "abr": "lasersaber",
+      "category": "Melee weapons",
+      "defname": "Laser_Saber",
+      "price": 3333
+    },
+    {
+      "abr": "laserscatterer",
+      "category": "Ranged weapons",
+      "defname": "Laser_Scatterer",
+      "price": 4000
+    },
+    {
+      "abr": "animaltomb",
+      "category": "Misc",
+      "defname": "AnimalTomb",
+      "price": -10
+    },
+    {
+      "abr": "basicmausoleum",
+      "category": "Misc",
+      "defname": "BasicMausoleum",
+      "price": -10
+    },
+    {
+      "abr": "cashregister",
+      "category": "Furniture",
+      "defname": "CashRegister_CashRegister",
+      "price": -10
+    },
+    {
+      "abr": "commoninfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Common",
+      "price": 333
+    },
+    {
+      "abr": "emptyinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_InfuserEmpty",
+      "price": 833
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": 55
+    },
+    {
+      "abr": "legendaryinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Legendary",
+      "price": 3333
+    },
+    {
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": 52
+    },
+    {
+      "abr": "logboiler",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": 642
+    },
+    {
+      "abr": "mausoleum",
+      "category": "Misc",
+      "defname": "Mausoleum",
+      "price": -10
+    },
+    {
+      "abr": "mechcontrolbeacon",
+      "category": "Misc",
+      "defname": "MechControlBeacon",
+      "price": -10
+    },
+    {
+      "abr": "mechcontroltower",
+      "category": "Misc",
+      "defname": "MechControlTower",
+      "price": -10
+    },
+    {
+      "abr": "mechoverdrivebeacon",
+      "category": "Misc",
+      "defname": "MechOverdriveBeacon",
+      "price": -10
+    },
+    {
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": 50
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": 170
+    },
+    {
+      "abr": "radiator",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": 85
+    },
+    {
+      "abr": "rareinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Rare",
+      "price": 1667
+    },
+    {
+      "abr": "s.d.u",
+      "category": "Misc",
+      "defname": "SDUTomb",
+      "price": -10
+    },
+    {
+      "abr": "saunaseating",
+      "category": "Furniture",
+      "defname": "DBHSaunaSeating",
+      "price": -10
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": 90
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": 52
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": 182
+    },
+    {
+      "abr": "techtomb",
+      "category": "Misc",
+      "defname": "TechTomb",
+      "price": 276
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": 86
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": 72
+    },
+    {
+      "abr": "towelrail",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": 85
+    },
+    {
+      "abr": "uncommoninfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Uncommon",
+      "price": 833
+    },
+    {
+      "abr": "uncookedbloodsoup",
+      "category": "Uncooked soups",
+      "defname": "HC_UncookedBloodSoup",
+      "price": 204
+    },
+    {
+      "abr": "uncookedbloodstew",
+      "category": "Uncooked stew",
+      "defname": "HC_UncookedBloodStew",
+      "price": 230
+    },
+    {
+      "abr": "walk-infreezerunit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": 153
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": 433
+    },
+    {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": 51
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": 249
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": 52
+    },
+    {
+      "abr": "absolverarmor",
+      "category": "Armor",
+      "defname": "VFEE_Apparel_ArmorAbsolver",
+      "price": 5333
+    },
+    {
+      "abr": "absolverhelmet",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_AbsolverHelmet",
+      "price": 2000
+    },
+    {
+      "abr": "aperitif",
+      "category": "Drugs",
+      "defname": "VFEE_Aperitif",
+      "price": 27
+    },
+    {
+      "abr": "candelabra",
+      "category": "Furniture",
+      "defname": "VFEE_Candelabra",
+      "price": -10
+    },
+    {
+      "abr": "chargethumper",
+      "category": "Ranged weapons",
+      "defname": "VFEE_Gun_ChargeThumper",
+      "price": 1667
+    },
+    {
+      "abr": "deserterarmor",
+      "category": "Armor",
+      "defname": "VFEE_Apparel_ArmorDeserter",
+      "price": 6883
+    },
+    {
+      "abr": "deserterhelmet",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_DeserterHelmet",
+      "price": 1267
+    },
+    {
+      "abr": "fletcher",
+      "category": "Ranged weapons",
+      "defname": "VEE_Gun_Fletcher",
+      "price": 4583
+    },
+    {
+      "abr": "grandchair",
+      "category": "Furniture",
+      "defname": "VFEE_GrandChair",
+      "price": -10
+    },
+    {
+      "abr": "grandimperialsculpture",
+      "category": "Art",
+      "defname": "VFEE_RoyalSculptureGrand",
+      "price": -10
+    },
+    {
+      "abr": "grandroyalrug",
+      "category": "Furniture",
+      "defname": "VFEE_GrandRoyalRug",
+      "price": -10
+    },
+    {
+      "abr": "grandtable",
+      "category": "Furniture",
+      "defname": "VFEE_GrandTable",
+      "price": -10
+    },
+    {
+      "abr": "imperialbanner",
+      "category": "Furniture",
+      "defname": "VFEE_ImperialBanner",
+      "price": -10
+    },
+    {
+      "abr": "imperialslab",
+      "category": "Furniture",
+      "defname": "VFEE_ImperialSlab",
+      "price": -10
+    },
+    {
+      "abr": "janissarycuirass",
+      "category": "Armor",
+      "defname": "VFEE_Apparel_JanissaryCuirass",
+      "price": 2567
+    },
+    {
+      "abr": "janissaryhelmet",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_JanissaryHelmet",
+      "price": 1075
+    },
+    {
+      "abr": "largeimperialsculpture",
+      "category": "Art",
+      "defname": "VFEE_RoyalSculptureLarge",
+      "price": -10
+    },
+    {
+      "abr": "largeroyalrug",
+      "category": "Furniture",
+      "defname": "VFEE_LargeRoyalRug",
+      "price": -10
+    },
+    {
+      "abr": "organ",
+      "category": "Recreation",
+      "defname": "VFEE_PipeOrgan",
+      "price": -10
+    },
+    {
+      "abr": "personatoxblade",
+      "category": "Persona weapons",
+      "defname": "VFEE_MeleeWeapon_ToxbladeBladelink",
+      "price": 3333
+    },
+    {
+      "abr": "royalmirror",
+      "category": "Furniture",
+      "defname": "VFEE_RoyalMirror",
+      "price": -10
+    },
+    {
+      "abr": "royalstool",
+      "category": "Furniture",
+      "defname": "VFEE_RoyalStool",
+      "price": -10
+    },
+    {
+      "abr": "smallimperialsculpture",
+      "category": "Art",
+      "defname": "VFEE_RoyalSculptureSmall",
+      "price": -10
+    },
+    {
+      "abr": "stellicmeditationthrone",
+      "category": "Furniture",
+      "defname": "VFEE_StellicThrone",
+      "price": -10
+    },
+    {
+      "abr": "stellicrobe",
+      "category": "Noble apparel",
+      "defname": "VFE_Apparel_StellicRobe",
+      "price": 583
+    },
+    {
+      "abr": "techfriarcrown",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_TechfriarCrown",
+      "price": 67
+    },
+    {
+      "abr": "toxblade",
+      "category": "Melee weapons",
+      "defname": "VFEE_MeleeWeapon_Toxblade",
+      "price": 3000
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -22601,379 +23129,7 @@
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
       "price": -10
-    },
-    {
-      "abr": "air-conindoorunit",
-      "category": "Hygiene",
-      "defname": "AirconIndoorUnit",
-      "price": -10
-    },
-    {
-      "abr": "air-conoutdoorunit",
-      "category": "Hygiene",
-      "defname": "AirConOutdoorUnit",
-      "price": -10
-    },
-    {
-      "abr": "ancientwaterfilter",
-      "category": "Hygiene",
-      "defname": "VFEA_AncientWaterFilter",
-      "price": -10
-    },
-    {
-      "abr": "bandwidthcontroltower",
-      "category": "Misc",
-      "defname": "BandwidthControlTower",
-      "price": -10
-    },
-    {
-      "abr": "basin",
-      "category": "Hygiene",
-      "defname": "BasinStuff",
-      "price": -10
-    },
-    {
-      "abr": "bathmat",
-      "category": "Furniture",
-      "defname": "BathMat",
-      "price": -10
-    },
-    {
-      "abr": "bathtub",
-      "category": "Hygiene",
-      "defname": "BathtubStuff",
-      "price": -10
-    },
-    {
-      "abr": "bionicbladder",
-      "category": "Bionic",
-      "defname": "BionicBladder",
-      "price": 1308
-    },
-    {
-      "abr": "biosolids",
-      "category": "Waste",
-      "defname": "Biosolids",
-      "price": -10
-    },
-    {
-      "abr": "biosolidscomposter",
-      "category": "Hygiene",
-      "defname": "BiosolidsComposter",
-      "price": -10
-    },
-    {
-      "abr": "bloodbiscuit",
-      "category": "Foods",
-      "defname": "HC_BloodBiscuit",
-      "price": 7
-    },
-    {
-      "abr": "bloodsoda",
-      "category": "Drugs",
-      "defname": "HC_BloodSoda",
-      "price": 20
-    },
-    {
-      "abr": "bloodsodasyrup",
-      "category": "Musts and syrups",
-      "defname": "HC_BloodSodaSyrup",
-      "price": 4
-    },
-    {
-      "abr": "bloodsoup",
-      "category": "Meals",
-      "defname": "HC_CookedBloodSoup",
-      "price": 27
-    },
-    {
-      "abr": "bloodstew",
-      "category": "Meals",
-      "defname": "HC_CookedBloodStew",
-      "price": 28
-    },
-    {
-      "abr": "ceilingfan1x1",
-      "category": "Hygiene",
-      "defname": "CeilingFanS",
-      "price": -10
-    },
-    {
-      "abr": "ceilingfan2x2",
-      "category": "Hygiene",
-      "defname": "CeilingFan",
-      "price": -10
-    },
-    {
-      "abr": "chemfuelboiler",
-      "category": "Hygiene",
-      "defname": "GasBoiler",
-      "price": -10
-    },
-    {
-      "abr": "electricboiler",
-      "category": "Hygiene",
-      "defname": "ElectricBoiler",
-      "price": -10
-    },
-    {
-      "abr": "electricpump",
-      "category": "Hygiene",
-      "defname": "ElectricPump",
-      "price": -10
-    },
-    {
-      "abr": "electricsaunaheater",
-      "category": "Hygiene",
-      "defname": "DBHSaunaHeaterElec",
-      "price": -10
-    },
-    {
-      "abr": "fieldresearchanalyzer-kit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitMultiAnalyzer",
-      "price": 270
-    },
-    {
-      "abr": "fieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitHiTech",
-      "price": 129
-    },
-    {
-      "abr": "firesprinkler",
-      "category": "Hygiene",
-      "defname": "FireSprinkler",
-      "price": -10
-    },
-    {
-      "abr": "fountain",
-      "category": "Hygiene",
-      "defname": "Fountain",
-      "price": -10
-    },
-    {
-      "abr": "fueledsaunaheater",
-      "category": "Hygiene",
-      "defname": "DBHSaunaHeaterLog",
-      "price": -10
-    },
-    {
-      "abr": "helixiengasboiler",
-      "category": "Hygiene",
-      "defname": "HelixienGasBoiler",
-      "price": -10
-    },
-    {
-      "abr": "hottub",
-      "category": "Hygiene",
-      "defname": "HotTub",
-      "price": -10
-    },
-    {
-      "abr": "hotwatertank",
-      "category": "Hygiene",
-      "defname": "HotWaterTank",
-      "price": -10
-    },
-    {
-      "abr": "hygieneenhancer",
-      "category": "Bionic",
-      "defname": "HygieneEnhancer",
-      "price": 1308
-    },
-    {
-      "abr": "largeradiator",
-      "category": "Hygiene",
-      "defname": "RadiatorLarge",
-      "price": -10
-    },
-    {
-      "abr": "lasercarbine",
-      "category": "Ranged weapons",
-      "defname": "Laser_Carbine",
-      "price": 4000
-    },
-    {
-      "abr": "laserdestructor",
-      "category": "Ranged weapons",
-      "defname": "Laser_Destructor",
-      "price": 5333
-    },
-    {
-      "abr": "laserhandcannon",
-      "category": "Ranged weapons",
-      "defname": "Laser_Handcannon",
-      "price": 3500
-    },
-    {
-      "abr": "lasersaber",
-      "category": "Melee weapons",
-      "defname": "Laser_Saber",
-      "price": 3333
-    },
-    {
-      "abr": "laserscatterer",
-      "category": "Ranged weapons",
-      "defname": "Laser_Scatterer",
-      "price": 4000
-    },
-    {
-      "abr": "latrine",
-      "category": "Hygiene",
-      "defname": "PitLatrine",
-      "price": -10
-    },
-    {
-      "abr": "litterbox",
-      "category": "Hygiene",
-      "defname": "LitterBox",
-      "price": -10
-    },
-    {
-      "abr": "logboiler",
-      "category": "Hygiene",
-      "defname": "LogBoiler",
-      "price": -10
-    },
-    {
-      "abr": "mechcontrolbeacon",
-      "category": "Misc",
-      "defname": "MechControlBeacon",
-      "price": -10
-    },
-    {
-      "abr": "mechcontroltower",
-      "category": "Misc",
-      "defname": "MechControlTower",
-      "price": -10
-    },
-    {
-      "abr": "mechoverdrivebeacon",
-      "category": "Misc",
-      "defname": "MechOverdriveBeacon",
-      "price": -10
-    },
-    {
-      "abr": "plumbingvalve",
-      "category": "Hygiene",
-      "defname": "plumbingValve",
-      "price": -10
-    },
-    {
-      "abr": "powershower",
-      "category": "Hygiene",
-      "defname": "ShowerAdvStuff",
-      "price": -10
-    },
-    {
-      "abr": "radiator",
-      "category": "Hygiene",
-      "defname": "RadiatorStuffed",
-      "price": -10
-    },
-    {
-      "abr": "remotefieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitRemote",
-      "price": 642
-    },
-    {
-      "abr": "saunaseating",
-      "category": "Furniture",
-      "defname": "DBHSaunaSeating",
-      "price": -10
-    },
-    {
-      "abr": "shower",
-      "category": "Hygiene",
-      "defname": "ShowerStuff",
-      "price": -10
-    },
-    {
-      "abr": "simplefieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitSimple",
-      "price": 58
-    },
-    {
-      "abr": "simpleshower",
-      "category": "Hygiene",
-      "defname": "ShowerSimple",
-      "price": -10
-    },
-    {
-      "abr": "smarttoilet",
-      "category": "Hygiene",
-      "defname": "ToiletAdvStuff",
-      "price": -10
-    },
-    {
-      "abr": "teachersdesk",
-      "category": "Production",
-      "defname": "TeachersDesk",
-      "price": -10
-    },
-    {
-      "abr": "thermostat",
-      "category": "Hygiene",
-      "defname": "Thermostat",
-      "price": -10
-    },
-    {
-      "abr": "toilet",
-      "category": "Hygiene",
-      "defname": "ToiletStuff",
-      "price": -10
-    },
-    {
-      "abr": "towelrail",
-      "category": "Hygiene",
-      "defname": "RadiatorTowelRail",
-      "price": -10
-    },
-    {
-      "abr": "uncookedbloodsoup",
-      "category": "Uncooked soups",
-      "defname": "HC_UncookedBloodSoup",
-      "price": 204
-    },
-    {
-      "abr": "uncookedbloodstew",
-      "category": "Uncooked stew",
-      "defname": "HC_UncookedBloodStew",
-      "price": 230
-    },
-    {
-      "abr": "walk-infreezerunit",
-      "category": "Hygiene",
-      "defname": "FreezerUnit",
-      "price": -10
-    },
-    {
-      "abr": "washingmachine",
-      "category": "Hygiene",
-      "defname": "WashingMachine",
-      "price": -10
-    },
-    {
-      "abr": "waterbowl",
-      "category": "Hygiene",
-      "defname": "PetWaterBowl",
-      "price": -10
-    },
-    {
-      "abr": "watertrough",
-      "category": "Hygiene",
-      "defname": "WaterTrough",
-      "price": -10
-    },
-    {
-      "abr": "watertub",
-      "category": "Hygiene",
-      "defname": "WashBucket",
-      "price": -10
     }
   ],
-  "total": 3829
+  "total": 3855
 }
