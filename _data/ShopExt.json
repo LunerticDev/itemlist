@@ -778,7 +778,7 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -3577,94 +3577,6 @@
       },
       "defName": "SupremeMelee_QuickReflexes",
       "name": "transcendentreflexes"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
     }
   ],
   "races": [
