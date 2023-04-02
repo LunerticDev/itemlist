@@ -19315,18 +19315,6 @@
       "price": 2017
     },
     {
-      "abr": "tradereportslog",
-      "category": "Misc",
-      "defname": "ASReportsLog",
-      "price": -10
-    },
-    {
-      "abr": "tradereportsprinter",
-      "category": "Misc",
-      "defname": "ASReportsPrinter",
-      "price": -10
-    },
-    {
       "abr": "trainingdummy",
       "category": "Recreation",
       "defname": "VFEV_TrainingDummy",
@@ -20950,7 +20938,7 @@
       "abr": "nutrientpastedripper",
       "category": "Misc",
       "defname": "VNPE_NutrientPasteDripper",
-      "price": 248
+      "price": -10
     },
     {
       "abr": "nutrientpastefeeder",
@@ -21311,7 +21299,85 @@
       "category": "Manufactured",
       "defname": "RM_ChipWeather",
       "price": 867
+    },
+    {
+      "abr": "bluechemlight",
+      "category": "Grenades",
+      "defname": "EccentricChemlightBlue",
+      "price": 151
+    },
+    {
+      "abr": "cloningmechserum",
+      "category": "Misc",
+      "defname": "MechSerumCloner",
+      "price": -10
+    },
+    {
+      "abr": "darklightchemlight",
+      "category": "Grenades",
+      "defname": "EccentricChemlightDarklight",
+      "price": 151
+    },
+    {
+      "abr": "flare",
+      "category": "Grenades",
+      "defname": "Eccentric_Flare",
+      "price": 229
+    },
+    {
+      "abr": "flaregun",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_FlareGun",
+      "price": 294
+    },
+    {
+      "abr": "genearchive",
+      "category": "Production",
+      "defname": "ThingGeneArchive",
+      "price": -10
+    },
+    {
+      "abr": "genemacroprocessor",
+      "category": "Production",
+      "defname": "ThingGeneMacroprocessor",
+      "price": -10
+    },
+    {
+      "abr": "generegister",
+      "category": "Production",
+      "defname": "ThingGeneRegister",
+      "price": -10
+    },
+    {
+      "abr": "genesubprocessor",
+      "category": "Production",
+      "defname": "ThingGeneSubprocessor",
+      "price": -10
+    },
+    {
+      "abr": "greenchemlight",
+      "category": "Grenades",
+      "defname": "EccentricChemlightGreen",
+      "price": 151
+    },
+    {
+      "abr": "illuminationshell",
+      "category": "Mortar shells",
+      "defname": "Eccentric_IlluminationShell",
+      "price": 92
+    },
+    {
+      "abr": "redchemlight",
+      "category": "Grenades",
+      "defname": "EccentricChemlightRed",
+      "price": 151
+    },
+    {
+      "abr": "yellowchemlight",
+      "category": "Grenades",
+      "defname": "EccentricChemlightYellow",
+      "price": 151
     }
   ],
-  "total": 3552
+  "total": 3563
 }

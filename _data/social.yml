@@ -17,19 +17,19 @@ soundcloud:
 stack_overflow:
 stack_exchange:
 steam:
-tumblr:
+tumblr: lunertik
 twitter: Lunertic_
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+youtube: UCuWKmIgq7PM12tJmWdwDDxw
 twitch: Lunertic_
 tiktok:
 
 # Share button options
 share:
-  facebook: true
+  facebook: 
   twitter: true
-  tumblr:
+  tumblr: true
   pinterest:
   pocket:
   reddit: true

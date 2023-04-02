@@ -18,6 +18,12 @@
     "version": "10.0.1"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "AgentBlac",
     "name": "1.4 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)",
     "steamId": null,
@@ -202,12 +208,6 @@
     "name": "Area Unlocker",
     "steamId": "725153576",
     "version": "3.14.109"
-  },
-  {
-    "author": "Supes",
-    "name": "Auto Seller",
-    "steamId": "1440321094",
-    "version": "1.0.0.0"
   },
   {
     "author": "AUTOMATIC",
@@ -540,12 +540,6 @@
     "version": "2.0.1"
   },
   {
-    "author": "ThatBartGuy",
-    "name": "Evolved Organs Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Witek",
     "name": "Fabricors can repair mechs",
     "steamId": null,
@@ -572,12 +566,6 @@
   {
     "author": "telardo",
     "name": "Fireworks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "kathanon",
-    "name": "Fix Mech Threat Delay",
     "steamId": null,
     "version": null
   },
@@ -1101,7 +1089,7 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "LoggerC4 and Taranchuk",
@@ -2082,12 +2070,6 @@
     "version": null
   },
   {
-    "author": "erdelf (original) & Kiame (support)",
-    "name": "[KV] Don't stop the music",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "LimeTreeSnake",
     "name": "[LTS]Systems",
     "steamId": "2812826451",
@@ -2120,6 +2102,78 @@
   {
     "author": "Wemd",
     "name": "[WD] Soil Contrast",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Guards For Me",
+    "steamId": "1855885448",
+    "version": "3.0.7.0"
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Biotech Gene Variety",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Holgast",
+    "name": "Gene Variety - Less Complex Gene Names",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "Resource Drop Pod Redirection",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Block Unwanted Minutiae",
+    "steamId": "2266225921",
+    "version": "3.2"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Flares 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.6.0.0"
+  },
+  {
+    "author": "Neptimus7",
+    "name": "Progress Renderer",
+    "steamId": "2010777010",
+    "version": "1.4"
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Mechanitor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : More Vanilla Turrets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DarkFlame7",
+    "name": "Biotech Cloning",
+    "steamId": "2881790485",
+    "version": "0.2.0.0"
+  },
+  {
+    "author": "Lunertic",
+    "name": "Shorter VFEE Cooldowns",
     "steamId": null,
     "version": null
   },
