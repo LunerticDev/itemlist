@@ -13723,12 +13723,6 @@
       "price": -10
     },
     {
-      "abr": "moderndarklamp",
-      "category": "Furniture",
-      "defname": "Light_ModernDarkLamp",
-      "price": -10
-    },
-    {
       "abr": "molebear",
       "category": "Animals",
       "defname": "GR_Molebear",
@@ -21373,11 +21367,191 @@
       "price": 151
     },
     {
+      "abr": "enormoussculpture",
+      "category": "Art",
+      "defname": "SculptureEnormous",
+      "price": -10
+    },
+    {
+      "abr": "giganticsculpture",
+      "category": "Art",
+      "defname": "SculptureGigantic",
+      "price": -10
+    },
+    {
+      "abr": "hemodynamicaccelerator",
+      "category": "Misc",
+      "defname": "VRE_HemodynamicAccelerator",
+      "price": -10
+    },
+    {
+      "abr": "hemogendrain",
+      "category": "Furniture",
+      "defname": "VRE_HemogenDrain",
+      "price": -10
+    },
+    {
+      "abr": "hemogenpack(animal)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Animal",
+      "price": 8
+    },
+    {
+      "abr": "hemogenpack(corpse)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Corpse",
+      "price": 8
+    },
+    {
+      "abr": "hemogenpack(sanguophage)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Sanguophage",
+      "price": 8
+    },
+    {
+      "abr": "hemogensolidifier",
+      "category": "Misc",
+      "defname": "VRE_HemogenSolidifier",
+      "price": 1067
+    },
+    {
+      "abr": "hemogentap",
+      "category": "Furniture",
+      "defname": "VRE_HemogenTap",
+      "price": -10
+    },
+    {
+      "abr": "hydra",
+      "category": "Animals",
+      "defname": "VAEWaste_Hydra",
+      "price": 250
+    },
+    {
+      "abr": "hydraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "VAEWaste_EggHydraFertilized",
+      "price": -10
+    },
+    {
+      "abr": "invocationmatrix",
+      "category": "Misc",
+      "defname": "VRE_InvocationMatrix",
+      "price": -10
+    },
+    {
+      "abr": "loftbed",
+      "category": "Furniture",
+      "defname": "LoftBed",
+      "price": -10
+    },
+    {
+      "abr": "megatardi",
+      "category": "Animals",
+      "defname": "VAEWaste_Megatardi",
+      "price": 583
+    },
+    {
+      "abr": "pestigator",
+      "category": "Animals",
+      "defname": "VAEWaste_Pestigator",
+      "price": 1250
+    },
+    {
+      "abr": "psychofluidwell",
+      "category": "Misc",
+      "defname": "VRE_PsychofluidWell",
+      "price": -10
+    },
+    {
+      "abr": "royalsculpture",
+      "category": "Art",
+      "defname": "SculptureRoyal",
+      "price": -10
+    },
+    {
+      "abr": "smallhemogenamplifier",
+      "category": "Misc",
+      "defname": "VRE_SmallHemogenAmplifier",
+      "price": -10
+    },
+    {
+      "abr": "smallhemopump",
+      "category": "Misc",
+      "defname": "VRE_SmallHemopump",
+      "price": -10
+    },
+    {
+      "abr": "toxafox",
+      "category": "Animals",
+      "defname": "VAEWaste_Toxafox",
+      "price": 417
+    },
+    {
+      "abr": "toxbear",
+      "category": "Animals",
+      "defname": "VAEWaste_Toxbear",
+      "price": 1167
+    },
+    {
+      "abr": "toxicmeat",
+      "category": "Meat",
+      "defname": "VAEWaste_ToxicMeat",
+      "price": 3
+    },
+    {
+      "abr": "toxiguana",
+      "category": "Animals",
+      "defname": "VAEWaste_Toxiguana",
+      "price": 250
+    },
+    {
+      "abr": "toxiguanaegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "VAEWaste_EggToxiguanaFertilized",
+      "price": -10
+    },
+    {
+      "abr": "toxlion",
+      "category": "Animals",
+      "defname": "VAEWaste_Toxlion",
+      "price": 2000
+    },
+    {
+      "abr": "toxscorpion",
+      "category": "Animals",
+      "defname": "VAEWaste_Toxscorpion",
+      "price": 833
+    },
+    {
+      "abr": "wasteboar",
+      "category": "Animals",
+      "defname": "VAEWaste_Wasteboar",
+      "price": 333
+    },
+    {
+      "abr": "wastedeer",
+      "category": "Animals",
+      "defname": "VAEWaste_Wastedeer",
+      "price": 417
+    },
+    {
+      "abr": "wasteffalo",
+      "category": "Animals",
+      "defname": "VAEWaste_Wasteffalo",
+      "price": 750
+    },
+    {
+      "abr": "wasteleather",
+      "category": "Leathers",
+      "defname": "VAEWaste_ToxicLeather",
+      "price": 3
+    },
+    {
       "abr": "yellowchemlight",
       "category": "Grenades",
       "defname": "EccentricChemlightYellow",
       "price": 151
     }
   ],
-  "total": 3563
+  "total": 3592
 }

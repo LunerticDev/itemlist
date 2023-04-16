@@ -188,8 +188,8 @@
   {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Helixien Gas Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2877699803",
+    "version": "1.0.0.0"
   },
   {
     "author": "Scorpio",
@@ -375,7 +375,7 @@
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "Chris",
@@ -504,10 +504,10 @@
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
+    "author": "CrunchyDuck and kd8lvt",
+    "name": "Math! (Forked)",
+    "steamId": "",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -1077,7 +1077,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.7.7"
+    "version": "2.7.9"
   },
   {
     "author": "Aranmaho",
@@ -2170,6 +2170,42 @@
     "name": "Biotech Cloning",
     "steamId": "2881790485",
     "version": "0.2.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Bigger Sculptures (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zed_0xff",
+    "name": "Loft Bed",
+    "steamId": "2961708299",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
+    "name": "Vanilla Animals Expanded — Waste Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iwishforducks",
+    "name": "Ducks' No Limits - Ideology (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Garwel",
+    "name": "Ideology Development+",
+    "steamId": "2675937082",
+    "version": "1.1.4"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
   },
   {
     "author": "Lunertic",
