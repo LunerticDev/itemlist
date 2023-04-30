@@ -2900,7 +2900,7 @@
     },
     {
       "abr": "shieldcore",
-      "category": "Items",
+      "category": "Misc",
       "defname": "BroadshieldCore",
       "price": 583
     },
@@ -8776,7 +8776,7 @@
       "abr": "digestibleresurrectornanites",
       "category": "Condiments",
       "defname": "VCE_DigestibleResurrectorNanites",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "digitalstorageunit",
@@ -17282,7 +17282,7 @@
     },
     {
       "abr": "salvagedlaserhuntingrifle",
-      "category": "Ranged weapons",
+      "category": "Persona weapons",
       "defname": "VWEFT_Gun_SalvagedLaserHuntingRifle",
       "price": 3833
     },
@@ -17294,13 +17294,13 @@
     },
     {
       "abr": "salvagedlaserrepeater",
-      "category": "Ranged weapons",
+      "category": "Persona weapons",
       "defname": "VWEFT_Gun_SalvagedLaserRepeater",
       "price": 3333
     },
     {
       "abr": "salvagedlaserrevolver",
-      "category": "Ranged weapons",
+      "category": "Persona weapons",
       "defname": "VWEFT_Gun_SalvagedLaserRevolver",
       "price": 2333
     },
@@ -21551,7 +21551,925 @@
       "category": "Grenades",
       "defname": "EccentricChemlightYellow",
       "price": 151
+    },
+    {
+      "abr": "advancedtoxbolt-actionrifle",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_Tox_AdvancedBoltActionRifle",
+      "price": 425
+    },
+    {
+      "abr": "advancedtoxminigun",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_Tox_AdvancedMinigun",
+      "price": 1933
+    },
+    {
+      "abr": "advancedtoxpumpshotgun",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_AdvancedToxPumpShotgun",
+      "price": 425
+    },
+    {
+      "abr": "advancedtoxrevolver",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_Tox_AdvancedRevolver",
+      "price": 226
+    },
+    {
+      "abr": "doubleloftbed",
+      "category": "Furniture",
+      "defname": "DoubleLoftBed",
+      "price": -10
+    },
+    {
+      "abr": "toxbolt-actionrifle",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_Tox_BoltActionRifle",
+      "price": 425
+    },
+    {
+      "abr": "toxchargelance",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_Tox_ChargeLance",
+      "price": 2258
+    },
+    {
+      "abr": "toxhammer",
+      "category": "Melee weapons",
+      "defname": "pphhyy_Weapon_Toxhammer",
+      "price": 608
+    },
+    {
+      "abr": "toxlongsword",
+      "category": "Melee weapons",
+      "defname": "pphhyy_Weapon_ToxLongSword",
+      "price": 442
+    },
+    {
+      "abr": "toxminigun",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_Tox_Minigun",
+      "price": 1933
+    },
+    {
+      "abr": "toxmonosword",
+      "category": "Melee weapons",
+      "defname": "pphhyy_Weapon_ToxMonoSword",
+      "price": 3333
+    },
+    {
+      "abr": "toxpumpshotgun",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_ToxPumpShotgun",
+      "price": 425
+    },
+    {
+      "abr": "toxrevolver",
+      "category": "Ranged weapons",
+      "defname": "pphhyy_Tox_Revolver",
+      "price": 226
+    },
+    {
+      "abr": "toxspear",
+      "category": "Melee weapons",
+      "defname": "pphhyy_Weapon_ToxSpear",
+      "price": 322
+    },
+    {
+      "abr": "ultrasonicpollutionpurifier",
+      "category": "Misc",
+      "defname": "UltrasonicPollutionPurifier",
+      "price": 9950
+    },
+    {
+      "abr": "wooddrain",
+      "category": "Furniture",
+      "defname": "AP_WoodDrain",
+      "price": -10
+    },
+    {
+      "abr": "archotechstargate",
+      "category": "Special",
+      "defname": "StargateMod_Stargate",
+      "price": -10
+    },
+    {
+      "abr": "cannonshellheat",
+      "category": "Cannon shells",
+      "defname": "TC_Shell_CannonTurret_HEAT",
+      "price": 92
+    },
+    {
+      "abr": "cannonshellhigh-explosive",
+      "category": "Cannon shells",
+      "defname": "TC_Shell_CannonTurret_HighExplosive",
+      "price": 92
+    },
+    {
+      "abr": "cannonturret1",
+      "category": "Security",
+      "defname": "TC_CannonTurret",
+      "price": -10
+    },
+    {
+      "abr": "cashregister",
+      "category": "Furniture",
+      "defname": "CashRegister_CashRegister",
+      "price": -10
+    },
+    {
+      "abr": "dialhomedevice",
+      "category": "Special",
+      "defname": "StargateMod_DialHomeDevice",
+      "price": -10
+    },
+    {
+      "abr": "gatlinggunturret",
+      "category": "Security",
+      "defname": "TCEE_GatlingGunTurret",
+      "price": -10
+    },
+    {
+      "abr": "howitzer",
+      "category": "Security",
+      "defname": "TC_Howitzer",
+      "price": -10
+    },
+    {
+      "abr": "howitzerclusterbomb",
+      "category": "Howitzer shells",
+      "defname": "TCEE_Shell_Howitzer_ClusterBomb",
+      "price": 92
+    },
+    {
+      "abr": "howitzershellemp",
+      "category": "Howitzer shells",
+      "defname": "TC_Shell_EMP",
+      "price": 92
+    },
+    {
+      "abr": "howitzershellhigh-explosive",
+      "category": "Howitzer shells",
+      "defname": "TC_Shell_Howitzer_HighExplosive",
+      "price": 92
+    },
+    {
+      "abr": "howitzershellincendiary",
+      "category": "Howitzer shells",
+      "defname": "TC_Shell_Howitzer_Incendiary",
+      "price": 92
+    },
+    {
+      "abr": "incendiarygrenadeset",
+      "category": "Incendiary grenades",
+      "defname": "TC_Shell_IncendiaryLauncher_Incendiary",
+      "price": 92
+    },
+    {
+      "abr": "incendiarylauncher",
+      "category": "Security",
+      "defname": "TC_IncendiaryLauncher",
+      "price": -10
+    },
+    {
+      "abr": "irisinstallationkit",
+      "category": "Items",
+      "defname": "StargateMod_IrisInstallKit",
+      "price": -10
+    },
+    {
+      "abr": "machinegunturret",
+      "category": "Security",
+      "defname": "TCEE_MachineGunTurret",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftstargate",
+      "category": "Special",
+      "defname": "StargateMod_OrlinStargate",
+      "price": -10
+    },
+    {
+      "abr": "navalgunshellhigh-explosive",
+      "category": "Naval gun shells",
+      "defname": "TCEE_Shell_NavalGunTurret_HighExplosive",
+      "price": 92
+    },
+    {
+      "abr": "neurostimulator",
+      "category": "Misc",
+      "defname": "EVL_Neurostimulator",
+      "price": -10
+    },
+    {
+      "abr": "personaadvancedtoxbolt-actionrifle",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Tox_AdvancedBoltActionRifle_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personaadvancedtoxminigun",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Tox_AdvancedMinigun_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personaadvancedtoxpumpshotgun",
+      "category": "Persona weapons",
+      "defname": "pphhyy_AdvancedToxPumpShotgun_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personaadvancedtoxrevolver",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Tox_AdvancedRevolver_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personaarcpistol",
+      "category": "Persona weapons",
+      "defname": "RM_Gun_ARCPistol_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personaarcrifle",
+      "category": "Persona weapons",
+      "defname": "RM_ARCRifle_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personabeamdagger",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_BeamDagger_Bond",
+      "price": 3300
+    },
+    {
+      "abr": "personabeamestoc",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_BeamEstoc_Bond",
+      "price": 3300
+    },
+    {
+      "abr": "personabeamglaive",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_BeamGlaive_Bond",
+      "price": 3300
+    },
+    {
+      "abr": "personabeampike",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_BeamPike_Bond",
+      "price": 3300
+    },
+    {
+      "abr": "personachargelancepistol",
+      "category": "Persona weapons",
+      "defname": "RM_Gun_ChargeLancePistol_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personachargelancerifle",
+      "category": "Persona weapons",
+      "defname": "RM_Gun_ChargeLanceRifle_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personachargepistol",
+      "category": "Persona weapons",
+      "defname": "RM_Gun_ChargePistol_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personachargethumper",
+      "category": "Persona weapons",
+      "defname": "VFEE_Gun_ChargeThumper_Bond",
+      "price": 1833
+    },
+    {
+      "abr": "personacryptocrossbow",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoLightCrossbow_Bond",
+      "price": 1433
+    },
+    {
+      "abr": "personacryptohatchet",
+      "category": "Persona weapons",
+      "defname": "VFEV_CryptoLightAxe_Bond",
+      "price": 2133
+    },
+    {
+      "abr": "personacryptoheavycrossbow",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoHeavyCrossbow_Bond",
+      "price": 2367
+    },
+    {
+      "abr": "personacryptopistol",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoPistol_Bond",
+      "price": 1450
+    },
+    {
+      "abr": "personacryptorifle",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoRifle_Bond",
+      "price": 2100
+    },
+    {
+      "abr": "personaexplosiveboltminigun",
+      "category": "Persona weapons",
+      "defname": "VSWEB_Gun_ExplosiveBoltMinigun_Bond",
+      "price": 6050
+    },
+    {
+      "abr": "personaexplosiveboltpistol",
+      "category": "Persona weapons",
+      "defname": "VSWEB_Gun_ExplosiveBoltPistol_Bond",
+      "price": 3300
+    },
+    {
+      "abr": "personaexplosiveboltrifle",
+      "category": "Persona weapons",
+      "defname": "VSWEB_Gun_ExplosiveBoltRifle_Bond",
+      "price": 4217
+    },
+    {
+      "abr": "personaexplosiveboltscattergun",
+      "category": "Persona weapons",
+      "defname": "VSWEB_Gun_ExplosiveBoltScattergun_Bond",
+      "price": 4400
+    },
+    {
+      "abr": "personaexplosiveboltsniperrifle",
+      "category": "Persona weapons",
+      "defname": "VSWEB_Gun_ExplosiveBoltSniper_Bond",
+      "price": 5133
+    },
+    {
+      "abr": "personaflackstormcannon",
+      "category": "Persona weapons",
+      "defname": "VSWEB_Gun_FlackStormCannon_Bond",
+      "price": 6967
+    },
+    {
+      "abr": "personafletcher",
+      "category": "Persona weapons",
+      "defname": "VEE_Gun_Fletcher_Bond",
+      "price": 5042
+    },
+    {
+      "abr": "personagausslance",
+      "category": "Persona weapons",
+      "defname": "VWE_Gun_GaussLance_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personagaussmagnum",
+      "category": "Persona weapons",
+      "defname": "VWE_Gun_GaussMagnum_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personagaussrifle",
+      "category": "Persona weapons",
+      "defname": "VWE_Gun_GaussRifle_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personaheavycryptoaxe",
+      "category": "Persona weapons",
+      "defname": "VFEV_CryptoHeavyAxe_Bond",
+      "price": 2417
+    },
+    {
+      "abr": "personainfernolauncher",
+      "category": "Persona weapons",
+      "defname": "RM_Gun_InfernoLauncher_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personainfernorifle",
+      "category": "Persona weapons",
+      "defname": "RM_Gun_InfernoRifle_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personalaserminigun",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_LaserMinigun_Bond",
+      "price": 8250
+    },
+    {
+      "abr": "personalaserpistol",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_LaserPistol_Bond",
+      "price": 3667
+    },
+    {
+      "abr": "personalaserrifle",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_LaserRifle_Bond",
+      "price": 5500
+    },
+    {
+      "abr": "personalasershotgun",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_LaserShotgun_Bond",
+      "price": 5867
+    },
+    {
+      "abr": "personalasersmg",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_LaserSMG_Bond",
+      "price": 4400
+    },
+    {
+      "abr": "personalasersniperrifle",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_LaserSniperRifle_Bond",
+      "price": 6600
+    },
+    {
+      "abr": "personalasersword",
+      "category": "Persona weapons",
+      "defname": "VWEL_LaserSword_Bond",
+      "price": 3667
+    },
+    {
+      "abr": "personarefractorscattergun",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_RefractorScattergun_Bond",
+      "price": 4400
+    },
+    {
+      "abr": "personarepulsecannon",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_RefractorCannon_Bond",
+      "price": 6967
+    },
+    {
+      "abr": "personarepulsepistol",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_RepulsePistol_Bond",
+      "price": 3300
+    },
+    {
+      "abr": "personarepulserepeater",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_RepulseRepeater_Bond",
+      "price": 6050
+    },
+    {
+      "abr": "personarepulserifle",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_RepulseRifle_Bond",
+      "price": 4217
+    },
+    {
+      "abr": "personarepulsesniper",
+      "category": "Persona weapons",
+      "defname": "VSWBG_Gun_RepulseSniper_Bond",
+      "price": 5133
+    },
+    {
+      "abr": "personasalvagedlaserpistol",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_SalvagedLaserPistol_Bond",
+      "price": 2750
+    },
+    {
+      "abr": "personasalvagedlaserrifle",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_SalvagedLaserRifle_Bond",
+      "price": 3575
+    },
+    {
+      "abr": "personasalvagedlasershotgun",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_SalvagedLaserShotgun_Bond",
+      "price": 3758
+    },
+    {
+      "abr": "personasalvagedlasersniperrifle",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_SalvagedLaserSniperRifle_Bond",
+      "price": 4033
+    },
+    {
+      "abr": "personateslagun",
+      "category": "Persona weapons",
+      "defname": "VWEL_Gun_TeslaGun_Bond",
+      "price": 5500
+    },
+    {
+      "abr": "personatoxbolt-actionrifle",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Tox_BoltActionRifle_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personatoxchargelance",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Tox_ChargeLance_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personatoxhammer",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Weapon_Toxhammer_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personatoxlongsword",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Weapon_ToxLongSword_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personatoxminigun",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Tox_Minigun_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personatoxpumpshotgun",
+      "category": "Persona weapons",
+      "defname": "pphhyy_ToxPumpShotgun_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personatoxrevolver",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Tox_Revolver_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personatoxspear",
+      "category": "Persona weapons",
+      "defname": "pphhyy_Weapon_ToxSpear_Bond",
+      "price": 5000
+    },
+    {
+      "abr": "personawarcasketautorifle",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_Autorifle_Bond",
+      "price": 2292
+    },
+    {
+      "abr": "personawarcasketbroadsword",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_Broadsword_Bond",
+      "price": 2675
+    },
+    {
+      "abr": "personawarcasketchargeblaster",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_ChargeBlaster_Bond",
+      "price": 4033
+    },
+    {
+      "abr": "personawarcasketchargelance",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_ChargeLance_Bond",
+      "price": 4125
+    },
+    {
+      "abr": "personawarcasketcombatknife",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_CombatKnife_Bond",
+      "price": 1450
+    },
+    {
+      "abr": "personawarcasketcryptocannon",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_CryptoCannon_Bond",
+      "price": 6000
+    },
+    {
+      "abr": "personawarcasketfoldinggun",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_FoldingGun_Bond",
+      "price": 2750
+    },
+    {
+      "abr": "personawarcasketgravityhammer",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_GravityHammer_Bond",
+      "price": 5500
+    },
+    {
+      "abr": "personawarcasketgrenadelauncher",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_GrenadeLauncher_Bond",
+      "price": 3467
+    },
+    {
+      "abr": "personawarcaskethandheldcannon",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_HandheldCannon_Bond",
+      "price": 2475
+    },
+    {
+      "abr": "personawarcasketheavyflamer",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_HeavyFlamer_Bond",
+      "price": 4492
+    },
+    {
+      "abr": "personawarcasketlaserblaster",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_LaserBlaster_Bond",
+      "price": 5867
+    },
+    {
+      "abr": "personawarcasketminigun",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_Minigun_Bond",
+      "price": 4108
+    },
+    {
+      "abr": "personawarcasketplasmasword",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword_Bond",
+      "price": 6000
+    },
+    {
+      "abr": "personawarcasketrailgun",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_Railgun_Bond",
+      "price": 5333
+    },
+    {
+      "abr": "personawarcasketsalvagedlasereradicator",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_SalvagedLaserEradicator_Bond",
+      "price": 7517
+    },
+    {
+      "abr": "personawarcasketslugthrower",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_Slugthrower_Bond",
+      "price": 2017
+    },
+    {
+      "abr": "personawarcasketteargasgrenadelauncher",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_TearGasGrenadeLauncher_Bond",
+      "price": 2750
+    },
+    {
+      "abr": "personawarcasketuraniumslugrifle",
+      "category": "Persona weapons",
+      "defname": "VFEP_WarcasketGun_UraniumSlugRifle_Bond",
+      "price": 3025
+    },
+    {
+      "abr": "pre-chargedmini-turretcrate",
+      "category": "Manufactured",
+      "defname": "TCEE_ChargedMiniTurret_Crate",
+      "price": 212
+    },
+    {
+      "abr": "rimnreels",
+      "category": "Recreation",
+      "defname": "HC_SlotMachineRed",
+      "price": -10
+    },
+    {
+      "abr": "rimoffortune",
+      "category": "Recreation",
+      "defname": "HC_SlotMachineBlue",
+      "price": -10
+    },
+    {
+      "abr": "rimamoolah",
+      "category": "Recreation",
+      "defname": "HC_SlotMachineGreen",
+      "price": -10
+    },
+    {
+      "abr": "rocket",
+      "category": "Rockets",
+      "defname": "TC_Shell_RocketLauncher_HighExplosive",
+      "price": 92
+    },
+    {
+      "abr": "stargate",
+      "category": "Special",
+      "defname": "StargateMod_AdvancedStargate",
+      "price": -10
+    },
+    {
+      "abr": "stargatecoordinates",
+      "category": "Artifacts",
+      "defname": "StargateMod_GlyphScrap",
+      "price": 1500
+    },
+    {
+      "abr": "tradereportslog",
+      "category": "Misc",
+      "defname": "ASReportsLog",
+      "price": -10
+    },
+    {
+      "abr": "tradereportsprinter",
+      "category": "Misc",
+      "defname": "ASReportsPrinter",
+      "price": -10
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": 492
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Furniture",
+      "defname": "VFEA_AncientBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestancientcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "VFEA_AncientCryptosleepSuspenderGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestloftbed",
+      "category": "Furniture",
+      "defname": "LoftBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoubleloftbed",
+      "category": "Furniture",
+      "defname": "DoubleLoftBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestadvancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestadvanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guesttent",
+      "category": "Furniture",
+      "defname": "VFEC_TentGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "VFEV_FurBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "VFEV_DoubleFurBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoubletent",
+      "category": "Furniture",
+      "defname": "VFEC_Mosi_DoubleTentGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "gueststone-framedbedroll",
+      "category": "Furniture",
+      "defname": "AM_StoneBedrollGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestrestoredancientbed",
+      "category": "Furniture",
+      "defname": "AM_AncientBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestrestoredancientdoublebed",
+      "category": "Furniture",
+      "defname": "AM_AncientDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestrestoredancientoperatingtable",
+      "category": "Furniture",
+      "defname": "AM_AncientOperatingTableGuest",
+      "price": -10
     }
   ],
-  "total": 3592
+  "total": 3745
 }

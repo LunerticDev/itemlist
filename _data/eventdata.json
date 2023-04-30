@@ -353,10 +353,10 @@
   },
   "militaryaid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 150,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "raid": {
