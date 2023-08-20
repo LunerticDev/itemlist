@@ -39,7 +39,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.5.2.0"
+    "version": "3.6.1.0"
   },
   {
     "author": "GwinnBleidd",
@@ -56,6 +56,12 @@
   {
     "author": "Hydroxyapatite",
     "name": "Advanced Band Nodes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ISOREX and CiXwOw",
+    "name": "Advanced Moisture Pump [1.4]",
     "steamId": null,
     "version": null
   },
@@ -108,6 +114,36 @@
     "version": "1.4.8315.17730"
   },
   {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Genes - Insectoid Mutations",
+    "steamId": "2906193379",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Holgast",
+    "name": "Alpha Genes - Tradable Mixedpacks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Owlchemist",
     "name": "Toggleable Overlays",
     "steamId": "2608654598",
@@ -136,138 +172,6 @@
     "name": "Alpha Mechs",
     "steamId": "2973169158",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha and SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.3.1"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bradson and harkon",
-    "name": "Bradson's Main Button Icons for VE Textures",
-    "steamId": "2361775777",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Grenades",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "2890901044",
-    "version": "1.4.5.3"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Allie and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Genes - Insectoid Mutations",
-    "steamId": "2906193379",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Holgast",
-    "name": "Alpha Genes - Tradable Mixedpacks",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "exokem",
@@ -342,6 +246,12 @@
     "version": null
   },
   {
+    "author": "Seanbeag",
+    "name": "Better Laborers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Madeline",
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
@@ -364,6 +274,12 @@
     "name": "Better VFE-E and Vanilla Permits",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "TPABOBAP",
+    "name": "Better VPE Skipdoor Pathing",
+    "steamId": "3011764218",
+    "version": "1.4"
   },
   {
     "author": "Kikohi",
@@ -480,24 +396,6 @@
     "version": null
   },
   {
-    "author": "Caulaflower and Kriptobaam",
-    "name": "CE+: Miscellaneous Weapons Updated",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Armors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "CE: Armors - Extended Cut",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Nutrient Paste Expanded",
     "steamId": null,
@@ -514,6 +412,24 @@
     "name": "CPS: Compact Pawn Storage",
     "steamId": "2974541112",
     "version": "1.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.5.1341"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Samael Gray",
+    "name": "CV90 - A Combat Vehicle Mod",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "8Z and GwinnBleidd",
@@ -540,6 +456,12 @@
     "version": null
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1242.0"
+  },
+  {
     "author": "Zylle",
     "name": "Childrens Drawings",
     "steamId": null,
@@ -556,36 +478,6 @@
     "name": "Colored deep resources",
     "steamId": "2791102835",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Attachments",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Melee",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Combat Extended: Shields",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Combat Extended: Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Semi",
-    "name": "Commando Mortars for Combat Extended",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sea",
@@ -687,7 +579,7 @@
     "author": "Sky",
     "name": "Deep Storage Plus (Continued)",
     "steamId": "2589072911",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "author": "merthsoft",
@@ -786,6 +678,12 @@
     "version": null
   },
   {
+    "author": "Aelanna",
+    "name": "Endling (Last Of Their Kind)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SmArtKar and Elseud",
     "name": "Enhanced Vat Learning",
     "steamId": null,
@@ -812,6 +710,12 @@
   {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
     "steamId": null,
     "version": null
   },
@@ -918,12 +822,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Keshash",
-    "name": "Grenade Variety for Combat Extended",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AncientGammoner",
     "name": "Ground Targeter",
     "steamId": "2356822769",
@@ -1008,12 +906,6 @@
     "version": "1.1.4"
   },
   {
-    "author": "DetVisor",
-    "name": "Impact Weaponry",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "kathanon",
     "name": "Impressionable Children",
     "steamId": null,
@@ -1089,7 +981,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.12.1.0"
+    "version": "1.13.0.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -1176,6 +1068,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": "2826922787",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "StatistNo1",
+    "name": "Persona Bond Forge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daria40K",
+    "name": "Mighty Persona Bond Forge Patch Mod",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rikiki",
     "name": "MiningCo. DrillTurret",
     "steamId": null,
@@ -1194,16 +1104,16 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Keshash",
-    "name": "More Caliber Textures for Combat Extended Ammo",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -1294,30 +1204,6 @@
     "name": "Not My Fault",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Persona Weapons Expanded",
-    "steamId": "2826922787",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "StatistNo1",
-    "name": "Persona Bond Forge",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Daria40K",
-    "name": "Mighty Persona Bond Forge Patch Mod",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nuff",
-    "name": "Nuff's Auto-Patcher for Combat Extended",
-    "steamId": "2972167798",
-    "version": "1.0.0.0"
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",
@@ -1434,12 +1320,6 @@
     "version": "1.9.0"
   },
   {
-    "author": "Wrightc214",
-    "name": "Plot Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lakuna",
     "name": "Prepare Moderately",
     "steamId": "2057362949",
@@ -1491,7 +1371,7 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "author": "LoggerC4 and Taranchuk",
@@ -1632,10 +1512,28 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "legodude17",
@@ -1708,6 +1606,24 @@
     "name": "RimSaves",
     "steamId": "1713367505",
     "version": "2022.0.1.14"
+  },
+  {
+    "author": "AOBA",
+    "name": "Engine Industries",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "RimThunder - Cold Front",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoba",
+    "name": "RimThunder - Roaring Tiger",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hamed91211173",
@@ -1788,6 +1704,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
@@ -1842,8 +1764,38 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
     "author": "Owlchemist and Mlie",
     "name": "Simple FX: Smoke",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
     "steamId": null,
     "version": null
   },
@@ -1920,10 +1872,22 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Smarter Visitors",
+    "steamId": "3012491521",
+    "version": "1.4.3"
+  },
+  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.8.1"
+  },
+  {
+    "author": "Pal 5k",
+    "name": "Snow Crawler",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Obi Vayne Kenobi",
@@ -2106,6 +2070,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Leon",
     "name": "VFE Pirates - Captains Can Melee",
     "steamId": null,
@@ -2160,22 +2130,34 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "bradson and harkon",
+    "name": "Bradson's Main Button Icons for VE Textures",
+    "steamId": "2361775777",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
     "author": "PlayIgel, Alastair, Kayedon, SalmonToastie and Xrushha",
     "name": "VFME - Caravan Packs!",
     "steamId": null,
     "version": null
   },
   {
+    "author": "WebSlug",
+    "name": "VPE Curses",
+    "steamId": "3012451039",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jdalt",
     "name": "VPE Self-Cast This!",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "V337",
-    "name": "VPE Skipdoor Pathing",
-    "steamId": "2995157602",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -2290,6 +2272,12 @@
     "name": "Vanilla Factions Expanded - Mechanoids - Auto-Mortar Shell Choice Patch",
     "steamId": "2370696994",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lorsieab2",
@@ -2503,7 +2491,19 @@
   },
   {
     "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Tribal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Desiderimus",
+    "name": "Vehicle Framework │ Valkyrie Industries",
     "steamId": null,
     "version": null
   },
@@ -2610,24 +2610,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "CE Team",
-    "name": "Combat Extended Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Harkon",
-    "name": "[HRK] Vanilla Expanded / Combat Extended - Toggleable patches & tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
     "name": "Alpha Memes",
     "steamId": "2661356814",
@@ -2676,33 +2658,27 @@
     "version": null
   },
   {
-    "author": "pphhyy",
-    "name": "pphhyy's Tox Weapons",
-    "steamId": null,
-    "version": null
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "ToolkitCore",
-    "steamId": "2018368654",
+    "steamId": "3013877477",
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "Twitch Toolkit",
-    "steamId": "1718525787",
+    "steamId": "3013874066",
     "version": "2.0.10.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2421"
+    "version": "6.3.0.1"
   }
 ]
