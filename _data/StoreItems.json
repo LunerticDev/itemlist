@@ -17245,12 +17245,6 @@
       "price": 525
     },
     {
-      "abr": "alastair",
-      "category": "Foods",
-      "defname": "RG-TF_Alastair",
-      "price": 15
-    },
-    {
       "abr": "amaranth",
       "category": "Vegetarian",
       "defname": "GAB_RawAmaranth",
@@ -18452,7 +18446,7 @@
     },
     {
       "abr": "snowcrawlerengine",
-      "category": "Items",
+      "category": "Car parts",
       "defname": "SnowCrawlerEnginePart",
       "price": 667
     },
@@ -18755,7 +18749,229 @@
       "category": "Meat",
       "defname": "Meat_VAECaves_Wyrm",
       "price": 3
+    },
+    {
+      "abr": "airfryer",
+      "category": "Production",
+      "defname": "CE_AirFryer",
+      "price": -10
+    },
+    {
+      "abr": "ancientastrosuit",
+      "category": "Armor",
+      "defname": "VRE_AncientAstrosuit",
+      "price": 2700
+    },
+    {
+      "abr": "assistmeditationcircuit",
+      "category": "Bionic",
+      "defname": "PI_AMC",
+      "price": 3492
+    },
+    {
+      "abr": "assistmeditationvicebrain",
+      "category": "Bionic",
+      "defname": "PI_AMV",
+      "price": 11458
+    },
+    {
+      "abr": "babytribalwear",
+      "category": "Misc",
+      "defname": "Apparel_BabyTribal",
+      "price": 58
+    },
+    {
+      "abr": "chemfuelbrazier",
+      "category": "Furniture",
+      "defname": "CA_ChemfuelBrazier",
+      "price": -10
+    },
+    {
+      "abr": "chemfueldeepfryer",
+      "category": "Production",
+      "defname": "CE_ChemfuelDeepFrier",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelfloodlight",
+      "category": "Furniture",
+      "defname": "CA_ChemfuelFloodlight",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelheater",
+      "category": "Temperature",
+      "defname": "CAS_ChemfuelHeater",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelpot",
+      "category": "Production",
+      "defname": "CE_ChemfuelPot",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelpoweredexcavator",
+      "category": "Production",
+      "defname": "SCP_ChemDrill",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelsmelter",
+      "category": "Production",
+      "defname": "CA_ChemfuelSmelter",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelsmithy",
+      "category": "Production",
+      "defname": "CA_ChemfuelSmithy",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelstove",
+      "category": "Production",
+      "defname": "CE_ChemfuelStove",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelsunlamp",
+      "category": "Furniture",
+      "defname": "CA_Sunlamp",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelwalllight",
+      "category": "Furniture",
+      "defname": "CAS_ChemfuelWallLight",
+      "price": -10
+    },
+    {
+      "abr": "chemfuel-poweredstandinglamp",
+      "category": "Furniture",
+      "defname": "CA_ChemfuelStandingLamp",
+      "price": -10
+    },
+    {
+      "abr": "darklightchemfuelbrazier",
+      "category": "Furniture",
+      "defname": "CA_ChemfuelBrazierDark",
+      "price": -10
+    },
+    {
+      "abr": "darklightchemfuelsunlamp",
+      "category": "Furniture",
+      "defname": "CA_SunlampDark",
+      "price": -10
+    },
+    {
+      "abr": "genearchive",
+      "category": "Production",
+      "defname": "ThingGeneArchive",
+      "price": -10
+    },
+    {
+      "abr": "genemacroprocessor",
+      "category": "Production",
+      "defname": "ThingGeneMacroprocessor",
+      "price": -10
+    },
+    {
+      "abr": "generegister",
+      "category": "Production",
+      "defname": "ThingGeneRegister",
+      "price": -10
+    },
+    {
+      "abr": "genesubprocessor",
+      "category": "Production",
+      "defname": "ThingGeneSubprocessor",
+      "price": -10
+    },
+    {
+      "abr": "grill",
+      "category": "Production",
+      "defname": "CE_ChemfuelGrill",
+      "price": -10
+    },
+    {
+      "abr": "healthyfriedmeat",
+      "category": "Meals",
+      "defname": "CE_DeepFriedBigMeatNoBadHediff",
+      "price": 12
+    },
+    {
+      "abr": "healthyfriedvegetables",
+      "category": "Meals",
+      "defname": "CE_DeepFriedVegetablesNoBadHediff",
+      "price": 12
+    },
+    {
+      "abr": "highoutputpsychicsensitizer",
+      "category": "Bionic",
+      "defname": "PI_HOPS",
+      "price": 4842
+    },
+    {
+      "abr": "infinitedeepchemreactor",
+      "category": "Special",
+      "defname": "CA_InfiniteDeepchemPumpjack",
+      "price": -10
+    },
+    {
+      "abr": "neuralheatconpensationsystem",
+      "category": "Bionic",
+      "defname": "PI_NHCS",
+      "price": 5442
+    },
+    {
+      "abr": "neuralheatexternalcapacitor",
+      "category": "Bionic",
+      "defname": "PI_NHEC",
+      "price": 6342
+    },
+    {
+      "abr": "neuralheatradiatorarray",
+      "category": "Bionic",
+      "defname": "PI_NHRA",
+      "price": 6342
+    },
+    {
+      "abr": "neuralheatsafetyvalve",
+      "category": "Bionic",
+      "defname": "PI_NHSV",
+      "price": 900
+    },
+    {
+      "abr": "psychicfusioncore",
+      "category": "Bionic",
+      "defname": "PI_PFC",
+      "price": 13167
+    },
+    {
+      "abr": "psychicpassivator",
+      "category": "Bionic",
+      "defname": "PI_Passivator",
+      "price": 1667
+    },
+    {
+      "abr": "psyfocusreactcatalyst",
+      "category": "Bionic",
+      "defname": "PI_PRC",
+      "price": 3342
+    },
+    {
+      "abr": "psyfocusresistance",
+      "category": "Bionic",
+      "defname": "PI_Resistance",
+      "price": 5000
+    },
+    {
+      "abr": "targetingpsychicallydeafdevice",
+      "category": "Bionic",
+      "defname": "PI_TPDD",
+      "price": 2350
     }
   ],
-  "total": 3126
+  "total": 3162
 }

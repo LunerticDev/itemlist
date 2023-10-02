@@ -2930,7 +2930,7 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3170,10 +3170,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",

@@ -39,7 +39,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.8.2.0"
+    "version": "3.8.5.0"
   },
   {
     "author": "Kippetje2000",
@@ -114,7 +114,7 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Allie and Sarg",
+    "author": "Allie, Erin and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
@@ -789,7 +789,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.14.3.0"
+    "version": "1.14.5.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -1071,7 +1071,7 @@
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.9.0"
+    "version": "1.9.1"
   },
   {
     "author": "kathanon",
@@ -1095,7 +1095,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.8.0"
+    "version": "2.8.1"
   },
   {
     "author": "iamrespawn",
@@ -1488,12 +1488,6 @@
     "version": null
   },
   {
-    "author": "MysticFelines",
-    "name": "Simple FX: Smoke Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Simple FX: Splashes",
     "steamId": "2889330414",
@@ -1563,10 +1557,10 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1368"
+    "version": "1.5.1381"
   },
   {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
     "name": "Vanilla Vehicles Expanded",
     "steamId": "3014906877",
     "version": "1.0.0.0"
@@ -1797,7 +1791,7 @@
     "author": "Oskar Potocki, Taranchuk and Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.1"
+    "version": "1.4.1.0"
   },
   {
     "author": "Virstag",
@@ -2000,8 +1994,8 @@
   {
     "author": "Helixien",
     "name": "ReGrowth: Boiling",
-    "steamId": "2981924439",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -2202,8 +2196,56 @@
     "version": null
   },
   {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Prisoner Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio",
+    "name": "VE Outpost Addiction Fix",
+    "steamId": "3036683593",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "pphhyy",
     "name": "phynilla Expanded Mechs Scyther",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Log Publisher from HugsLib",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cedaro",
+    "name": "Psychic Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Oops All Gene Banks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Fungoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio",
+    "name": "Appliances Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MysticFelines",
+    "name": "Simple FX: Smoke Patches",
     "steamId": null,
     "version": null
   },
