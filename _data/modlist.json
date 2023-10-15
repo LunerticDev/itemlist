@@ -39,7 +39,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.8.5.0"
+    "version": "3.8.7.0"
   },
   {
     "author": "Kippetje2000",
@@ -291,7 +291,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.5.0"
+    "version": "1.6.6.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -369,7 +369,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.6.0.0"
+    "version": "2.6.1.0"
   },
   {
     "author": "Owlchemist",
@@ -531,12 +531,6 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
     "version": "1.0.0"
   },
   {
@@ -1994,8 +1988,8 @@
   {
     "author": "Helixien",
     "name": "ReGrowth: Boiling",
-    "steamId": null,
-    "version": null
+    "steamId": "2981924439",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -2221,7 +2215,7 @@
   },
   {
     "author": "cedaro",
-    "name": "Psychic Implants",
+    "name": "Psychic ♛ Implants",
     "steamId": null,
     "version": null
   },
@@ -2250,6 +2244,24 @@
     "version": null
   },
   {
+    "author": "Jaxe",
+    "name": "Pawn Rules (Continued)",
+    "steamId": "3024243615",
+    "version": "1.4.3"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -2266,11 +2278,5 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.1"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2421"
   }
 ]
