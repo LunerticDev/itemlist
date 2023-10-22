@@ -30,6 +30,24 @@
     "version": "10.0.1"
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.1"
+  },
+  {
     "author": "AgentBlac",
     "name": "1.4 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)",
     "steamId": null,
@@ -954,12 +972,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Bowen",
-    "name": "No Reasons To Avoid Mothballing(updated)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Canon",
     "name": "No Summon Mech Threat Gizmo",
     "steamId": "2889317343",
@@ -1006,12 +1018,6 @@
     "name": "Passable (and Hefty) Vanilla Chemfuel Expanded Buildings",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
   },
   {
     "author": "Helixien",
@@ -2256,27 +2262,15 @@
     "version": null
   },
   {
+    "author": "Bowen",
+    "name": "No Reasons To Avoid Mothballing(updated)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.1"
   }
 ]
