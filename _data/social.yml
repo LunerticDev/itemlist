@@ -28,7 +28,7 @@ tiktok:
 # Share button options
 share:
   facebook: 
-  twitter: true
+  twitter:
   tumblr: true
   pinterest:
   pocket:
