@@ -3472,13 +3472,13 @@
       "abr": "shardanimalpulser",
       "category": "Artifacts",
       "defname": "ShardAnimalPulser",
-      "price": 875
+      "price": -10
     },
     {
       "abr": "biomutationpulser",
       "category": "Artifacts",
       "defname": "BiomutationPulser",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "deadlifeshell",
@@ -3586,7 +3586,7 @@
       "abr": "deadlifepack",
       "category": "Utility",
       "defname": "Apparel_DeadlifePack",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "shardshocklance",
@@ -3604,7 +3604,7 @@
       "abr": "biomutationlance",
       "category": "Utility",
       "defname": "Apparel_BiomutationLance",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "labcoat",
@@ -5128,7 +5128,7 @@
       "abr": "cloningmechserum",
       "category": "Misc",
       "defname": "MechSerumCloner",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "flareshell",
@@ -18763,12 +18763,6 @@
       "price": -10
     },
     {
-      "abr": "cellularadapter",
-      "category": "Bionic",
-      "defname": "LTS_CellularAdapter",
-      "price": 1717
-    },
-    {
       "abr": "cellularstabilizer",
       "category": "Bionic",
       "defname": "Turn_CellStabilizer",
@@ -20387,7 +20381,655 @@
       "category": "Misc",
       "defname": "VFEI2_PherocoreXanides",
       "price": -10
+    },
+    {
+      "abr": "memorydatabank",
+      "category": "Bionic",
+      "defname": "LTS_MemoryDatabank",
+      "price": 1975
+    },
+    {
+      "abr": "psychicreaper",
+      "category": "Bionic",
+      "defname": "LTS_PsychicReaper",
+      "price": 875
+    },
+    {
+      "abr": "voidlink",
+      "category": "Bionic",
+      "defname": "LTS_Voidlink",
+      "price": 875
+    },
+    {
+      "abr": "ancientcashregister",
+      "category": "Container",
+      "defname": "AM_AncientCashRegister",
+      "price": -10
+    },
+    {
+      "abr": "ancientdismantlingtable",
+      "category": "Production",
+      "defname": "AM_AncientDismantlingWorkbench",
+      "price": -10
+    },
+    {
+      "abr": "ancientlargemilitarysuppliescase",
+      "category": "Container",
+      "defname": "AM_OldBigCase",
+      "price": -10
+    },
+    {
+      "abr": "ancientroadblocks",
+      "category": "Container",
+      "defname": "AM_AncientRoadblocks",
+      "price": -10
+    },
+    {
+      "abr": "ancientsmallmilitarycase",
+      "category": "Container",
+      "defname": "AM_OldSmallCase",
+      "price": -10
+    },
+    {
+      "abr": "ancientweaponcase",
+      "category": "Container",
+      "defname": "AM_OldWeaponCase",
+      "price": -10
+    },
+    {
+      "abr": "bigcase",
+      "category": "Container",
+      "defname": "AM_BigCase_Open_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "briefcase",
+      "category": "Container",
+      "defname": "AM_BriefCase_SalvagePoint",
+      "price": -10
+    },
+    {
+      "abr": "burgerpaperbag",
+      "category": "Container",
+      "defname": "AM_BurgerPaperBag",
+      "price": -10
+    },
+    {
+      "abr": "burgerpaperbox",
+      "category": "Container",
+      "defname": "AM_BurgerPaperBox",
+      "price": -10
+    },
+    {
+      "abr": "cardboardbox",
+      "category": "Container",
+      "defname": "AM_PaperBox_A_Open_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "cardboardbox",
+      "category": "Container",
+      "defname": "AM_PaperBox_B_Open_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "cardboardbox",
+      "category": "Container",
+      "defname": "AM_PaperBox_C_Open_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "cardboardbox",
+      "category": "Container",
+      "defname": "AM_PaperBox_A",
+      "price": -10
+    },
+    {
+      "abr": "cardboardbox",
+      "category": "Container",
+      "defname": "AM_PaperBox_B",
+      "price": -10
+    },
+    {
+      "abr": "cardboardbox",
+      "category": "Container",
+      "defname": "AM_PaperBox_C",
+      "price": -10
+    },
+    {
+      "abr": "clothesrack",
+      "category": "Container",
+      "defname": "AM_ClothesHanger",
+      "price": -10
+    },
+    {
+      "abr": "collapsedshelves",
+      "category": "Container",
+      "defname": "AM_DamagedEmptyShelves",
+      "price": -10
+    },
+    {
+      "abr": "computercase",
+      "category": "Container",
+      "defname": "AM_ComputerCase",
+      "price": -10
+    },
+    {
+      "abr": "concretebarrier",
+      "category": "Container",
+      "defname": "AM_Palisade",
+      "price": -10
+    },
+    {
+      "abr": "cone",
+      "category": "Container",
+      "defname": "AM_Cone",
+      "price": -10
+    },
+    {
+      "abr": "constructionsite",
+      "category": "Container",
+      "defname": "AM_ConstructionSite",
+      "price": -10
+    },
+    {
+      "abr": "diningchair",
+      "category": "Furniture",
+      "defname": "AM_DiningChair",
+      "price": -10
+    },
+    {
+      "abr": "emptyclotheshanger",
+      "category": "Container",
+      "defname": "AM_ClothesHangerEmpty_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "emptyshelves",
+      "category": "Container",
+      "defname": "AM_EmptyShelves_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "emptyvegetableshelf",
+      "category": "Container",
+      "defname": "AM_VegetableShelfEmpty_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "freezer",
+      "category": "Container",
+      "defname": "AM_Freezer",
+      "price": -10
+    },
+    {
+      "abr": "injectionstorageracks",
+      "category": "Container",
+      "defname": "AM_Injection_StorageRacks",
+      "price": -10
+    },
+    {
+      "abr": "integratedparasitearmor",
+      "category": "Bionic",
+      "defname": "AM_IntegratedTorsoArmor",
+      "price": 2000
+    },
+    {
+      "abr": "largebackpack",
+      "category": "Container",
+      "defname": "AM_LargeBackpack_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "largebackpack",
+      "category": "Container",
+      "defname": "AM_LargeBackpack",
+      "price": -10
+    },
+    {
+      "abr": "largemilitarysuppliescase",
+      "category": "Container",
+      "defname": "AM_BigCase",
+      "price": -10
+    },
+    {
+      "abr": "large-screentelevision",
+      "category": "Recreation",
+      "defname": "AM_LargeScreenTelevision",
+      "price": -10
+    },
+    {
+      "abr": "lbt",
+      "category": "Container",
+      "defname": "AM_LBT_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "lbt",
+      "category": "Container",
+      "defname": "AM_LBT",
+      "price": -10
+    },
+    {
+      "abr": "mallbench",
+      "category": "Container",
+      "defname": "AM_MallBench",
+      "price": -10
+    },
+    {
+      "abr": "mallpew",
+      "category": "Container",
+      "defname": "AM_MallPew",
+      "price": -10
+    },
+    {
+      "abr": "mallwoodenbench",
+      "category": "Container",
+      "defname": "AM_MallWoodenBench",
+      "price": -10
+    },
+    {
+      "abr": "mbss",
+      "category": "Container",
+      "defname": "AM_MBSS_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "mbss",
+      "category": "Container",
+      "defname": "AM_MBSS",
+      "price": -10
+    },
+    {
+      "abr": "medicalstorageracks",
+      "category": "Container",
+      "defname": "AM_MedicalSupplies_StorageRacks",
+      "price": -10
+    },
+    {
+      "abr": "militarystorageracks",
+      "category": "Container",
+      "defname": "AM_MilitarySupplies_StorageRacks",
+      "price": -10
+    },
+    {
+      "abr": "miscellaneousstorageracks",
+      "category": "Container",
+      "defname": "AM_TousledStorageRacks",
+      "price": -10
+    },
+    {
+      "abr": "modeldummy",
+      "category": "Container",
+      "defname": "AM_Model",
+      "price": -10
+    },
+    {
+      "abr": "modeldummy",
+      "category": "Container",
+      "defname": "AM_Modelf",
+      "price": -10
+    },
+    {
+      "abr": "oldfreezer",
+      "category": "Container",
+      "defname": "AM_OldFreezer_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "openedweaponcase",
+      "category": "Container",
+      "defname": "AM_WeaponCase_Open_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "openedweaponcase",
+      "category": "Container",
+      "defname": "AM_WeaponCaseLow",
+      "price": -10
+    },
+    {
+      "abr": "postmanshoulderbag",
+      "category": "Container",
+      "defname": "AM_PostmanShoulderBag_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "postmanshoulderbag",
+      "category": "Container",
+      "defname": "AM_PostmanShoulderBag",
+      "price": -10
+    },
+    {
+      "abr": "rampageparasite",
+      "category": "Bionic",
+      "defname": "AM_RampageParasite",
+      "price": 3667
+    },
+    {
+      "abr": "rustyemptyshelves",
+      "category": "Container",
+      "defname": "AM_RustyEmptyShelves_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "scavbag",
+      "category": "Container",
+      "defname": "AM_Scav_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "scavbag",
+      "category": "Container",
+      "defname": "AM_Scav",
+      "price": -10
+    },
+    {
+      "abr": "shoppingguidemap",
+      "category": "Container",
+      "defname": "AM_SmallShoppingGuideMapA",
+      "price": -10
+    },
+    {
+      "abr": "shoppingguidemap",
+      "category": "Container",
+      "defname": "AM_SmallShoppingGuideMapB",
+      "price": -10
+    },
+    {
+      "abr": "shoppingguidemap",
+      "category": "Container",
+      "defname": "AM_SmallShoppingGuideMapC",
+      "price": -10
+    },
+    {
+      "abr": "sicc",
+      "category": "Container",
+      "defname": "AM_SICC_SalvagePoint",
+      "price": -10
+    },
+    {
+      "abr": "slidesign",
+      "category": "Container",
+      "defname": "AM_SlideSign",
+      "price": -10
+    },
+    {
+      "abr": "smallcase",
+      "category": "Container",
+      "defname": "AM_SmallCase_Open_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "smallmilitarycasecase",
+      "category": "Container",
+      "defname": "AM_SmallCase",
+      "price": -10
+    },
+    {
+      "abr": "snackstorageracks",
+      "category": "Container",
+      "defname": "AM_Snack_StorageRacks",
+      "price": -10
+    },
+    {
+      "abr": "sportsbag",
+      "category": "Container",
+      "defname": "AM_SportsBag_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "sportsbag",
+      "category": "Container",
+      "defname": "AM_SportsBag",
+      "price": -10
+    },
+    {
+      "abr": "storageracks",
+      "category": "Container",
+      "defname": "AM_StorageRacks",
+      "price": -10
+    },
+    {
+      "abr": "travelbag",
+      "category": "Container",
+      "defname": "AM_TravelBag_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "travelbag",
+      "category": "Container",
+      "defname": "AM_TravelBag",
+      "price": -10
+    },
+    {
+      "abr": "vegetableshelf",
+      "category": "Container",
+      "defname": "AM_VegetableShelf",
+      "price": -10
+    },
+    {
+      "abr": "vendingmachine",
+      "category": "Container",
+      "defname": "AM_VendingMachine_Decoration",
+      "price": -10
+    },
+    {
+      "abr": "weaponcase",
+      "category": "Container",
+      "defname": "AM_WeaponCase",
+      "price": -10
+    },
+    {
+      "abr": "methadone",
+      "category": "Drugs",
+      "defname": "Methadone",
+      "price": 27
+    },
+    {
+      "abr": "firesuppressionsystem",
+      "category": "Bionic",
+      "defname": "LTS_FireSupressionSystem",
+      "price": 1383
+    },
+    {
+      "abr": "serketistslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_SerketistSlab_Broad",
+      "price": -10
+    },
+    {
+      "abr": "serketistslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_SerketistSlab_Medium",
+      "price": -10
+    },
+    {
+      "abr": "blackempress",
+      "category": "Animals",
+      "defname": "VFEI2_BlackEmpress",
+      "price": 3000
+    },
+    {
+      "abr": "blackinsectoidqueen",
+      "category": "Animals",
+      "defname": "VFEI2_BlackQueen",
+      "price": 2500
+    },
+    {
+      "abr": "blackpherocore",
+      "category": "Misc",
+      "defname": "VFEI2_PherocoreBlack",
+      "price": -10
+    },
+    {
+      "abr": "blackswarmlings",
+      "category": "Animals",
+      "defname": "VFEI2_BlackSwarmling",
+      "price": 83
+    },
+    {
+      "abr": "darkglowpod",
+      "category": "Special",
+      "defname": "AA_DarkGlowPod",
+      "price": -10
+    },
+    {
+      "abr": "electricfish",
+      "category": "Animals",
+      "defname": "SW_Electricfish",
+      "price": 333
+    },
+    {
+      "abr": "electricgryllotalpa",
+      "category": "Animals",
+      "defname": "SW_Electricgryllotalpa",
+      "price": 833
+    },
+    {
+      "abr": "electrictick",
+      "category": "Animals",
+      "defname": "SW_Electrictick",
+      "price": 167
+    },
+    {
+      "abr": "emperorisopod",
+      "category": "Animals",
+      "defname": "SW_Emperorisopod",
+      "price": 3000
+    },
+    {
+      "abr": "freezepod",
+      "category": "Special",
+      "defname": "AA_FreezePod",
+      "price": -10
+    },
+    {
+      "abr": "grenadierworm",
+      "category": "Animals",
+      "defname": "SW_Grenadierworm",
+      "price": 1083
+    },
+    {
+      "abr": "isopodapherocore",
+      "category": "Misc",
+      "defname": "VFEI2_IsopodaNuchadus",
+      "price": -10
+    },
+    {
+      "abr": "juggernautbeetles",
+      "category": "Animals",
+      "defname": "SW_Juggernautbeetles",
+      "price": 2500
+    },
+    {
+      "abr": "largedarkglowpod",
+      "category": "Special",
+      "defname": "AA_DarkLargeGlowPod",
+      "price": -10
+    },
+    {
+      "abr": "ballisticglass",
+      "category": "Manufactured",
+      "defname": "RB_BallisticGlass",
+      "price": 17
+    },
+    {
+      "abr": "bigpie",
+      "category": "Misc",
+      "defname": "AE_BakingPies",
+      "price": -10
+    },
+    {
+      "abr": "bingingfoodserum",
+      "category": "Drugs",
+      "defname": "AEBingingFoodSerum",
+      "price": 25
+    },
+    {
+      "abr": "giantapple",
+      "category": "Misc",
+      "defname": "AE_ForbiddenFruit",
+      "price": -10
+    },
+    {
+      "abr": "giantappleinhibitorserum",
+      "category": "Drugs",
+      "defname": "AEFruitInhibitorSerum",
+      "price": 58
+    },
+    {
+      "abr": "glass",
+      "category": "Manufactured",
+      "defname": "RB_Glass",
+      "price": 3
+    },
+    {
+      "abr": "grinderjaw",
+      "category": "Anomaly",
+      "defname": "AEGrinderJaw",
+      "price": 375
+    },
+    {
+      "abr": "grinderstomach",
+      "category": "Anomaly",
+      "defname": "AEGrinderStomach",
+      "price": 342
+    },
+    {
+      "abr": "industrialmetalbox",
+      "category": "Furniture",
+      "defname": "AE_MeatGrinder",
+      "price": -10
+    },
+    {
+      "abr": "isopodaglowpod",
+      "category": "Special",
+      "defname": "VFEI2_IsopodaGlowPod",
+      "price": -10
+    },
+    {
+      "abr": "ordinarybed",
+      "category": "Furniture",
+      "defname": "AE_AnomalyBed",
+      "price": -10
+    },
+    {
+      "abr": "ordinaryhospitalbed",
+      "category": "Furniture",
+      "defname": "AE_AnomalyHospitalBed",
+      "price": -10
+    },
+    {
+      "abr": "pieceofpie",
+      "category": "Meals",
+      "defname": "AE_BakingPiesPiece",
+      "price": 20
+    },
+    {
+      "abr": "preciseorbitalbeamtargeter",
+      "category": "Utility",
+      "defname": "AEOrbitalBeamTargeter",
+      "price": -10
+    },
+    {
+      "abr": "regenserum",
+      "category": "Drugs",
+      "defname": "AERegenSerum",
+      "price": 125
+    },
+    {
+      "abr": "sleepenhancerserum",
+      "category": "Drugs",
+      "defname": "AESleepEnhancerSerum",
+      "price": 100
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": -10
     }
   ],
-  "total": 3398
+  "total": 3505
 }
