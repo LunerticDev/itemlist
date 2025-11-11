@@ -87,8 +87,8 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
+		"price": 1500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "animaltame",
@@ -192,7 +192,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -247,7 +247,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -276,28 +276,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reviveall",
-		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
@@ -396,5 +376,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 75
 }
