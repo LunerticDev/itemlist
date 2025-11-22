@@ -108,6 +108,12 @@
     "version": "1.6.1"
   },
   {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "3521312241",
+    "version": "1.6+7e77b7fdba2daa472a5b7c2b35ac17c149dffa99"
+  },
+  {
     "author": "Nalzurin",
     "name": "Better Distress Call",
     "steamId": "3305489753",
@@ -639,7 +645,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "",
-    "version": "1.0.0+c40d4f72c2e27be8eea2882aa2c6ac4c0319e563"
+    "version": "1.0.0+476a2f7c81c74501143a0aa8b7af87935335d09e"
   },
   {
     "author": "Owlchemist",
@@ -766,5 +772,59 @@
     "name": "Toolkit - Channel Points 2.0e ",
     "steamId": "3240408211",
     "version": "2.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Reminders",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Leo39994",
+    "name": "Clean Research Sort",
+    "steamId": "3566639513",
+    "version": "1.0.0"
+  },
+  {
+    "author": "MSWS",
+    "name": "HoldFireIndicator",
+    "steamId": "3531007648",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Tunnelers ARE deep drills",
+    "steamId": "3521193199",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Stockpile Ranking - Continued",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DanceNinja",
+    "name": "Lifter Plz Do More Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Eaves (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Espio Idsavant",
+    "name": "Popup Alerts for Condition Ending",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Smart Odyssey",
+    "steamId": "3522762411",
+    "version": "1.0.0.0"
   }
 ]
